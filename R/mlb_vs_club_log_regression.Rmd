@@ -1,0 +1,137 @@
+---
+title: "Baseball Level Analysis"
+author: "Jaden Thomas"
+date: "2024-02-05"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Problem Description
+To be able to determine what level of baseball a player plays at by the individuals height and weight, a logistic regression model is fit.
+
+The model formula is:
+
+$$p(X)=\frac{e^{\beta_0+\beta_1HT_i+\beta_2WT_i}}{1+e^{\beta_0+HT_i+WT_i}}; i=1,...,n$$
+Or,
+$$\log(\frac{p(X)}{1-p(X)})=\beta_0+\beta_1HT_i+\beta_2WT_i; i=1,...n$$
+
+Where HT is in inches, WT is in lbs, and the two classes are MLB and Club, with MLB labeled as 1 and Club baseball labeled as 0.
+
+# Import Necessary Packages
+```{r, warning=F, message=F}
+library(tidyverse)
+library(ggthemes)
+library(verification)
+```
+
+# Set Seed
+```{r}
+set.seed(2024)
+```
+
+# Import Datasets
+```{r, message=F}
+mlb_2023 <- read_csv("mlbBaseballPlayers_2023.csv")
+club_2024 <- read_csv("clubBaseballPlayers_2024.csv")
+
+```
+
+# Format Data
+```{r}
+club_2024 <- club_2024 %>% 
+  mutate(Age=(year(Sys.Date())-year(as.Date(paste0("01/", club_2024$DOB), format="%d/%m/%Y"))),
+         POS=str_split_i(POS, pattern=" / ", i=1)) %>% 
+  rename(BAT=Bats, THW=Throws)
+full <- bind_rows(mlb_2023, club_2024)
+sub <- full %>% dplyr::select(fname, lname, Age, HT, WT, city, state, POS, Team, League) %>% 
+  mutate(League=as.factor(League)) %>% mutate(MLB=(League=="MLB"))
+```
+
+# EDA
+```{r}
+ggplot(sub, aes(x=WT, y=HT)) +
+  geom_point(aes(color=League)) +
+  labs(title="Height and Weight of Players by League", x="Weight in lbs",
+       y="Height in inches") +
+  theme_economist()
+
+sub %>% ggplot(aes(x=Age, y=League)) +
+  geom_boxplot(fill="#e63946") +
+  theme_economist() +
+  labs(title="Player Age by League", x="Age")
+
+sub %>% ggplot(aes(x=HT, y=League)) +
+  geom_boxplot(fill="#e63946") +
+  theme_economist() +
+  labs(title="Player Height by League", x="Height")
+
+sub %>% ggplot(aes(x=WT, y=League)) +
+  geom_boxplot(fill="#e63946") +
+  theme_economist() +
+  labs(title="Player Weight by League", x="Weight")
+```
+
+```{r}
+summary(sub)
+sub %>% group_by(League) %>% summarise(meanHT=mean(HT), meanWT=mean(WT), meanAGE=mean(Age), n=n())
+```
+
+As seen by the graphs and numerical summary, the average height and weight for MLB players seems to be higher than that of Club baseball players.
+
+
+# Logistic Regression Model
+
+## Train Test Split
+
+```{r}
+train <- sample(c(TRUE, FALSE), nrow(sub), replace=T, prob=c(0.7, 0.3))
+sub.train <- sub[train,]
+sub.test <- sub[!train,]
+Y.test <- sub.test$MLB
+```
+
+
+## Model Fitting
+
+```{r}
+m.fit <- glm(MLB~HT+WT, data=sub.train, family="binomial")
+```
+
+
+## Model Summary
+
+```{r}
+summary(m.fit)
+plot(m.fit)
+```
+
+The fitted model is $\hat{p_i}=logit(-19.109369+0.136833*HT_i+0.047340*WT_i); i=1,...,n$. Both predictors HT and WT are significant also with the null hypothesis $H_0:\beta_i=0$ being rejected for all i=(1,2,3).
+
+## Model Prediction
+
+```{r}
+# T means that, yes the individual is in the MLB
+m.probs <- predict(m.fit, sub.test, type="response") 
+m.pred <- rep(F, length(m.probs))
+m.pred[m.probs>.5] <- T
+```
+
+
+## Model Evaluation
+
+```{r}
+table(m.pred, Y.test, dnn=c("Predicted MLB", "Actual MLB"))
+mean(m.pred==Y.test)
+
+roc.plot(x=as.numeric(Y.test), pred=as.numeric(m.pred), main="ROC curve for MLB Classifcation", plot.thres = NULL)
+```
+
+
+The model performs with a 79.43925% accuracy, a sensitivity of 77.211796% and a specificity of 81.648936.
+
+## Conclusion
+
+As the prediction results from the logistic regression show, predicting the level at which an individual play baseball at, either MLB or Club, can be done at a relatively high rate with just the height and weight of the players as independent variables using logistic regression.

@@ -1,0 +1,2464 @@
+fname,lname,Age,HT,WT,city,state,POS,Team,League,MLB
+Keegan,Akin,28,72,240,Alma,MI,RP,Baltimore Orioles,MLB,TRUE
+Bryan,Baker,29,78,235,Fort Walton Beach,FL,RP,Baltimore Orioles,MLB,TRUE
+Mike,Baumann,28,76,240,Mahtomedi,MN,RP,Baltimore Orioles,MLB,TRUE
+Felix,Bautista,28,80,285,Santo Domingo,Dominican Republic,RP,Baltimore Orioles,MLB,TRUE
+Kyle,Bradish,27,75,215,Peoria,AZ,SP,Baltimore Orioles,MLB,TRUE
+Yennier,Cano,29,76,245,Havana,Cuba,RP,Baltimore Orioles,MLB,TRUE
+Danny,Coulombe,34,70,190,St. Louis,MO,RP,Baltimore Orioles,MLB,TRUE
+Tucker,Davidson,27,74,215,Amarillo,TX,RP,Baltimore Orioles,MLB,TRUE
+DL,Hall,25,74,210,Valdosta,GA,RP,Baltimore Orioles,MLB,TRUE
+Jonathan,Heasley,26,75,225,Plano,TX,RP,Baltimore Orioles,MLB,TRUE
+Cole,Irvin,29,76,225,Anaheim,CA,SP,Baltimore Orioles,MLB,TRUE
+Seth,Johnson,25,73,205,Concord,NC,SP,Baltimore Orioles,MLB,TRUE
+Craig,Kimbrel,35,72,215,Huntsville,AL,RP,Baltimore Orioles,MLB,TRUE
+Dean,Kremer,28,74,210,Stockton,CA,SP,Baltimore Orioles,MLB,TRUE
+John,Means,30,76,230,Olathe,KS,SP,Baltimore Orioles,MLB,TRUE
+Cionel,Perez,27,72,175,Matanzas,Cuba,RP,Baltimore Orioles,MLB,TRUE
+Grayson,Rodriguez,24,77,230,Houston,TX,SP,Baltimore Orioles,MLB,TRUE
+Dillon,Tate,29,74,190,Harbor City,CA,RP,Baltimore Orioles,MLB,TRUE
+Nick,Vespi,28,75,235,Miami,FL,RP,Baltimore Orioles,MLB,TRUE
+Jacob,Webb,30,74,210,Riverside,CA,RP,Baltimore Orioles,MLB,TRUE
+Tyler,Wells,29,80,260,Tulsa,OK,SP,Baltimore Orioles,MLB,TRUE
+Bruce,Zimmermann,28,73,220,Baltimore,MD,RP,Baltimore Orioles,MLB,TRUE
+James,McCann,33,75,235,Santa Barbara,CA,C,Baltimore Orioles,MLB,TRUE
+Adley,Rutschman,25,74,230,Portland,OR,C,Baltimore Orioles,MLB,TRUE
+Gunnar,Henderson,22,75,220,Montgomery,AL,3B,Baltimore Orioles,MLB,TRUE
+Jorge,Mateo,28,73,200,Santo Domingo,Dominican Republic,SS,Baltimore Orioles,MLB,TRUE
+Ryan,Mountcastle,26,76,220,Winter Springs,FL,1B,Baltimore Orioles,MLB,TRUE
+Tyler,Nevin,26,76,225,Poway,CA,3B,Baltimore Orioles,MLB,TRUE
+Ryan,O'Hearn,30,75,220,Dunedin,FL,1B,Baltimore Orioles,MLB,TRUE
+Joey,Ortiz,25,69,190,Garden Grove,CA,2B,Baltimore Orioles,MLB,TRUE
+Ramon,Urias,29,70,185,Sonora,Mexico,3B,Baltimore Orioles,MLB,TRUE
+Jordan,Westburg,24,74,210,New Braunfels,TX,2B,Baltimore Orioles,MLB,TRUE
+Colton,Cowser,23,74,220,Houston,TX,CF,Baltimore Orioles,MLB,TRUE
+Austin,Hays,28,71,200,Daytona Beach,FL,LF,Baltimore Orioles,MLB,TRUE
+Sam,Hilliard,29,77,236,Mansfield,TX,CF,Baltimore Orioles,MLB,TRUE
+Heston,Kjerstad,24,75,205,Amarillo,TX,RF,Baltimore Orioles,MLB,TRUE
+Ryan,McKenna,26,71,195,Grants Pass,OR,CF,Baltimore Orioles,MLB,TRUE
+Cedric,Mullins,29,69,175,Greensboro,NC,CF,Baltimore Orioles,MLB,TRUE
+Anthony,Santander,29,74,230,Margarita Island,Venezuela,RF,Baltimore Orioles,MLB,TRUE
+Kyle,Stowers,26,75,215,El Cajon,CA,LF,Baltimore Orioles,MLB,TRUE
+Terrin,Vavra,26,72,185,Menomonie,WI,RF,Baltimore Orioles,MLB,TRUE
+Brayan,Bello,24,73,195,Santa Barbara de Samana,Dominican Republic,SP,Boston Red Sox,MLB,TRUE
+Brennan,Bernardino,32,76,180,Valencia,CA,RP,Boston Red Sox,MLB,TRUE
+Isaiah,Campbell,26,76,230,Porto,Portugal,RP,Boston Red Sox,MLB,TRUE
+Max,Castillo,24,74,280,Caracas,Venezuela,RP,Boston Red Sox,MLB,TRUE
+Kutter,Crawford,27,73,195,Okeechobee,FL,SP,Boston Red Sox,MLB,TRUE
+Cooper,Criswell,27,78,200,Carrollton,GA,RP,Boston Red Sox,MLB,TRUE
+Lucas,Giolito,29,78,245,Santa Monica,CA,SP,Boston Red Sox,MLB,TRUE
+Wilkelman,Gonzalez,21,72,167,Maracay,Venezuela,SP,Boston Red Sox,MLB,TRUE
+Tanner,Houck,27,77,226,St. Louis,MO,SP,Boston Red Sox,MLB,TRUE
+Joe,Jacques,28,76,210,Shrewsbury,NJ,RP,Boston Red Sox,MLB,TRUE
+Kenley,Jansen,36,77,265,Willemstad,Curacao,RP,Boston Red Sox,MLB,TRUE
+Zack,Kelly,28,75,231,Roanoke,VA,RP,Boston Red Sox,MLB,TRUE
+Chris,Martin,37,80,224,Arlington,TX,RP,Boston Red Sox,MLB,TRUE
+Bryan,Mata,24,75,223,Maracay,Venezuela,SP,Boston Red Sox,MLB,TRUE
+Chris,Murphy,25,73,186,Mission Hills,CA,RP,Boston Red Sox,MLB,TRUE
+Luis,Perales,20,73,160,Guacara,Venezuela,SP,Boston Red Sox,MLB,TRUE
+Nick,Pivetta,30,77,210,Victoria,Canada,RP,Boston Red Sox,MLB,TRUE
+John,Schreiber,29,74,224,Wyandotte,MI,RP,Boston Red Sox,MLB,TRUE
+Justin,Slaten,26,76,222,Longview,TX,SP,Boston Red Sox,MLB,TRUE
+Brandon,Walter,27,74,201,New Castle,DE,RP,Boston Red Sox,MLB,TRUE
+Zack,Weiss,31,75,210,Irvine,CA,RP,Boston Red Sox,MLB,TRUE
+Greg,Weissert,28,74,235,Bay Shore,NY,RP,Boston Red Sox,MLB,TRUE
+Garrett,Whitlock,27,77,222,Snellville,GA,SP,Boston Red Sox,MLB,TRUE
+Josh,Winckowski,25,76,215,Toledo,OH,RP,Boston Red Sox,MLB,TRUE
+Reese,McGuire,28,72,233,Seattle,WA,C,Boston Red Sox,MLB,TRUE
+Connor,Wong,27,73,190,Houston,TX,C,Boston Red Sox,MLB,TRUE
+Triston,Casas,24,77,244,Miami,FL,1B,Boston Red Sox,MLB,TRUE
+Bobby,Dalbec,28,76,225,Seattle,WA,1B,Boston Red Sox,MLB,TRUE
+Rafael,Devers,27,72,235,Sanchez,Dominican Republic,3B,Boston Red Sox,MLB,TRUE
+Vaughn,Grissom,23,74,210,Orlando,FL,SS,Boston Red Sox,MLB,TRUE
+David,Hamilton,26,70,188,San Marcos,TX,SS,Boston Red Sox,MLB,TRUE
+Pablo,Reyes,30,68,175,Santo Domingo,Dominican Republic,SS,Boston Red Sox,MLB,TRUE
+Trevor,Story,31,74,209,Irving,TX,SS,Boston Red Sox,MLB,TRUE
+Enmanuel,Valdez,25,68,191,San Juan de la Maguana,Dominican Republic,2B,Boston Red Sox,MLB,TRUE
+Wilyer,Abreu,24,70,215,Maracaibo,Venezuela,RF,Boston Red Sox,MLB,TRUE
+Jarren,Duran,27,74,205,Corona,CA,CF,Boston Red Sox,MLB,TRUE
+Tyler,O'Neill,28,71,200,Burnaby,Canada,LF,Boston Red Sox,MLB,TRUE
+Ceddanne,Rafaela,23,69,165,Willemstad,Curacao,OF,Boston Red Sox,MLB,TRUE
+Rob,Refsnyder,32,72,203,Seoul,South Korea,LF,Boston Red Sox,MLB,TRUE
+Masataka,Yoshida,30,68,192,Fukui,Japan,LF,Boston Red Sox,MLB,TRUE
+Yedrinson,Aguilera,20,71,165,Caracas,Venezuela,RP,New York Yankees,MLB,TRUE
+Clayton,Beeter,25,74,220,Fort Worth,TX,RP,New York Yankees,MLB,TRUE
+Gerrit,Cole,33,76,220,Newport Beach,CA,SP,New York Yankees,MLB,TRUE
+Nestor,Cortes,29,71,210,San Jose de las Lajas,Cuba,SP,New York Yankees,MLB,TRUE
+Scott,Effross,30,74,202,Twinsburg,OH,RP,New York Yankees,MLB,TRUE
+Luis,Gil,25,74,185,Azua Province,Dominican Republic,SP,New York Yankees,MLB,TRUE
+Yoendrys,Gomez,24,75,212,Nirgua,Venezuela,RP,New York Yankees,MLB,TRUE
+Victor,Gonzalez,28,72,180,Veracruz,Mexico,RP,New York Yankees,MLB,TRUE
+Ian,Hamilton,28,73,200,Dover,NH,RP,New York Yankees,MLB,TRUE
+Clay,Holmes,30,77,245,Dothan,AL,RP,New York Yankees,MLB,TRUE
+Tommy,Kahnle,34,73,230,Latham,NY,RP,New York Yankees,MLB,TRUE
+Matt,Krook,29,76,225,Hillsborough,CA,RP,New York Yankees,MLB,TRUE
+Jonathan,Loaisiga,29,71,165,Managua,Nicaragua,RP,New York Yankees,MLB,TRUE
+Ron,Marinaccio,28,74,205,Toms River,NJ,RP,New York Yankees,MLB,TRUE
+Cody,Morris,27,76,205,Columbia,MD,RP,New York Yankees,MLB,TRUE
+Cody,Poteet,29,73,190,San Diego,CA,RP,New York Yankees,MLB,TRUE
+Nick,Ramirez,34,76,232,Anaheim Hills,CA,RP,New York Yankees,MLB,TRUE
+Carlos,Rodon,31,74,255,Miami,FL,SP,New York Yankees,MLB,TRUE
+Clarke,Schmidt,27,73,200,Acworth,GA,SP,New York Yankees,MLB,TRUE
+Marcus,Stroman,32,67,180,Medford,NY,SP,New York Yankees,MLB,TRUE
+Luke,Weaver,30,74,183,DeLand,FL,SP,New York Yankees,MLB,TRUE
+Carlos,Narvaez,25,71,190,Maracay,Venezuela,C,New York Yankees,MLB,TRUE
+Agustin,Ramirez,22,72,210,Santo Domingo,Dominican Republic,C,New York Yankees,MLB,TRUE
+Ben,Rortvedt,26,69,191,Madison,WI,C,New York Yankees,MLB,TRUE
+Jose,Trevino,31,70,215,Corpus Christi,TX,C,New York Yankees,MLB,TRUE
+Austin,Wells,24,74,220,Scottsdale,AZ,C,New York Yankees,MLB,TRUE
+Diego,Castillo,26,70,185,Barquisimeto,Venezuela,SS,New York Yankees,MLB,TRUE
+Jeter,Downs,25,71,197,San Andres,Colombia,2B,New York Yankees,MLB,TRUE
+DJ,LeMahieu,35,76,220,Visalia,CA,3B,New York Yankees,MLB,TRUE
+Oswald,Peraza,23,72,200,Barquisimeto,Venezuela,3B,New York Yankees,MLB,TRUE
+Anthony,Rizzo,34,75,240,Parkland,FL,1B,New York Yankees,MLB,TRUE
+Gleyber,Torres,27,73,205,Caracas,Venezuela,2B,New York Yankees,MLB,TRUE
+Jorbit,Vivas,22,70,171,Puerto Cabello,Venezuela,2B,New York Yankees,MLB,TRUE
+Anthony,Volpe,22,69,180,New York,NY,SS,New York Yankees,MLB,TRUE
+Oswaldo,Cabrera,24,71,200,Guarenas,Venezuela,LF,New York Yankees,MLB,TRUE
+Jasson,Dominguez,20,69,190,Esperanza,Dominican Republic,CF,New York Yankees,MLB,TRUE
+Trent,Grisham,27,71,224,Burleson,TX,CF,New York Yankees,MLB,TRUE
+Aaron,Judge,31,79,282,Linden,CA,RF,New York Yankees,MLB,TRUE
+Everson,Pereira,22,71,191,Cabudare,Venezuela,CF,New York Yankees,MLB,TRUE
+Juan,Soto,25,74,224,Santo Domingo,Dominican Republic,LF,New York Yankees,MLB,TRUE
+Alex,Verdugo,27,72,209,Tucson,AZ,RF,New York Yankees,MLB,TRUE
+Giancarlo,Stanton,34,78,245,Panorama City,CA,DH,New York Yankees,MLB,TRUE
+Jason,Adam,32,75,229,Omaha,NE,RP,Tampa Bay Rays,MLB,TRUE
+Tyler,Alexander,29,74,203,Chicago,IL,RP,Tampa Bay Rays,MLB,TRUE
+Shawn,Armstrong,33,74,225,New Bern,NC,RP,Tampa Bay Rays,MLB,TRUE
+Shane,Baz,24,74,190,Houston,TX,SP,Tampa Bay Rays,MLB,TRUE
+Taj,Bradley,22,74,190,Los Angeles,CA,SP,Tampa Bay Rays,MLB,TRUE
+Aaron,Civale,28,74,215,East Windsor,CT,SP,Tampa Bay Rays,MLB,TRUE
+Garrett,Cleavinger,29,73,220,Lawrence,KS,RP,Tampa Bay Rays,MLB,TRUE
+Yoniel,Curet,21,74,190,San Pedro de Macoris,Dominican Republic,SP,Tampa Bay Rays,MLB,TRUE
+Chris,Devenski,33,75,211,Cerritos,CA,RP,Tampa Bay Rays,MLB,TRUE
+Zach,Eflin,29,78,220,Orlando,FL,SP,Tampa Bay Rays,MLB,TRUE
+Pete,Fairbanks,30,78,225,Milwaukee,WI,RP,Tampa Bay Rays,MLB,TRUE
+Kevin,Kelly,26,74,200,Springfield,VA,RP,Tampa Bay Rays,MLB,TRUE
+Zack,Littell,28,76,220,Burlington,NC,RP,Tampa Bay Rays,MLB,TRUE
+Jacob,Lopez,25,76,220,Granada Hills,CA,SP,Tampa Bay Rays,MLB,TRUE
+Shane,McClanahan,26,73,200,Baltimore,MD,SP,Tampa Bay Rays,MLB,TRUE
+Ryan,Pepiot,26,75,215,Indianapolis,IN,SP,Tampa Bay Rays,MLB,TRUE
+Colin,Poche,30,75,225,Flower Mound,TX,RP,Tampa Bay Rays,MLB,TRUE
+Drew,Rasmussen,28,73,211,Puyallup,WA,SP,Tampa Bay Rays,MLB,TRUE
+Manuel,Rodriguez,27,71,210,Yucatan,Mexico,RP,Tampa Bay Rays,MLB,TRUE
+Jeffrey,Springs,31,75,218,Belmont,NC,SP,Tampa Bay Rays,MLB,TRUE
+Colby,White,25,72,190,Hattiesburg,MS,RP,Tampa Bay Rays,MLB,TRUE
+Rene,Pinto,27,70,195,Maracay,Venezuela,C,Tampa Bay Rays,MLB,TRUE
+Jonathan,Aranda,25,72,210,Baja California,Mexico,2B,Tampa Bay Rays,MLB,TRUE
+Osleivis,Basabe,23,71,188,Bobures,Venezuela,SS,Tampa Bay Rays,MLB,TRUE
+Jose,Caballero,27,69,185,Las Tablas,Panama,2B,Tampa Bay Rays,MLB,TRUE
+Junior,Caminero,20,73,157,Santo Domingo,Dominican Republic,SS,Tampa Bay Rays,MLB,TRUE
+Yandy,Diaz,32,74,215,Villa Clara,Cuba,1B,Tampa Bay Rays,MLB,TRUE
+Wander,Franco,22,70,189,Bani,Dominican Republic,SS,Tampa Bay Rays,MLB,TRUE
+Greg,Jones,25,74,175,Cary,NC,SS,Tampa Bay Rays,MLB,TRUE
+Brandon,Lowe,29,70,185,Suffolk,VA,2B,Tampa Bay Rays,MLB,TRUE
+Curtis,Mead,23,72,171,Adelaide,Australia,2B,Tampa Bay Rays,MLB,TRUE
+Isaac,Paredes,24,71,213,Sonora,Mexico,3B,Tampa Bay Rays,MLB,TRUE
+Austin,Shenton,26,72,205,Spokane,WA,1B,Tampa Bay Rays,MLB,TRUE
+Taylor,Walls,27,70,185,Cordele,GA,3B,Tampa Bay Rays,MLB,TRUE
+Randy,Arozarena,28,71,185,Havana,Cuba,LF,Tampa Bay Rays,MLB,TRUE
+Jonny,Deluca,25,72,200,Thousand Oaks,CA,LF,Tampa Bay Rays,MLB,TRUE
+Josh,Lowe,25,76,205,Chesapeake,VA,RF,Tampa Bay Rays,MLB,TRUE
+Richie,Palacios,26,70,180,Brooklyn,NY,OF,Tampa Bay Rays,MLB,TRUE
+Jose,Siri,28,74,175,Sabana Grande de Boya,Dominican Republic,CF,Tampa Bay Rays,MLB,TRUE
+Raimel,Tapia,29,75,178,San Pedro de Macoris,Dominican Republic,RF,Tampa Bay Rays,MLB,TRUE
+Harold,Ramirez,29,70,232,Cartagena,Colombia,DH,Tampa Bay Rays,MLB,TRUE
+Chris,Bassitt,34,77,217,Toledo,OH,SP,Toronto Blue Jays,MLB,TRUE
+Jose,Berrios,29,72,205,Bayamon,Puerto Rico,SP,Toronto Blue Jays,MLB,TRUE
+Genesis,Cabrera,27,74,180,Santo Domingo,Dominican Republic,RP,Toronto Blue Jays,MLB,TRUE
+Hagen,Danner,25,73,215,Newport Beach,CA,RP,Toronto Blue Jays,MLB,TRUE
+Bowden,Francis,27,77,220,Tallahassee,FL,RP,Toronto Blue Jays,MLB,TRUE
+Yimi,Garcia,33,73,230,Moca,Dominican Republic,RP,Toronto Blue Jays,MLB,TRUE
+Kevin,Gausman,33,74,205,Centennial,CO,SP,Toronto Blue Jays,MLB,TRUE
+Chad,Green,32,75,215,Greenville,SC,RP,Toronto Blue Jays,MLB,TRUE
+Yusei,Kikuchi,32,72,210,Iwate,Japan,SP,Toronto Blue Jays,MLB,TRUE
+Brendon,Little,27,74,195,Bryn Mawr,PA,SP,Toronto Blue Jays,MLB,TRUE
+Adam,Macko,23,72,170,Bratislava,Slovakia,SP,Toronto Blue Jays,MLB,TRUE
+Alek,Manoah,26,78,285,Homestead,FL,SP,Toronto Blue Jays,MLB,TRUE
+Tim,Mayza,32,75,215,Allentown,PA,RP,Toronto Blue Jays,MLB,TRUE
+Wes,Parsons,31,77,206,Clarksville,TN,RP,Toronto Blue Jays,MLB,TRUE
+Nate,Pearson,27,78,255,Odessa,FL,RP,Toronto Blue Jays,MLB,TRUE
+Zach,Pop,27,76,220,Brampton,Canada,RP,Toronto Blue Jays,MLB,TRUE
+Trevor,Richards,30,74,205,Aviston,IL,RP,Toronto Blue Jays,MLB,TRUE
+Jordan,Romano,30,77,210,Markham,Canada,RP,Toronto Blue Jays,MLB,TRUE
+Erik,Swanson,30,75,225,Fargo,ND,RP,Toronto Blue Jays,MLB,TRUE
+Mitch,White,29,75,210,San Jose,CA,RP,Toronto Blue Jays,MLB,TRUE
+Yosver,Zulueta,26,73,190,Remedios,Cuba,SP,Toronto Blue Jays,MLB,TRUE
+Danny,Jansen,28,74,215,Elmhurst,IL,C,Toronto Blue Jays,MLB,TRUE
+Alejandro,Kirk,25,68,245,Tijuana,Mexico,C,Toronto Blue Jays,MLB,TRUE
+Brian,Serven,28,72,207,Palm Desert,CA,C,Toronto Blue Jays,MLB,TRUE
+Addison,Barger,24,72,210,Bellevue,WA,3B,Toronto Blue Jays,MLB,TRUE
+Bo,Bichette,25,72,190,Orlando,FL,SS,Toronto Blue Jays,MLB,TRUE
+Cavan,Biggio,28,74,200,Houston,TX,2B,Toronto Blue Jays,MLB,TRUE
+Ernie,Clement,27,72,170,Rochester,NY,2B,Toronto Blue Jays,MLB,TRUE
+Santiago,Espinal,29,70,185,Santiago,Dominican Republic,2B,Toronto Blue Jays,MLB,TRUE
+Vladimir,Guerrero,24,74,245,Montreal,Canada,1B,Toronto Blue Jays,MLB,TRUE
+Spencer,Horwitz,26,70,190,Timonium,MD,1B,Toronto Blue Jays,MLB,TRUE
+Leo,Jimenez,22,70,215,Chitre,Panama,SS,Toronto Blue Jays,MLB,TRUE
+Otto,Lopez,25,70,185,Santo Domingo,Dominican Republic,SS,Toronto Blue Jays,MLB,TRUE
+Orelvis,Martinez,22,71,200,Santo Domingo,Dominican Republic,SS,Toronto Blue Jays,MLB,TRUE
+Davis,Schneider,24,69,190,Berlin,NJ,2B,Toronto Blue Jays,MLB,TRUE
+Cam,Eden,25,73,205,Yuba City,CA,CF,Toronto Blue Jays,MLB,TRUE
+Kevin,Kiermaier,33,73,210,Fort Wayne,IN,CF,Toronto Blue Jays,MLB,TRUE
+Isiah,Kiner-Falefa,28,71,190,Honolulu,HI,OF,Toronto Blue Jays,MLB,TRUE
+Nathan,Lukes,29,71,180,Sacramento,CA,RF,Toronto Blue Jays,MLB,TRUE
+George,Springer,34,75,220,New Britain,CT,RF,Toronto Blue Jays,MLB,TRUE
+Daulton,Varsho,27,70,207,Marshfield,WI,LF,Toronto Blue Jays,MLB,TRUE
+Ian,Anderson,25,75,170,Rexford,NY,SP,Atlanta Braves,MLB,TRUE
+Aaron,Bummer,30,75,215,Valencia,CA,RP,Atlanta Braves,MLB,TRUE
+Dylan,Dodd,25,74,210,Danville,IL,SP,Atlanta Braves,MLB,TRUE
+Bryce,Elder,24,74,220,Decatur,TX,SP,Atlanta Braves,MLB,TRUE
+Max,Fried,30,76,190,Santa Monica,CA,SP,Atlanta Braves,MLB,TRUE
+Daysbel,Hernandez,27,70,220,Oriente,Cuba,RP,Atlanta Braves,MLB,TRUE
+Raisel,Iglesias,34,74,190,Isla de la Juventud,Cuba,RP,Atlanta Braves,MLB,TRUE
+Joe,Jimenez,29,75,277,San Juan,Puerto Rico,RP,Atlanta Braves,MLB,TRUE
+Pierce,Johnson,32,74,202,Denver,CO,RP,Atlanta Braves,MLB,TRUE
+Ray,Kerr,29,75,185,Sacramento,CA,RP,Atlanta Braves,MLB,TRUE
+Dylan,Lee,29,75,214,Dinuba,CA,RP,Atlanta Braves,MLB,TRUE
+Reynaldo,Lopez,30,73,225,San Pedro de Macoris,Dominican Republic,RP,Atlanta Braves,MLB,TRUE
+Tyler,Matzek,33,75,230,Mission Viejo,CA,RP,Atlanta Braves,MLB,TRUE
+A.J.,Minter,30,72,215,Tyler,TX,RP,Atlanta Braves,MLB,TRUE
+Charlie,Morton,40,77,215,Flemington,NJ,SP,Atlanta Braves,MLB,TRUE
+Penn,Murfee,29,74,195,Nashville,TN,RP,Atlanta Braves,MLB,TRUE
+Angel,Perdomo,29,80,265,San Cristobal,Dominican Republic,RP,Atlanta Braves,MLB,TRUE
+Chris,Sale,34,78,180,Lakeland,FL,SP,Atlanta Braves,MLB,TRUE
+AJ,Smith-Shawver,21,75,205,Fort Worth,TX,SP,Atlanta Braves,MLB,TRUE
+Jackson,Stephens,29,74,220,Oxford,AL,RP,Atlanta Braves,MLB,TRUE
+Spencer,Strider,25,72,195,Columbus,OH,SP,Atlanta Braves,MLB,TRUE
+Darius,Vines,25,73,190,Oxnard,CA,SP,Atlanta Braves,MLB,TRUE
+Allan,Winans,28,74,165,Bakersfield,CA,SP,Atlanta Braves,MLB,TRUE
+Huascar,Ynoa,25,74,220,Puerto Plata,Dominican Republic,SP,Atlanta Braves,MLB,TRUE
+Travis,d'Arnaud,34,74,210,Long Beach,CA,C,Atlanta Braves,MLB,TRUE
+Sean,Murphy,29,75,228,Peekskill,NY,C,Atlanta Braves,MLB,TRUE
+Ozzie,Albies,27,68,165,Willemstad,Curacao,2B,Atlanta Braves,MLB,TRUE
+Orlando,Arcia,29,72,187,Anaco,Venezuela,SS,Atlanta Braves,MLB,TRUE
+David,Fletcher,29,69,185,Orange,CA,SS,Atlanta Braves,MLB,TRUE
+Luis,Guillorme,29,70,190,Caracas,Venezuela,2B,Atlanta Braves,MLB,TRUE
+Matt,Olson,29,77,225,Atlanta,GA,1B,Atlanta Braves,MLB,TRUE
+Austin,Riley,26,75,240,Memphis,TN,3B,Atlanta Braves,MLB,TRUE
+Ronald,Acuna,26,72,205,La Guaira,Venezuela,RF,Atlanta Braves,MLB,TRUE
+Michael,Harris,22,72,195,DeKalb,GA,CF,Atlanta Braves,MLB,TRUE
+Jarred,Kelenic,24,73,206,Waukesha,WI,LF,Atlanta Braves,MLB,TRUE
+J.P.,Martinez,27,68,174,Guantanamo Bay,Cuba,LF,Atlanta Braves,MLB,TRUE
+Forrest,Wall,28,72,195,Winter Park,FL,LF,Atlanta Braves,MLB,TRUE
+Marcell,Ozuna,33,73,225,Santo Domingo,Dominican Republic,DH,Atlanta Braves,MLB,TRUE
+Sandy,Alcantara,28,77,200,Azua Province,Dominican Republic,SP,Miami Marlins,MLB,TRUE
+Anthony,Bender,28,76,205,Petaluma,CA,RP,Miami Marlins,MLB,TRUE
+Huascar,Brazoban,34,75,155,Villa Mella,Dominican Republic,RP,Miami Marlins,MLB,TRUE
+Edward,Cabrera,25,77,217,Santiago,Dominican Republic,SP,Miami Marlins,MLB,TRUE
+JT,Chargois,33,75,200,Sulphur,LA,RP,Miami Marlins,MLB,TRUE
+Calvin,Faucher,28,73,190,Chula Vista,CA,RP,Miami Marlins,MLB,TRUE
+Braxton,Garrett,26,74,202,Foley,AL,SP,Miami Marlins,MLB,TRUE
+Bryan,Hoeing,27,78,210,Batesville,IN,RP,Miami Marlins,MLB,TRUE
+Jeff,Lindgren,27,73,200,Champaign,IL,SP,Miami Marlins,MLB,TRUE
+Jesus,Luzardo,26,72,218,Lima,Peru,SP,Miami Marlins,MLB,TRUE
+Anthony,Maldonado,25,76,220,Wellington,FL,RP,Miami Marlins,MLB,TRUE
+Max,Meyer,24,72,196,Woodbury,MN,SP,Miami Marlins,MLB,TRUE
+Roddery,Munoz,23,74,210,Santo Domingo,Dominican Republic,RP,Miami Marlins,MLB,TRUE
+Andrew,Nardi,25,75,215,West Hills,CA,RP,Miami Marlins,MLB,TRUE
+Steven,Okert,32,74,202,Riverside,CA,RP,Miami Marlins,MLB,TRUE
+Kaleb,Ort,31,76,248,Grand Rapids,MI,RP,Miami Marlins,MLB,TRUE
+Eury,Perez,20,80,220,Santiago,Dominican Republic,SP,Miami Marlins,MLB,TRUE
+A.J.,Puk,28,79,248,Minneapolis,MN,RP,Miami Marlins,MLB,TRUE
+Trevor,Rogers,26,77,217,Carlsbad,NM,SP,Miami Marlins,MLB,TRUE
+Sixto,Sanchez,25,72,234,San Cristobal,Dominican Republic,SP,Miami Marlins,MLB,TRUE
+Tanner,Scott,29,72,235,Warren,OH,RP,Miami Marlins,MLB,TRUE
+Josh,Simpson,26,74,190,Stafford,CT,RP,Miami Marlins,MLB,TRUE
+George,Soriano,24,74,210,San Pedro de Macoris,Dominican Republic,RP,Miami Marlins,MLB,TRUE
+Ryan,Weathers,24,73,230,Loretto,TN,SP,Miami Marlins,MLB,TRUE
+Christian,Bethancourt,32,75,205,Panama City,Panama,C,Miami Marlins,MLB,TRUE
+Nick,Fortes,27,71,198,Miami,FL,C,Miami Marlins,MLB,TRUE
+Jacob,Amaya,25,72,180,El Monte,CA,SS,Miami Marlins,MLB,TRUE
+Luis,Arraez,26,70,175,San Felipe,Venezuela,2B,Miami Marlins,MLB,TRUE
+Josh,Bell,31,76,261,Irving,TX,1B,Miami Marlins,MLB,TRUE
+Jon,Berti,34,70,190,Troy,MI,SS,Miami Marlins,MLB,TRUE
+Jake,Burger,27,74,230,St. Louis,MO,3B,Miami Marlins,MLB,TRUE
+Xavier,Edwards,24,70,175,Mineola,NY,SS,Miami Marlins,MLB,TRUE
+Jordan,Groshans,24,75,200,Magnolia,TX,3B,Miami Marlins,MLB,TRUE
+Vidal,Brujan,25,70,180,San Pedro de Macoris,Dominican Republic,RF,Miami Marlins,MLB,TRUE
+Peyton,Burdick,26,72,205,Batavia,OH,CF,Miami Marlins,MLB,TRUE
+Jazz,Chisholm,25,71,184,Nassau,Bahamas,CF,Miami Marlins,MLB,TRUE
+Bryan,De,27,74,175,Santo Domingo,Dominican Republic,LF,Miami Marlins,MLB,TRUE
+Avisail,Garcia,32,76,250,Anaco,Venezuela,RF,Miami Marlins,MLB,TRUE
+Victor,Mesa,27,71,200,Santa Clara,Cuba,LF,Miami Marlins,MLB,TRUE
+Victor,Mesa,22,72,195,Havana,Cuba,CF,Miami Marlins,MLB,TRUE
+Dane,Myers,27,72,205,Columbus,TX,CF,Miami Marlins,MLB,TRUE
+Jesus,Sanchez,26,75,222,Higuey,Dominican Republic,RF,Miami Marlins,MLB,TRUE
+Austin,Adams,32,75,220,Tampa,FL,RP,New York Mets,MLB,TRUE
+Peyton,Battenfield,26,76,224,Tulsa,OK,SP,New York Mets,MLB,TRUE
+Phil,Bickford,28,76,200,Ventura,CA,RP,New York Mets,MLB,TRUE
+Jose,Butto,25,73,202,Cumaná,Venezuela,SP,New York Mets,MLB,TRUE
+Edwin,Diaz,29,75,165,Naguabo,Puerto Rico,RP,New York Mets,MLB,TRUE
+Reed,Garrett,31,74,195,Henrico,VA,RP,New York Mets,MLB,TRUE
+Grant,Hartwig,26,77,235,Detroit,MI,RP,New York Mets,MLB,TRUE
+Adrian,Houser,30,75,242,Tahlequah,OK,SP,New York Mets,MLB,TRUE
+Max,Kranick,26,75,220,Scranton,PA,SP,New York Mets,MLB,TRUE
+Jorge,Lopez,30,75,200,Caguas,Puerto Rico,RP,New York Mets,MLB,TRUE
+Joey,Lucchesi,30,77,225,Newark,CA,SP,New York Mets,MLB,TRUE
+Sean,Manaea,31,77,245,Valparaiso,IN,RP,New York Mets,MLB,TRUE
+Tylor,Megill,28,79,230,Long Beach,CA,SP,New York Mets,MLB,TRUE
+David,Peterson,28,78,240,Denver,CO,SP,New York Mets,MLB,TRUE
+Jose,Quintana,35,73,220,Arjona,Colombia,SP,New York Mets,MLB,TRUE
+Brooks,Raley,35,75,200,San Antonio,TX,RP,New York Mets,MLB,TRUE
+Yohan,Ramirez,28,76,212,Villa Mella,Dominican Republic,RP,New York Mets,MLB,TRUE
+Sean,Reid-Foley,28,75,230,Agana Heights,Guam,RP,New York Mets,MLB,TRUE
+Kodai,Senga,30,73,202,Aichi,Japan,SP,New York Mets,MLB,TRUE
+Luis,Severino,29,74,218,Sabana de la Mar,Dominican Republic,SP,New York Mets,MLB,TRUE
+Drew,Smith,30,74,190,Fort Worth,TX,RP,New York Mets,MLB,TRUE
+Michael,Tonkin,34,79,220,Glendale,CA,RP,New York Mets,MLB,TRUE
+Josh,Walker,29,78,225,Otisville,NY,RP,New York Mets,MLB,TRUE
+Francisco,Alvarez,22,70,233,Guatire,Venezuela,C,New York Mets,MLB,TRUE
+Tyler,Heineman,32,70,190,Pacific Palisades,CA,C,New York Mets,MLB,TRUE
+Omar,Narvaez,31,71,220,Maracay,Venezuela,C,New York Mets,MLB,TRUE
+Luisangel,Acuna,21,68,181,Caracas,Venezuela,SS,New York Mets,MLB,TRUE
+Pete,Alonso,29,75,245,Tampa,FL,1B,New York Mets,MLB,TRUE
+Brett,Baty,24,75,210,Round Rock,TX,3B,New York Mets,MLB,TRUE
+Francisco,Lindor,30,71,190,Caguas,Puerto Rico,SS,New York Mets,MLB,TRUE
+Ronny,Mauricio,22,75,166,San Pedro de Macoris,Dominican Republic,SS,New York Mets,MLB,TRUE
+Jeff,McNeil,31,73,195,Santa Barbara,CA,2B,New York Mets,MLB,TRUE
+Zack,Short,28,70,180,Kingston,NY,2B,New York Mets,MLB,TRUE
+Mark,Vientos,24,76,185,Norwalk,CT,3B,New York Mets,MLB,TRUE
+Joey,Wendle,33,73,195,Wilmington,DE,SS,New York Mets,MLB,TRUE
+Harrison,Bader,29,72,210,Bronxville,NY,CF,New York Mets,MLB,TRUE
+Starling,Marte,35,73,195,Santo Domingo,Dominican Republic,RF,New York Mets,MLB,TRUE
+Brandon,Nimmo,30,75,206,Cheyenne,WY,CF,New York Mets,MLB,TRUE
+Alex,Ramirez,21,75,170,Santo Domingo,Dominican Republic,CF,New York Mets,MLB,TRUE
+DJ,Stewart,30,72,210,Gainesville,FL,RF,New York Mets,MLB,TRUE
+Tyrone,Taylor,30,73,218,Torrance,CA,RF,New York Mets,MLB,TRUE
+Kolby,Allard,26,73,195,Anaheim,CA,SP,Philadelphia Phillies,MLB,TRUE
+Jose,Alvarado,28,74,245,Maracaibo,Venezuela,RP,Philadelphia Phillies,MLB,TRUE
+Andrew,Bellatti,32,73,190,San Diego,CA,RP,Philadelphia Phillies,MLB,TRUE
+Connor,Brogdon,28,78,205,Clovis,CA,RP,Philadelphia Phillies,MLB,TRUE
+Dylan,Covey,32,73,215,Glendale,CA,RP,Philadelphia Phillies,MLB,TRUE
+Seranthony,Dominguez,29,73,225,Esperanza,Dominican Republic,RP,Philadelphia Phillies,MLB,TRUE
+Jeff,Hoffman,31,77,235,Latham,NY,RP,Philadelphia Phillies,MLB,TRUE
+Orion,Kerkering,22,74,204,Huntington Beach,CA,RP,Philadelphia Phillies,MLB,TRUE
+Michael,Lorenzen,32,75,217,Anaheim,CA,SP,Philadelphia Phillies,MLB,TRUE
+Yunior,Marte,28,74,180,Santo Domingo,Dominican Republic,RP,Philadelphia Phillies,MLB,TRUE
+Michael,Mercado,24,76,205,Greenville,SC,SP,Philadelphia Phillies,MLB,TRUE
+McKinley,Moore,25,78,225,Houston,TX,RP,Philadelphia Phillies,MLB,TRUE
+Nick,Nelson,28,73,205,Panama City,FL,RP,Philadelphia Phillies,MLB,TRUE
+Aaron,Nola,30,74,200,Baton Rouge,LA,SP,Philadelphia Phillies,MLB,TRUE
+Luis,Ortiz,28,75,230,Sanger,CA,RP,Philadelphia Phillies,MLB,TRUE
+Cristopher,Sanchez,27,73,165,La Romana,Dominican Republic,SP,Philadelphia Phillies,MLB,TRUE
+Gregory,Soto,28,73,234,Bajos de Haina,Dominican Republic,RP,Philadelphia Phillies,MLB,TRUE
+Matt,Strahm,32,74,190,West Fargo,ND,RP,Philadelphia Phillies,MLB,TRUE
+Ranger,Suarez,28,73,217,Carora,Venezuela,SP,Philadelphia Phillies,MLB,TRUE
+Taijuan,Walker,31,76,235,Shreveport,LA,SP,Philadelphia Phillies,MLB,TRUE
+Zack,Wheeler,33,76,195,Smyrna,GA,SP,Philadelphia Phillies,MLB,TRUE
+Rafael,Marchan,24,69,170,San Cristóbal,Venezuela,C,Philadelphia Phillies,MLB,TRUE
+J.T.,Realmuto,32,73,212,Del City,OK,C,Philadelphia Phillies,MLB,TRUE
+Garrett,Stubbs,30,70,170,San Diego,CA,C,Philadelphia Phillies,MLB,TRUE
+Alec,Bohm,27,77,218,Omaha,NE,1B,Philadelphia Phillies,MLB,TRUE
+Rodolfo,Castro,24,72,205,San Jose de los Llanos,Dominican Republic,SS,Philadelphia Phillies,MLB,TRUE
+Kody,Clemens,27,73,200,Houston,TX,1B,Philadelphia Phillies,MLB,TRUE
+Darick,Hall,28,76,232,Hereford,AZ,1B,Philadelphia Phillies,MLB,TRUE
+Edmundo,Sosa,27,72,210,Panama City,Panama,3B,Philadelphia Phillies,MLB,TRUE
+Bryson,Stott,26,75,200,Las Vegas,NV,2B,Philadelphia Phillies,MLB,TRUE
+Trea,Turner,30,74,185,Boynton Beach,FL,SS,Philadelphia Phillies,MLB,TRUE
+Weston,Wilson,29,75,215,High Point,NC,3B,Philadelphia Phillies,MLB,TRUE
+Nick,Castellanos,31,76,203,Hialeah,FL,RF,Philadelphia Phillies,MLB,TRUE
+Jake,Cave,31,72,200,Hampton,VA,LF,Philadelphia Phillies,MLB,TRUE
+Brandon,Marsh,26,76,215,Buford,GA,CF,Philadelphia Phillies,MLB,TRUE
+Simon,Muzziotti,25,72,175,Cumaná,Venezuela,CF,Philadelphia Phillies,MLB,TRUE
+Cristian,Pache,25,74,215,Santo Domingo,Dominican Republic,LF,Philadelphia Phillies,MLB,TRUE
+Johan,Rojas,23,71,165,San Francisco de Macoris,Dominican Republic,CF,Philadelphia Phillies,MLB,TRUE
+Kyle,Schwarber,30,72,229,Middletown,OH,LF,Philadelphia Phillies,MLB,TRUE
+Bryce,Harper,31,75,210,Las Vegas,NV,DH,Philadelphia Phillies,MLB,TRUE
+Joan,Adon,25,74,245,Santo Domingo,Dominican Republic,SP,Washington Nationals,MLB,TRUE
+Zach,Brzykcy,24,74,232,Hickory,NC,SP,Washington Nationals,MLB,TRUE
+Cade,Cavalli,25,76,232,Tulsa,OK,SP,Washington Nationals,MLB,TRUE
+Patrick,Corbin,34,76,226,Clay,NY,SP,Washington Nationals,MLB,TRUE
+Jose,Ferrer,23,73,229,Maimon,Dominican Republic,RP,Washington Nationals,MLB,TRUE
+Kyle,Finnegan,32,74,200,Detroit,MI,RP,Washington Nationals,MLB,TRUE
+Dylan,Floro,33,74,203,Merced,CA,RP,Washington Nationals,MLB,TRUE
+Robert,Garcia,27,76,225,Manteca,CA,RP,Washington Nationals,MLB,TRUE
+MacKenzie,Gore,24,74,192,Wilmington,NC,SP,Washington Nationals,MLB,TRUE
+Josiah,Gray,26,73,210,New Rochelle,NY,SP,Washington Nationals,MLB,TRUE
+Hunter,Harvey,29,75,239,Catawba,NC,RP,Washington Nationals,MLB,TRUE
+Cole,Henry,24,76,215,Florence,AL,SP,Washington Nationals,MLB,TRUE
+DJ,Herz,23,74,175,Fayetteville,NC,RP,Washington Nationals,MLB,TRUE
+Jake,Irvin,26,78,227,Bloomington,MN,SP,Washington Nationals,MLB,TRUE
+Mitchell,Parker,24,76,224,Albuquerque,NM,SP,Washington Nationals,MLB,TRUE
+Tanner,Rainey,31,74,250,Folsom,LA,RP,Washington Nationals,MLB,TRUE
+Jackson,Rutledge,24,80,251,Fenton,MO,SP,Washington Nationals,MLB,TRUE
+Stephen,Strasburg,35,77,239,San Diego,CA,SP,Washington Nationals,MLB,TRUE
+Mason,Thompson,25,78,244,Round Rock,TX,RP,Washington Nationals,MLB,TRUE
+Thaddeus,Ward,27,75,204,Fort Myers,FL,RP,Washington Nationals,MLB,TRUE
+Jordan,Weems,31,76,212,Columbus,GA,RP,Washington Nationals,MLB,TRUE
+Trevor,Williams,31,75,231,San Diego,CA,SP,Washington Nationals,MLB,TRUE
+Amos,Willingham,25,76,217,Rome,GA,RP,Washington Nationals,MLB,TRUE
+Riley,Adams,27,76,260,Encinitas,CA,C,Washington Nationals,MLB,TRUE
+Drew,Millas,26,72,198,St. Louis,MO,C,Washington Nationals,MLB,TRUE
+Keibert,Ruiz,25,72,227,Valencia,Venezuela,C,Washington Nationals,MLB,TRUE
+CJ,Abrams,23,74,191,Alpharetta,GA,SS,Washington Nationals,MLB,TRUE
+Jake,Alu,26,70,186,Hamilton,NJ,3B,Washington Nationals,MLB,TRUE
+Luis,Garcia,23,74,220,New York,NY,2B,Washington Nationals,MLB,TRUE
+Carter,Kieboom,26,74,211,Marietta,GA,3B,Washington Nationals,MLB,TRUE
+Nasim,Nunez,23,69,168,Bronx,NY,SS,Washington Nationals,MLB,TRUE
+Nick,Senzel,28,73,218,Atlanta,GA,3B,Washington Nationals,MLB,TRUE
+Ildemaro,Vargas,32,72,195,Caripito,Venezuela,SS,Washington Nationals,MLB,TRUE
+Alex,Call,29,71,189,Burnsville,MN,CF,Washington Nationals,MLB,TRUE
+Jeremy,De,22,72,215,Santo Domingo,Dominican Republic,CF,Washington Nationals,MLB,TRUE
+Joey,Gallo,30,77,250,Henderson,NV,LF,Washington Nationals,MLB,TRUE
+Stone,Garrett,28,74,224,Sugar Land,TX,LF,Washington Nationals,MLB,TRUE
+Victor,Robles,26,72,194,Santo Domingo,Dominican Republic,CF,Washington Nationals,MLB,TRUE
+Lane,Thomas,28,72,198,Knoxville,TN,RF,Washington Nationals,MLB,TRUE
+Jacob,Young,24,71,180,Ponte Vedra,FL,OF,Washington Nationals,MLB,TRUE
+Joey,Meneses,31,75,240,Culiacan,Mexico,DH,Washington Nationals,MLB,TRUE
+Tanner,Banks,32,73,210,Riverton,UT,RP,Chicago White Sox,MLB,TRUE
+John,Brebbia,33,73,200,Boston,MA,RP,Chicago White Sox,MLB,TRUE
+Dylan,Cease,28,74,195,Milton,GA,SP,Chicago White Sox,MLB,TRUE
+Josimar,Cousin,25,75,185,Havana,Cuba,SP,Chicago White Sox,MLB,TRUE
+Garrett,Crochet,24,78,230,Ocean Springs,MS,RP,Chicago White Sox,MLB,TRUE
+Shane,Drohan,25,75,195,Fort Lauderdale,FL,SP,Chicago White Sox,MLB,TRUE
+Erick,Fedde,30,76,203,Las Vegas,NV,SP,Chicago White Sox,MLB,TRUE
+Chris,Flexen,29,75,219,Newark,CA,RP,Chicago White Sox,MLB,TRUE
+Matt,Foster,28,72,215,Valley,AL,RP,Chicago White Sox,MLB,TRUE
+Deivi,Garcia,24,69,163,Bonao,Dominican Republic,RP,Chicago White Sox,MLB,TRUE
+Tim,Hill,33,76,200,Mission Hills,CA,RP,Chicago White Sox,MLB,TRUE
+Michael,Kopech,27,75,210,Longview,TX,SP,Chicago White Sox,MLB,TRUE
+Jimmy,Lambert,29,74,190,Arcadia,CA,RP,Chicago White Sox,MLB,TRUE
+Davis,Martin,27,74,200,Abilene,TX,RP,Chicago White Sox,MLB,TRUE
+Cristian,Mena,21,74,170,Pimentel,Dominican Republic,SP,Chicago White Sox,MLB,TRUE
+Edgar,Navarro,25,73,180,Ciudad Bolivar,Venezuela,RP,Chicago White Sox,MLB,TRUE
+Sammy,Peralta,25,74,205,Queens,NY,RP,Chicago White Sox,MLB,TRUE
+Lane,Ramsey,27,81,245,Oklahoma City,OK,RP,Chicago White Sox,MLB,TRUE
+Gregory,Santos,24,74,190,San Cristobal,Dominican Republic,RP,Chicago White Sox,MLB,TRUE
+Jesse,Scholtens,29,76,230,Fairfield,CA,RP,Chicago White Sox,MLB,TRUE
+Jared,Shuster,25,75,210,New Bedford,MA,SP,Chicago White Sox,MLB,TRUE
+Michael,Soroka,26,77,225,Calgary,Canada,SP,Chicago White Sox,MLB,TRUE
+Alex,Speas,25,75,225,Powder Springs,GA,RP,Chicago White Sox,MLB,TRUE
+Touki,Toussaint,27,75,215,Pembroke Pines,FL,SP,Chicago White Sox,MLB,TRUE
+Korey,Lee,25,74,210,Escondido,CA,C,Chicago White Sox,MLB,TRUE
+Martin,Maldonado,37,72,230,Naguabo,Puerto Rico,C,Chicago White Sox,MLB,TRUE
+Max,Stassi,32,70,200,Woodland,CA,C,Chicago White Sox,MLB,TRUE
+Paul,DeJong,30,72,205,Orlando,FL,SS,Chicago White Sox,MLB,TRUE
+Nicky,Lopez,28,71,180,Naperville,IL,2B,Chicago White Sox,MLB,TRUE
+Yoan,Moncada,28,74,225,Cienfuegos,Cuba,3B,Chicago White Sox,MLB,TRUE
+Bryan,Ramos,21,74,190,Havana,Cuba,2B,Chicago White Sox,MLB,TRUE
+Jose,Rodriguez,22,71,175,Valverde,Dominican Republic,SS,Chicago White Sox,MLB,TRUE
+Braden,Shewmake,26,75,190,Wylie,TX,SS,Chicago White Sox,MLB,TRUE
+Lenyn,Sosa,24,72,180,Puerto Ordaz,Venezuela,2B,Chicago White Sox,MLB,TRUE
+Andrew,Vaughn,25,72,215,Santa Rosa,CA,1B,Chicago White Sox,MLB,TRUE
+Andrew,Benintendi,29,69,180,Cincinnati,OH,LF,Chicago White Sox,MLB,TRUE
+Oscar,Colas,25,71,209,Santiago de Cuba,Cuba,RF,Chicago White Sox,MLB,TRUE
+Luis,Robert,26,74,220,Ciego de Avila,Cuba,CF,Chicago White Sox,MLB,TRUE
+Gavin,Sheets,27,77,230,Lutherville,MD,RF,Chicago White Sox,MLB,TRUE
+Eloy,Jimenez,27,76,240,Santo Domingo,Dominican Republic,DH,Chicago White Sox,MLB,TRUE
+Logan,Allen,25,72,190,Altamonte Springs,FL,SP,Cleveland Guardians,MLB,TRUE
+Scott,Barlow,31,75,210,New London,CT,RP,Cleveland Guardians,MLB,TRUE
+Tanner,Bibee,24,74,205,Mission Viejo,CA,SP,Cleveland Guardians,MLB,TRUE
+Shane,Bieber,28,75,200,Orange,CA,SP,Cleveland Guardians,MLB,TRUE
+Joey,Cantillo,24,76,225,Honolulu,HI,RP,Cleveland Guardians,MLB,TRUE
+Emmanuel,Clase,25,74,206,Rio San Juan,Dominican Republic,RP,Cleveland Guardians,MLB,TRUE
+Xzavion,Curry,25,72,195,Orangeburg,SC,RP,Cleveland Guardians,MLB,TRUE
+Daniel,Espino,23,74,225,Panama City,Panama,SP,Cleveland Guardians,MLB,TRUE
+Hunter,Gaddis,25,78,260,Canton,GA,SP,Cleveland Guardians,MLB,TRUE
+Sam,Hentges,27,78,245,Shoreview,MN,RP,Cleveland Guardians,MLB,TRUE
+Tim,Herrin,27,78,230,Terre Haute,IN,RP,Cleveland Guardians,MLB,TRUE
+James,Karinchak,28,75,215,Newburgh,NY,RP,Cleveland Guardians,MLB,TRUE
+Ben,Lively,31,76,235,Pensacola,FL,SP,Cleveland Guardians,MLB,TRUE
+Triston,McKenzie,26,77,165,Brooklyn,NY,SP,Cleveland Guardians,MLB,TRUE
+Eli,Morgan,27,70,190,Rancho Palos Verdes,CA,RP,Cleveland Guardians,MLB,TRUE
+Nick,Sandlin,27,71,175,Evans,GA,RP,Cleveland Guardians,MLB,TRUE
+Cade,Smith,24,77,230,Vancouver,Canada,RP,Cleveland Guardians,MLB,TRUE
+Trevor,Stephan,28,77,225,Magnolia,TX,RP,Cleveland Guardians,MLB,TRUE
+Gavin,Williams,24,78,250,Fayetteville,NC,SP,Cleveland Guardians,MLB,TRUE
+David,Fry,28,72,215,Colleyville,TX,C,Cleveland Guardians,MLB,TRUE
+Cam,Gallagher,31,75,230,Lancaster,PA,C,Cleveland Guardians,MLB,TRUE
+Austin,Hedges,31,73,220,San Juan Capistrano,CA,C,Cleveland Guardians,MLB,TRUE
+Bo,Naylor,23,72,205,Mississauga,Canada,C,Cleveland Guardians,MLB,TRUE
+Juan,Brito,22,71,202,Santo Domingo,Dominican Republic,SS,Cleveland Guardians,MLB,TRUE
+Deyvison,De,20,71,185,Santo Domingo,Dominican Republic,3B,Cleveland Guardians,MLB,TRUE
+Tyler,Freeman,24,72,190,Rancho Cucamonga,CA,3B,Cleveland Guardians,MLB,TRUE
+Andres,Gimenez,25,71,161,Barquisimeto,Venezuela,2B,Cleveland Guardians,MLB,TRUE
+Angel,Martinez,21,72,200,Santo Domingo,Dominican Republic,2B,Cleveland Guardians,MLB,TRUE
+Josh,Naylor,26,71,250,Mississauga,Canada,1B,Cleveland Guardians,MLB,TRUE
+Jose,Ramirez,31,69,190,Bani,Dominican Republic,3B,Cleveland Guardians,MLB,TRUE
+Brayan,Rocchio,23,70,170,Caracas,Venezuela,SS,Cleveland Guardians,MLB,TRUE
+Jose,Tena,22,71,195,San Cristobal,Dominican Republic,SS,Cleveland Guardians,MLB,TRUE
+Gabriel,Arias,23,73,217,La Victoria,Venezuela,RF,Cleveland Guardians,MLB,TRUE
+Robert,Arias,17,73,168,Bonao,Dominican Republic,CF,Cleveland Guardians,MLB,TRUE
+Will,Brennan,25,72,200,Colorado Springs,CO,RF,Cleveland Guardians,MLB,TRUE
+Estevan,Florial,26,73,195,Barahona,Dominican Republic,RF,Cleveland Guardians,MLB,TRUE
+Steven,Kwan,26,69,170,Los Gatos,CA,LF,Cleveland Guardians,MLB,TRUE
+Ramon,Laureano,29,71,203,Santo Domingo,Dominican Republic,RF,Cleveland Guardians,MLB,TRUE
+Jhonkensy,Noel,22,75,250,San Pedro de Macoris,Dominican Republic,OF,Cleveland Guardians,MLB,TRUE
+Johnathan,Rodriguez,24,72,224,Toa Baja,Puerto Rico,RF,Cleveland Guardians,MLB,TRUE
+Myles,Straw,29,70,178,Garden Grove,CA,CF,Cleveland Guardians,MLB,TRUE
+George,Valera,23,72,195,Queens,NY,RF,Cleveland Guardians,MLB,TRUE
+Beau,Brieske,25,75,200,Chandler,AZ,RP,Detroit Tigers,MLB,TRUE
+Andrew,Chafin,33,74,235,Kettering,OH,RP,Detroit Tigers,MLB,TRUE
+Miguel,Diaz,29,72,224,San Cristobal,Dominican Republic,RP,Detroit Tigers,MLB,TRUE
+Mason,Englert,24,76,206,Forney,TX,RP,Detroit Tigers,MLB,TRUE
+Alex,Faedo,28,77,225,Tampa,FL,SP,Detroit Tigers,MLB,TRUE
+Jack,Flaherty,28,76,225,Burbank,CA,SP,Detroit Tigers,MLB,TRUE
+Wilmer,Flores,22,76,225,Valencia,Venezuela,SP,Detroit Tigers,MLB,TRUE
+Jason,Foley,28,76,215,Manhasset,NY,RP,Detroit Tigers,MLB,TRUE
+Sawyer,Gipson-Long,26,76,225,Lithia Springs,GA,RP,Detroit Tigers,MLB,TRUE
+Tyler,Holton,27,74,200,Tallahassee,FL,RP,Detroit Tigers,MLB,TRUE
+Alex,Lange,28,75,202,Riverside,CA,RP,Detroit Tigers,MLB,TRUE
+Kenta,Maeda,35,73,185,Osaka,Japan,SP,Detroit Tigers,MLB,TRUE
+Matt,Manning,25,78,195,Sacramento,CA,SP,Detroit Tigers,MLB,TRUE
+Shelby,Miller,33,75,225,Round Rock,TX,RP,Detroit Tigers,MLB,TRUE
+Casey,Mize,26,75,212,Springville,AL,SP,Detroit Tigers,MLB,TRUE
+Keider,Montero,23,73,145,Santa Teresa del Tuy,Venezuela,SP,Detroit Tigers,MLB,TRUE
+Reese,Olson,24,73,160,Gainesville,GA,SP,Detroit Tigers,MLB,TRUE
+Tarik,Skubal,27,75,240,Hayward,CA,SP,Detroit Tigers,MLB,TRUE
+Devin,Sweet,27,71,183,Greensboro,NC,RP,Detroit Tigers,MLB,TRUE
+Will,Vest,28,72,180,Houston,TX,RP,Detroit Tigers,MLB,TRUE
+Joey,Wentz,26,77,220,Lawrence,KS,SP,Detroit Tigers,MLB,TRUE
+Brendan,White,25,71,185,White Plains,NY,RP,Detroit Tigers,MLB,TRUE
+Dillon,Dingler,25,75,210,Massillon,OH,C,Detroit Tigers,MLB,TRUE
+Carson,Kelly,29,74,212,Chicago,IL,C,Detroit Tigers,MLB,TRUE
+Jake,Rogers,28,73,201,Canyon,TX,C,Detroit Tigers,MLB,TRUE
+Javier,Baez,31,72,190,Bayamon,Puerto Rico,SS,Detroit Tigers,MLB,TRUE
+Andy,Ibanez,30,70,205,Havana,Cuba,2B,Detroit Tigers,MLB,TRUE
+Ryan,Kreidler,26,76,208,Davis,CA,SS,Detroit Tigers,MLB,TRUE
+Eddys,Leonard,23,71,195,Santo Domingo,Dominican Republic,SS,Detroit Tigers,MLB,TRUE
+Andre,Lipcius,25,72,190,Annapolis,MD,2B,Detroit Tigers,MLB,TRUE
+Wenceel,Perez,24,71,203,Azua Province,Dominican Republic,2B,Detroit Tigers,MLB,TRUE
+Spencer,Torkelson,24,73,220,Petaluma,CA,1B,Detroit Tigers,MLB,TRUE
+Akil,Baddoo,25,73,214,Silver Spring,MD,LF,Detroit Tigers,MLB,TRUE
+Mark,Canha,34,74,209,San Jose,CA,LF,Detroit Tigers,MLB,TRUE
+Kerry,Carpenter,26,74,220,Eustis,FL,RF,Detroit Tigers,MLB,TRUE
+Riley,Greene,23,75,200,Orlando,FL,CF,Detroit Tigers,MLB,TRUE
+Nick,Maton,26,74,178,Chatham,IL,LF,Detroit Tigers,MLB,TRUE
+Zach,McKinstry,28,72,180,Toledo,OH,RF,Detroit Tigers,MLB,TRUE
+Parker,Meadows,24,77,205,Atlanta,GA,CF,Detroit Tigers,MLB,TRUE
+Matt,Vierling,27,75,205,St. Louis,MO,RF,Detroit Tigers,MLB,TRUE
+Nick,Anderson,33,76,205,Crosby,MN,RP,Kansas City Royals,MLB,TRUE
+Jonathan,Bowlan,27,78,240,Arlington,TN,SP,Kansas City Royals,MLB,TRUE
+Jake,Brentz,29,73,205,Ballwin,MO,RP,Kansas City Royals,MLB,TRUE
+Kris,Bubic,26,75,225,Cupertino,CA,SP,Kansas City Royals,MLB,TRUE
+Steven,Cruz,24,79,225,Tenares,Dominican Republic,RP,Kansas City Royals,MLB,TRUE
+Taylor,Hearn,29,78,230,Royse City,TX,RP,Kansas City Royals,MLB,TRUE
+Carlos,Hernandez,26,76,255,Guayana,Venezuela,RP,Kansas City Royals,MLB,TRUE
+Will,Klein,24,77,230,Bloomington,IN,RP,Kansas City Royals,MLB,TRUE
+Seth,Lugo,34,76,225,Shreveport,LA,SP,Kansas City Royals,MLB,TRUE
+Jordan,Lyles,33,77,230,Hartsville,SC,SP,Kansas City Royals,MLB,TRUE
+Daniel,Lynch,27,78,200,Richmond,VA,SP,Kansas City Royals,MLB,TRUE
+Alec,Marsh,25,74,220,Milwaukee,WI,SP,Kansas City Royals,MLB,TRUE
+James,McArthur,27,79,230,New Braunfels,TX,RP,Kansas City Royals,MLB,TRUE
+John,McMillon,25,75,230,Lufkin,TX,RP,Kansas City Royals,MLB,TRUE
+Walter,Pennington,25,74,205,Broomfield,CO,RP,Kansas City Royals,MLB,TRUE
+Cole,Ragans,26,76,190,Crawfordville,FL,SP,Kansas City Royals,MLB,TRUE
+Matt,Sauer,25,76,230,Santa Maria,CA,SP,Kansas City Royals,MLB,TRUE
+Brady,Singer,27,77,215,Leesburg,FL,SP,Kansas City Royals,MLB,TRUE
+Will,Smith,34,77,255,Newnan,GA,RP,Kansas City Royals,MLB,TRUE
+Chris,Stratton,33,74,205,Tupelo,MS,RP,Kansas City Royals,MLB,TRUE
+Josh,Taylor,30,77,245,Phoenix,AZ,RP,Kansas City Royals,MLB,TRUE
+Anthony,Veneziano,26,77,205,Hackettstown,NJ,SP,Kansas City Royals,MLB,TRUE
+Michael,Wacha,32,78,215,Iowa City,IA,SP,Kansas City Royals,MLB,TRUE
+Kyle,Wright,28,76,215,Huntsville,AL,SP,Kansas City Royals,MLB,TRUE
+Angel,Zerpa,24,72,220,Valle de la Pascua,Venezuela,RP,Kansas City Royals,MLB,TRUE
+Freddy,Fermin,28,69,200,Puerto Ordaz,Venezuela,C,Kansas City Royals,MLB,TRUE
+Salvador,Perez,33,75,255,Valencia,Venezuela,C,Kansas City Royals,MLB,TRUE
+Maikel,Garcia,23,72,180,La Sabana,Venezuela,3B,Kansas City Royals,MLB,TRUE
+Garrett,Hampson,29,71,196,Reno,NV,SS,Kansas City Royals,MLB,TRUE
+Nick,Loftin,25,71,180,Corpus Christi,TX,SS,Kansas City Royals,MLB,TRUE
+Michael,Massey,25,72,195,Palos Park,IL,2B,Kansas City Royals,MLB,TRUE
+Vinnie,Pasquantino,26,76,245,Richmond,VA,1B,Kansas City Royals,MLB,TRUE
+Nick,Pratto,25,73,225,Huntington Beach,CA,1B,Kansas City Royals,MLB,TRUE
+Samad,Taylor,25,68,160,Corona,CA,2B,Kansas City Royals,MLB,TRUE
+Bobby,Witt,23,73,200,Colleyville,TX,SS,Kansas City Royals,MLB,TRUE
+Dairon,Blanco,30,71,200,Camaguey,Cuba,LF,Kansas City Royals,MLB,TRUE
+Tyler,Gentry,24,72,210,Memphis,TN,RF,Kansas City Royals,MLB,TRUE
+Kyle,Isbel,26,71,190,Fontana,CA,CF,Kansas City Royals,MLB,TRUE
+MJ,Melendez,25,73,190,Daytona Beach,FL,RF,Kansas City Royals,MLB,TRUE
+Hunter,Renfroe,31,73,230,Crystal Springs,MS,RF,Kansas City Royals,MLB,TRUE
+Nelson,Velazquez,25,72,190,Carolina,Puerto Rico,RF,Kansas City Royals,MLB,TRUE
+Drew,Waters,25,72,185,Atlanta,GA,CF,Kansas City Royals,MLB,TRUE
+Jorge,Alcala,28,75,205,Bajos de Haina,Dominican Republic,RP,Minnesota Twins,MLB,TRUE
+Jordan,Balazovic,25,77,215,Mississauga,Canada,RP,Minnesota Twins,MLB,TRUE
+Matt,Canterino,26,74,222,Southlake,TX,SP,Minnesota Twins,MLB,TRUE
+Jhoan,Duran,26,77,230,Esperanza,Dominican Republic,RP,Minnesota Twins,MLB,TRUE
+Kody,Funderburk,27,76,230,Mesa,AZ,RP,Minnesota Twins,MLB,TRUE
+Brent,Headrick,26,78,235,Braidwood,IL,RP,Minnesota Twins,MLB,TRUE
+Griffin,Jax,29,74,195,Phoenix,AZ,RP,Minnesota Twins,MLB,TRUE
+Ryan,Jensen,26,72,190,Monterey,CA,SP,Minnesota Twins,MLB,TRUE
+Pablo,Lopez,27,76,225,Cabimas,Venezuela,SP,Minnesota Twins,MLB,TRUE
+Bailey,Ober,28,81,260,Huntersville,NC,SP,Minnesota Twins,MLB,TRUE
+Chris,Paddack,28,77,217,Austin,TX,SP,Minnesota Twins,MLB,TRUE
+Joe,Ryan,27,74,205,San Francisco,CA,SP,Minnesota Twins,MLB,TRUE
+Cole,Sands,26,75,215,Tallahassee,FL,RP,Minnesota Twins,MLB,TRUE
+Josh,Staumont,30,75,200,La Habra,CA,RP,Minnesota Twins,MLB,TRUE
+Brock,Stewart,32,75,220,Normal,IL,RP,Minnesota Twins,MLB,TRUE
+Caleb,Thielbar,36,72,205,Northfield,MN,RP,Minnesota Twins,MLB,TRUE
+Louie,Varland,26,73,205,Saint Paul,MN,SP,Minnesota Twins,MLB,TRUE
+Josh,Winder,27,77,210,Richmond,VA,RP,Minnesota Twins,MLB,TRUE
+Simeon,Woods,23,75,210,Sugar Land,TX,SP,Minnesota Twins,MLB,TRUE
+Jair,Camargo,24,70,230,Barranquilla,Colombia,C,Minnesota Twins,MLB,TRUE
+Ryan,Jeffers,26,76,235,Raleigh,NC,C,Minnesota Twins,MLB,TRUE
+Christian,Vazquez,33,69,205,Bayamon,Puerto Rico,C,Minnesota Twins,MLB,TRUE
+Carlos,Correa,29,76,220,Ponce,Puerto Rico,SS,Minnesota Twins,MLB,TRUE
+Kyle,Farmer,33,72,205,Atlanta,GA,3B,Minnesota Twins,MLB,TRUE
+Edouard,Julien,24,72,195,Quebec City,Canada,2B,Minnesota Twins,MLB,TRUE
+Royce,Lewis,24,74,200,Aliso Viejo,CA,3B,Minnesota Twins,MLB,TRUE
+Austin,Martin,24,72,185,DeLand,FL,2B,Minnesota Twins,MLB,TRUE
+Jose,Miranda,25,74,210,Manati,Puerto Rico,3B,Minnesota Twins,MLB,TRUE
+Jorge,Polanco,30,71,208,San Pedro de Macoris,Dominican Republic,2B,Minnesota Twins,MLB,TRUE
+Yunior,Severino,24,72,189,Santo Domingo,Dominican Republic,1B,Minnesota Twins,MLB,TRUE
+Willi,Castro,26,73,206,Rio Piedras,Puerto Rico,LF,Minnesota Twins,MLB,TRUE
+Nick,Gordon,28,72,160,Avon Park,FL,CF,Minnesota Twins,MLB,TRUE
+Max,Kepler,30,76,225,Berlin,Germany,RF,Minnesota Twins,MLB,TRUE
+Alex,Kirilloff,26,74,195,Pittsburgh,PA,OF,Minnesota Twins,MLB,TRUE
+Trevor,Larnach,26,76,223,Walnut Creek,CA,LF,Minnesota Twins,MLB,TRUE
+Emmanuel,Rodriguez,20,70,210,Santiago,Dominican Republic,CF,Minnesota Twins,MLB,TRUE
+Bubba,Thompson,25,74,197,Mobile,AL,LF,Minnesota Twins,MLB,TRUE
+Matt,Wallner,26,76,220,Forest Lake,MN,RF,Minnesota Twins,MLB,TRUE
+Byron,Buxton,30,74,190,Baxley,GA,DH,Minnesota Twins,MLB,TRUE
+Yency,Almonte,29,77,223,Miami,FL,RP,Chicago Cubs,MLB,TRUE
+Adbert,Alzolay,28,73,208,San Felix,Venezuela,RP,Chicago Cubs,MLB,TRUE
+Michael,Arias,22,72,155,Santo Domingo,Dominican Republic,SP,Chicago Cubs,MLB,TRUE
+Javier,Assad,26,73,200,Tijuana,Mexico,RP,Chicago Cubs,MLB,TRUE
+Ben,Brown,24,78,210,East Setauket,NY,RP,Chicago Cubs,MLB,TRUE
+Jose,Cuas,29,75,195,Santo Domingo,Dominican Republic,RP,Chicago Cubs,MLB,TRUE
+Kyle,Hendricks,34,75,190,Newport Beach,CA,SP,Chicago Cubs,MLB,TRUE
+Porter,Hodge,22,76,230,Salt Lake City,UT,RP,Chicago Cubs,MLB,TRUE
+Bailey,Horn,26,74,210,Waco,TX,SP,Chicago Cubs,MLB,TRUE
+Shota,Imanaga,30,70,175,Fukuoka,Japan,SP,Chicago Cubs,MLB,TRUE
+Caleb,Kilian,26,76,180,Anaheim,CA,SP,Chicago Cubs,MLB,TRUE
+Mark,Leiter,32,72,210,Fort Lauderdale,FL,RP,Chicago Cubs,MLB,TRUE
+Luke,Little,23,80,220,Charlotte,NC,RP,Chicago Cubs,MLB,TRUE
+Julian,Merryweather,32,76,215,Berkeley,CA,RP,Chicago Cubs,MLB,TRUE
+Daniel,Palencia,23,71,160,San Carlos,Venezuela,RP,Chicago Cubs,MLB,TRUE
+Michael,Rucker,29,73,195,Columbus,MS,RP,Chicago Cubs,MLB,TRUE
+Drew,Smyly,34,74,188,Little Rock,AR,SP,Chicago Cubs,MLB,TRUE
+Justin,Steele,28,74,205,Lucedale,MS,SP,Chicago Cubs,MLB,TRUE
+Jameson,Taillon,32,77,230,Lakeland,FL,SP,Chicago Cubs,MLB,TRUE
+Keegan,Thompson,28,73,210,Cullman,AL,RP,Chicago Cubs,MLB,TRUE
+Hayden,Wesneski,26,75,210,Houston,TX,RP,Chicago Cubs,MLB,TRUE
+Jordan,Wicks,24,75,220,Conway,AR,SP,Chicago Cubs,MLB,TRUE
+Miguel,Amaya,24,72,230,Herrera,Panama,C,Chicago Cubs,MLB,TRUE
+Yan,Gomes,36,74,212,Sao Paulo,Brazil,C,Chicago Cubs,MLB,TRUE
+Michael,Busch,26,73,210,Inver Grove Heights,MN,3B,Chicago Cubs,MLB,TRUE
+Nico,Hoerner,26,73,200,Oakland,CA,2B,Chicago Cubs,MLB,TRUE
+Nick,Madrigal,26,68,175,Sacramento,CA,3B,Chicago Cubs,MLB,TRUE
+Miles,Mastrobuoni,28,70,185,San Ramon,CA,3B,Chicago Cubs,MLB,TRUE
+Matt,Mervis,25,74,225,Washington,DC,1B,Chicago Cubs,MLB,TRUE
+Christopher,Morel,24,71,145,Santiago,Dominican Republic,2B,Chicago Cubs,MLB,TRUE
+Dansby,Swanson,29,73,190,Kennesaw,GA,SS,Chicago Cubs,MLB,TRUE
+Luis,Vazquez,24,72,165,Orocovis,Puerto Rico,SS,Chicago Cubs,MLB,TRUE
+Patrick,Wisdom,32,74,220,Murrieta,CA,3B,Chicago Cubs,MLB,TRUE
+Kevin,Alcantara,21,78,188,Santo Domingo,Dominican Republic,CF,Chicago Cubs,MLB,TRUE
+Alexander,Canario,23,71,165,Monte Cristi Province,Dominican Republic,CF,Chicago Cubs,MLB,TRUE
+Pete,Crow-Armstrong,21,71,184,Sherman Oaks,CA,CF,Chicago Cubs,MLB,TRUE
+Brennen,Davis,24,72,210,Chandler,AZ,CF,Chicago Cubs,MLB,TRUE
+Ian,Happ,29,72,205,Pittsburgh,PA,LF,Chicago Cubs,MLB,TRUE
+Seiya,Suzuki,29,71,182,Tokyo,Japan,RF,Chicago Cubs,MLB,TRUE
+Mike,Tauchman,33,73,220,Palatine,IL,CF,Chicago Cubs,MLB,TRUE
+Andrew,Abbott,24,72,192,Lynchburg,VA,SP,Cincinnati Reds,MLB,TRUE
+Tejay,Antone,30,76,230,Oklahoma City,OK,RP,Cincinnati Reds,MLB,TRUE
+Graham,Ashcraft,25,74,248,Huntsville,AL,SP,Cincinnati Reds,MLB,TRUE
+Fernando,Cruz,33,74,237,Bayamon,Puerto Rico,RP,Cincinnati Reds,MLB,TRUE
+Alexis,Diaz,27,74,224,Humacao,Puerto Rico,RP,Cincinnati Reds,MLB,TRUE
+Buck,Farmer,32,76,243,Conyers,GA,RP,Cincinnati Reds,MLB,TRUE
+Ian,Gibaut,30,75,250,Houston,TX,RP,Cincinnati Reds,MLB,TRUE
+Hunter,Greene,24,77,242,Los Angeles,CA,SP,Cincinnati Reds,MLB,TRUE
+Brett,Kennedy,29,72,200,Pomona,NJ,RP,Cincinnati Reds,MLB,TRUE
+Casey,Legumina,26,74,195,Dallas,TX,RP,Cincinnati Reds,MLB,TRUE
+Nick,Lodolo,25,78,216,La Verne,CA,SP,Cincinnati Reds,MLB,TRUE
+Nick,Martinez,33,73,200,Miami,FL,RP,Cincinnati Reds,MLB,TRUE
+Sam,Moll,32,69,190,Lakeland,TN,RP,Cincinnati Reds,MLB,TRUE
+Frankie,Montas,30,74,255,Sainagua,Dominican Republic,SP,Cincinnati Reds,MLB,TRUE
+Emilio,Pagan,32,74,208,Simpsonville,SC,RP,Cincinnati Reds,MLB,TRUE
+Connor,Phillips,22,74,209,Houston,TX,SP,Cincinnati Reds,MLB,TRUE
+Lyon,Richardson,24,74,207,Jensen Beach,FL,SP,Cincinnati Reds,MLB,TRUE
+Christian,Roa,24,76,220,Houston,TX,SP,Cincinnati Reds,MLB,TRUE
+Lucas,Sims,29,74,213,Lawrenceville,GA,RP,Cincinnati Reds,MLB,TRUE
+Carson,Spiers,26,75,205,Greenville,SC,SP,Cincinnati Reds,MLB,TRUE
+Levi,Stoudt,26,73,195,Pottstown,PA,SP,Cincinnati Reds,MLB,TRUE
+Brent,Suter,34,76,213,Chicago,IL,RP,Cincinnati Reds,MLB,TRUE
+Brandon,Williamson,25,78,210,Fairmont,MN,SP,Cincinnati Reds,MLB,TRUE
+Alex,Young,30,75,220,Westlake,OH,RP,Cincinnati Reds,MLB,TRUE
+Luke,Maile,32,75,225,Edgewood,KY,C,Cincinnati Reds,MLB,TRUE
+Tyler,Stephenson,27,76,225,Atlanta,GA,C,Cincinnati Reds,MLB,TRUE
+Jose,Barrero,25,74,211,Havana,Cuba,SS,Cincinnati Reds,MLB,TRUE
+Jeimer,Candelario,30,74,222,New York,NY,3B,Cincinnati Reds,MLB,TRUE
+Elly,De,22,77,200,Sabana Grande de Boya,Dominican Republic,3B,Cincinnati Reds,MLB,TRUE
+Christian,Encarnacion-Strand,24,72,224,Walnut Creek,CA,1B,Cincinnati Reds,MLB,TRUE
+Jonathan,India,27,72,200,Coral Springs,FL,2B,Cincinnati Reds,MLB,TRUE
+Noelvi,Marte,22,72,216,Cotui,Dominican Republic,SS,Cincinnati Reds,MLB,TRUE
+Matt,McLain,24,68,180,Orange,CA,SS,Cincinnati Reds,MLB,TRUE
+Spencer,Steer,26,71,185,Long Beach,CA,1B,Cincinnati Reds,MLB,TRUE
+Will,Benson,25,77,230,Atlanta,GA,LF,Cincinnati Reds,MLB,TRUE
+Stuart,Fairchild,27,72,205,Seattle,WA,LF,Cincinnati Reds,MLB,TRUE
+Jake,Fraley,28,72,206,Frederick,MD,RF,Cincinnati Reds,MLB,TRUE
+TJ,Friedl,28,70,180,Sewickley,PA,CF,Cincinnati Reds,MLB,TRUE
+Rece,Hinds,23,76,215,Niceville,FL,RF,Cincinnati Reds,MLB,TRUE
+Jacob,Hurtubise,26,72,180,Indianapolis,IN,CF,Cincinnati Reds,MLB,TRUE
+Nick,Martini,33,71,205,Crystal Lake,IL,RF,Cincinnati Reds,MLB,TRUE
+Clayton,Andrews,27,66,160,Petaluma,CA,RP,Milwaukee Brewers,MLB,TRUE
+Aaron,Ashby,25,73,188,Kansas City,MO,SP,Milwaukee Brewers,MLB,TRUE
+Bradley,Blalock,23,74,200,Conyers,GA,SP,Milwaukee Brewers,MLB,TRUE
+J.B.,Bukauskas,27,72,208,Ashburn,VA,RP,Milwaukee Brewers,MLB,TRUE
+Corbin,Burnes,29,75,246,Bakersfield,CA,SP,Milwaukee Brewers,MLB,TRUE
+Taylor,Clarke,30,76,217,Ashburn,VA,RP,Milwaukee Brewers,MLB,TRUE
+Bryan,Hudson,26,80,220,Godfrey,IL,RP,Milwaukee Brewers,MLB,TRUE
+Janson,Junk,28,74,202,Federal Way,WA,SP,Milwaukee Brewers,MLB,TRUE
+Trevor,Megill,30,80,250,Long Beach,CA,RP,Milwaukee Brewers,MLB,TRUE
+Wade,Miley,37,73,220,Hammond,LA,SP,Milwaukee Brewers,MLB,TRUE
+Hoby,Milner,33,75,184,Dallas,TX,RP,Milwaukee Brewers,MLB,TRUE
+Joel,Payamps,29,74,217,Santiago,Dominican Republic,RP,Milwaukee Brewers,MLB,TRUE
+Elvis,Peguero,26,77,237,Cotui,Dominican Republic,RP,Milwaukee Brewers,MLB,TRUE
+Freddy,Peralta,27,72,196,Moca,Dominican Republic,SP,Milwaukee Brewers,MLB,TRUE
+Colin,Rea,33,77,218,Cascade,IA,SP,Milwaukee Brewers,MLB,TRUE
+Joe,Ross,30,76,232,Berkeley,CA,SP,Milwaukee Brewers,MLB,TRUE
+Ethan,Small,26,74,200,Jackson,TN,SP,Milwaukee Brewers,MLB,TRUE
+Abner,Uribe,23,75,225,Santo Domingo,Dominican Republic,RP,Milwaukee Brewers,MLB,TRUE
+Thyago,Vieira,31,75,265,Sao Paulo,Brazil,RP,Milwaukee Brewers,MLB,TRUE
+Devin,Williams,29,74,192,St. Louis,MO,RP,Milwaukee Brewers,MLB,TRUE
+Bryse,Wilson,26,74,267,Durham,NC,RP,Milwaukee Brewers,MLB,TRUE
+William,Contreras,26,71,216,Puerto Cabello,Venezuela,C,Milwaukee Brewers,MLB,TRUE
+Eric,Haase,31,70,210,Detroit,MI,C,Milwaukee Brewers,MLB,TRUE
+Jeferson,Quero,21,71,215,Barquisimeto,Venezuela,C,Milwaukee Brewers,MLB,TRUE
+Willy,Adames,28,73,214,Santiago,Dominican Republic,SS,Milwaukee Brewers,MLB,TRUE
+Jake,Bauers,28,71,195,Newport Beach,CA,1B,Milwaukee Brewers,MLB,TRUE
+Vinny,Capra,27,68,180,Melbourne,FL,3B,Milwaukee Brewers,MLB,TRUE
+Oliver,Dunn,26,70,185,Salt Lake City,UT,2B,Milwaukee Brewers,MLB,TRUE
+Rhys,Hoskins,30,76,245,Sacramento,CA,1B,Milwaukee Brewers,MLB,TRUE
+Owen,Miller,27,71,195,Mequon,WI,2B,Milwaukee Brewers,MLB,TRUE
+Andruw,Monasterio,26,71,186,Caracas,Venezuela,2B,Milwaukee Brewers,MLB,TRUE
+Brice,Turang,24,72,176,Corona,CA,2B,Milwaukee Brewers,MLB,TRUE
+Jackson,Chourio,19,71,165,Maracaibo,Venezuela,RF,Milwaukee Brewers,MLB,TRUE
+Sal,Frelick,23,70,182,Boston,MA,OF,Milwaukee Brewers,MLB,TRUE
+Garrett,Mitchell,25,75,224,Orange,CA,CF,Milwaukee Brewers,MLB,TRUE
+Blake,Perkins,27,71,197,Litchfield Park,AZ,RF,Milwaukee Brewers,MLB,TRUE
+Chris,Roller,27,71,190,Austin,TX,RF,Milwaukee Brewers,MLB,TRUE
+Joey,Wiemer,24,76,220,Sylvania,OH,CF,Milwaukee Brewers,MLB,TRUE
+Christian,Yelich,32,75,207,Thousand Oaks,CA,LF,Milwaukee Brewers,MLB,TRUE
+Jahmai,Jones,26,72,210,Roswell,GA,DH,Milwaukee Brewers,MLB,TRUE
+Braxton,Ashcraft,24,77,195,Waco,TX,RP,Pittsburgh Pirates,MLB,TRUE
+David,Bednar,29,72,225,Pittsburgh,PA,RP,Pittsburgh Pirates,MLB,TRUE
+Ryan,Borucki,29,76,210,Highland Park,IL,RP,Pittsburgh Pirates,MLB,TRUE
+JT,Brubaker,30,75,180,Springfield,OH,SP,Pittsburgh Pirates,MLB,TRUE
+Mike,Burrows,24,73,190,Waterford,CT,SP,Pittsburgh Pirates,MLB,TRUE
+Roansy,Contreras,24,73,205,Yamasa,Dominican Republic,SP,Pittsburgh Pirates,MLB,TRUE
+Bailey,Falter,26,76,175,Chino Hills,CA,SP,Pittsburgh Pirates,MLB,TRUE
+Marco,Gonzales,31,73,205,Fort Collins,CO,SP,Pittsburgh Pirates,MLB,TRUE
+Jose,Hernandez,26,75,205,Puerto Plata,Dominican Republic,RP,Pittsburgh Pirates,MLB,TRUE
+Colin,Holderman,28,76,230,Bourbonnais,IL,RP,Pittsburgh Pirates,MLB,TRUE
+Mitch,Keller,27,75,220,Cedar Rapids,IA,SP,Pittsburgh Pirates,MLB,TRUE
+Carmen,Mlodzinski,24,74,220,Hilton Head Island,SC,RP,Pittsburgh Pirates,MLB,TRUE
+Dauri,Moreta,27,74,185,Comendador,Dominican Republic,RP,Pittsburgh Pirates,MLB,TRUE
+Kyle,Nicolas,24,76,223,Massillon,OH,SP,Pittsburgh Pirates,MLB,TRUE
+Luis,Ortiz,24,74,235,San Pedro de Macoris,Dominican Republic,SP,Pittsburgh Pirates,MLB,TRUE
+Johan,Oviedo,25,77,245,Havana,Cuba,SP,Pittsburgh Pirates,MLB,TRUE
+Martin,Perez,32,72,200,Guanare,Venezuela,SP,Pittsburgh Pirates,MLB,TRUE
+Quinn,Priester,23,75,210,Glendale Heights,IL,SP,Pittsburgh Pirates,MLB,TRUE
+Colin,Selby,26,74,220,Chesapeake,VA,RP,Pittsburgh Pirates,MLB,TRUE
+Jackson,Wolf,24,79,205,Gahanna,OH,SP,Pittsburgh Pirates,MLB,TRUE
+Jason,Delay,28,71,190,Plano,TX,C,Pittsburgh Pirates,MLB,TRUE
+Endy,Rodriguez,23,72,200,Santiago,Dominican Republic,C,Pittsburgh Pirates,MLB,TRUE
+Ali,Sanchez,27,73,200,Carora,Venezuela,C,Pittsburgh Pirates,MLB,TRUE
+Ji,Hwan,24,71,185,Daegu,South Korea,2B,Pittsburgh Pirates,MLB,TRUE
+Tsung-Che,Cheng,22,67,173,Pingtung County,Taiwan,SS,Pittsburgh Pirates,MLB,TRUE
+Oneil,Cruz,25,79,215,Nizao,Dominican Republic,SS,Pittsburgh Pirates,MLB,TRUE
+Nick,Gonzales,24,69,190,Vail,AZ,2B,Pittsburgh Pirates,MLB,TRUE
+Ke'Bryan,Hayes,26,71,195,Tomball,TX,3B,Pittsburgh Pirates,MLB,TRUE
+Liover,Peguero,23,72,220,Higuey,Dominican Republic,SS,Pittsburgh Pirates,MLB,TRUE
+Rowdy,Tellez,28,76,270,Sacramento,CA,1B,Pittsburgh Pirates,MLB,TRUE
+Jared,Triolo,25,75,210,Nashua,NH,3B,Pittsburgh Pirates,MLB,TRUE
+Alika,Williams,24,73,180,San Diego,CA,SS,Pittsburgh Pirates,MLB,TRUE
+Henry,Davis,24,72,210,Bedford,NY,RF,Pittsburgh Pirates,MLB,TRUE
+Connor,Joe,31,72,205,San Diego,CA,RF,Pittsburgh Pirates,MLB,TRUE
+Edward,Olivares,27,74,190,Caracas,Venezuela,LF,Pittsburgh Pirates,MLB,TRUE
+Joshua,Palacios,28,73,200,Brooklyn,NY,RF,Pittsburgh Pirates,MLB,TRUE
+Bryan,Reynolds,28,74,205,Baltimore,MD,LF,Pittsburgh Pirates,MLB,TRUE
+Canaan,Smith-Njigba,24,72,230,Dallas,TX,RF,Pittsburgh Pirates,MLB,TRUE
+Jack,Suwinski,25,74,215,Chicago,IL,CF,Pittsburgh Pirates,MLB,TRUE
+Andrew,McCutchen,37,70,190,Fort Meade,FL,DH,Pittsburgh Pirates,MLB,TRUE
+Jacob,Barnes,33,74,231,St. Petersburg,FL,RP,St. Louis Cardinals,MLB,TRUE
+Ryan,Fernandez,25,72,170,Tampa,FL,RP,St. Louis Cardinals,MLB,TRUE
+Giovanny,Gallegos,32,74,215,Obregon,Mexico,RP,St. Louis Cardinals,MLB,TRUE
+Kyle,Gibson,36,78,200,Greenfield,IN,SP,St. Louis Cardinals,MLB,TRUE
+Sonny,Gray,34,70,195,Smyrna,TN,SP,St. Louis Cardinals,MLB,TRUE
+Ryan,Helsley,29,74,230,Tahlequah,OK,RP,St. Louis Cardinals,MLB,TRUE
+John,King,29,74,215,Laredo,TX,RP,St. Louis Cardinals,MLB,TRUE
+Andrew,Kittredge,33,73,230,Spokane,WA,RP,St. Louis Cardinals,MLB,TRUE
+Adam,Kloffenstein,23,77,243,Magnolia,TX,SP,St. Louis Cardinals,MLB,TRUE
+Matthew,Liberatore,24,76,200,Peoria,AZ,SP,St. Louis Cardinals,MLB,TRUE
+Lance,Lynn,36,77,270,Marion,IN,SP,St. Louis Cardinals,MLB,TRUE
+Steven,Matz,32,74,201,Stony Brook,NY,SP,St. Louis Cardinals,MLB,TRUE
+Miles,Mikolas,35,76,230,Jupiter,FL,SP,St. Louis Cardinals,MLB,TRUE
+James,Naile,30,76,185,Cape Girardeau,MO,RP,St. Louis Cardinals,MLB,TRUE
+Riley,O'Brien,28,76,180,Seattle,WA,RP,St. Louis Cardinals,MLB,TRUE
+Andre,Pallante,25,72,203,Mission Viejo,CA,RP,St. Louis Cardinals,MLB,TRUE
+Sem,Robberse,22,73,185,Zeist,Netherlands,SP,St. Louis Cardinals,MLB,TRUE
+Nick,Robertson,25,78,265,Roanoke,VA,RP,St. Louis Cardinals,MLB,TRUE
+Drew,Rom,24,74,215,Cincinnati,OH,SP,St. Louis Cardinals,MLB,TRUE
+JoJo,Romero,27,71,200,Camarillo,CA,RP,St. Louis Cardinals,MLB,TRUE
+Ryan,Tepera,36,73,195,Houston,TX,RP,St. Louis Cardinals,MLB,TRUE
+Zack,Thompson,26,74,215,Selma,IN,RP,St. Louis Cardinals,MLB,TRUE
+Guillermo,Zuniga,25,77,230,Cartagena,Colombia,RP,St. Louis Cardinals,MLB,TRUE
+Willson,Contreras,31,73,225,Puerto Cabello,Venezuela,C,St. Louis Cardinals,MLB,TRUE
+Ivan,Herrera,23,71,220,Panama City,Panama,C,St. Louis Cardinals,MLB,TRUE
+Pedro,Pages,25,73,234,Maracay,Venezuela,C,St. Louis Cardinals,MLB,TRUE
+Nolan,Arenado,32,74,215,Newport Beach,CA,3B,St. Louis Cardinals,MLB,TRUE
+Luken,Baker,26,76,280,Houston,TX,1B,St. Louis Cardinals,MLB,TRUE
+Brendan,Donovan,27,73,195,Enterprise,AL,2B,St. Louis Cardinals,MLB,TRUE
+Tommy,Edman,28,70,180,Pontiac,MI,SS,St. Louis Cardinals,MLB,TRUE
+Jose,Fermin,24,69,200,Puerto Plata,Dominican Republic,2B,St. Louis Cardinals,MLB,TRUE
+Paul,Goldschmidt,36,75,220,Wilmington,DE,1B,St. Louis Cardinals,MLB,TRUE
+Nolan,Gorman,23,73,210,Phoenix,AZ,2B,St. Louis Cardinals,MLB,TRUE
+Buddy,Kennedy,25,69,190,Millville,NJ,2B,St. Louis Cardinals,MLB,TRUE
+Juniel,Querecuto,31,69,195,Barquisimeto,Venezuela,3B,St. Louis Cardinals,MLB,TRUE
+Masyn,Winn,21,71,180,Katy,TX,SS,St. Louis Cardinals,MLB,TRUE
+Jared,Young,28,72,185,Prince George,Canada,1B,St. Louis Cardinals,MLB,TRUE
+Alec,Burleson,25,74,212,Charlotte,NC,LF,St. Louis Cardinals,MLB,TRUE
+Dylan,Carlson,25,74,205,Elk Grove,CA,CF,St. Louis Cardinals,MLB,TRUE
+Moises,Gomez,25,71,200,Caracas,Venezuela,OF,St. Louis Cardinals,MLB,TRUE
+Lars,Nootbaar,26,75,210,El Segundo,CA,CF,St. Louis Cardinals,MLB,TRUE
+Michael,Siani,24,73,188,Glenside,PA,CF,St. Louis Cardinals,MLB,TRUE
+Jordan,Walker,21,78,245,Stone Mountain,GA,RF,St. Louis Cardinals,MLB,TRUE
+Matt,Carpenter,38,76,210,Galveston,TX,DH,St. Louis Cardinals,MLB,TRUE
+Bryan,Abreu,26,73,225,Santo Domingo,Dominican Republic,RP,Houston Astros,MLB,TRUE
+Brandon,Bielak,27,74,208,Edison,NJ,SP,Houston Astros,MLB,TRUE
+Ronel,Blanco,30,72,180,Santiago,Dominican Republic,SP,Houston Astros,MLB,TRUE
+Hunter,Brown,25,74,212,Detroit,MI,SP,Houston Astros,MLB,TRUE
+Dylan,Coleman,27,77,230,Potosi,MO,RP,Houston Astros,MLB,TRUE
+Declan,Cronin,26,76,225,Glen Ridge,NJ,RP,Houston Astros,MLB,TRUE
+Shawn,Dubin,28,73,171,Allegany,NY,RP,Houston Astros,MLB,TRUE
+J.P.,France,28,72,216,New Orleans,LA,SP,Houston Astros,MLB,TRUE
+Luis,Garcia,27,71,244,Barinitas,Venezuela,SP,Houston Astros,MLB,TRUE
+Kendall,Graveman,33,74,200,Alexander City,AL,RP,Houston Astros,MLB,TRUE
+Josh,Hader,29,71,180,Millersville,MD,RP,Houston Astros,MLB,TRUE
+Cristian,Javier,26,73,213,Santo Domingo,Dominican Republic,SP,Houston Astros,MLB,TRUE
+Seth,Martinez,29,74,200,Peoria,AZ,RP,Houston Astros,MLB,TRUE
+Lance,McCullers,30,73,202,Tampa,FL,SP,Houston Astros,MLB,TRUE
+Rafael,Montero,33,72,190,Higuerito,Dominican Republic,RP,Houston Astros,MLB,TRUE
+Parker,Mushinski,28,72,218,Arlington,TX,RP,Houston Astros,MLB,TRUE
+Oliver,Ortega,27,72,165,Nagua,Dominican Republic,RP,Houston Astros,MLB,TRUE
+Ryan,Pressly,35,74,206,Dallas,TX,RP,Houston Astros,MLB,TRUE
+Bennett,Sousa,28,75,220,North Palm Beach,FL,RP,Houston Astros,MLB,TRUE
+Jose,Urquidy,28,72,217,Sinaloa,Mexico,SP,Houston Astros,MLB,TRUE
+Framber,Valdez,30,71,239,Sabana Grande de Palenque,Dominican Republic,SP,Houston Astros,MLB,TRUE
+Justin,Verlander,40,77,235,Manakin Sabot,VA,SP,Houston Astros,MLB,TRUE
+Forrest,Whitley,26,79,238,San Antonio,TX,SP,Houston Astros,MLB,TRUE
+Victor,Caratini,30,71,225,Ponce,Puerto Rico,C,Houston Astros,MLB,TRUE
+Yainer,Diaz,25,72,195,Azua Province,Dominican Republic,C,Houston Astros,MLB,TRUE
+Cesar,Salazar,27,69,185,Hermosillo,Mexico,C,Houston Astros,MLB,TRUE
+Jose,Abreu,36,75,235,Cienfuegos,Cuba,1B,Houston Astros,MLB,TRUE
+Jose,Altuve,33,66,166,Maracay,Venezuela,2B,Houston Astros,MLB,TRUE
+Alex,Bregman,29,72,192,Albuquerque,NM,3B,Houston Astros,MLB,TRUE
+Mauricio,Dubon,29,72,173,San Pedro Sula,Honduras,2B,Houston Astros,MLB,TRUE
+David,Hensley,27,78,190,San Diego,CA,2B,Houston Astros,MLB,TRUE
+Grae,Kessinger,26,73,204,Oxford,MS,SS,Houston Astros,MLB,TRUE
+Jeremy,Pena,26,72,202,Santo Domingo,Dominican Republic,SS,Houston Astros,MLB,TRUE
+Jon,Singleton,32,72,256,Harbor City,CA,1B,Houston Astros,MLB,TRUE
+Yordan,Alvarez,26,77,225,Las Tunas,Cuba,LF,Houston Astros,MLB,TRUE
+Kenedy,Corona,23,70,184,Maracaibo,Venezuela,CF,Houston Astros,MLB,TRUE
+Corey,Julks,27,73,185,Friendswood,TX,LF,Houston Astros,MLB,TRUE
+Chas,McCormick,28,72,208,West Chester,PA,CF,Houston Astros,MLB,TRUE
+Jake,Meyers,27,72,200,Omaha,NE,CF,Houston Astros,MLB,TRUE
+Kyle,Tucker,27,76,199,Tampa,FL,RF,Houston Astros,MLB,TRUE
+Tyler,Anderson,34,74,220,Las Vegas,NV,SP,Los Angeles Angels,MLB,TRUE
+Sam,Bachman,24,73,235,Indianapolis,IN,RP,Los Angeles Angels,MLB,TRUE
+Kelvin,Caceres,24,73,205,Santiago,Dominican Republic,RP,Los Angeles Angels,MLB,TRUE
+Griffin,Canning,27,74,180,Mission Viejo,CA,SP,Los Angeles Angels,MLB,TRUE
+Adam,Cimber,33,75,195,Portland,OR,RP,Los Angeles Angels,MLB,TRUE
+Davis,Daniel,26,73,190,Atlanta,GA,SP,Los Angeles Angels,MLB,TRUE
+Reid,Detmers,24,74,210,Nokomis,IL,SP,Los Angeles Angels,MLB,TRUE
+Carlos,Estevez,31,78,277,Santo Domingo,Dominican Republic,RP,Los Angeles Angels,MLB,TRUE
+Luis,Garcia,36,74,240,Santo Domingo,Dominican Republic,RP,Los Angeles Angels,MLB,TRUE
+Jimmy,Herget,30,75,170,Tampa,FL,RP,Los Angeles Angels,MLB,TRUE
+Kolton,Ingram,27,69,170,Columbus,GA,RP,Los Angeles Angels,MLB,TRUE
+Ben,Joyce,23,77,225,Knoxville,TN,RP,Los Angeles Angels,MLB,TRUE
+Jack,Kochanowicz,23,79,228,Philadelphia,PA,SP,Los Angeles Angels,MLB,TRUE
+Adam,Kolarek,35,75,215,Baltimore,MD,RP,Los Angeles Angels,MLB,TRUE
+Victor,Mederos,22,74,227,Santa Clara,Cuba,SP,Los Angeles Angels,MLB,TRUE
+Matt,Moore,34,75,210,Fort Walton Beach,FL,RP,Los Angeles Angels,MLB,TRUE
+Zach,Plesac,29,75,220,Crown Point,IN,SP,Los Angeles Angels,MLB,TRUE
+Jose,Quijada,28,71,215,Caripito,Venezuela,RP,Los Angeles Angels,MLB,TRUE
+Kenny,Rosenberg,28,73,195,Mill Valley,CA,RP,Los Angeles Angels,MLB,TRUE
+Patrick,Sandoval,27,75,190,Mission Viejo,CA,SP,Los Angeles Angels,MLB,TRUE
+Chase,Silseth,23,72,217,Farmington,NM,SP,Los Angeles Angels,MLB,TRUE
+Jose,Soriano,25,75,220,Santo Domingo,Dominican Republic,RP,Los Angeles Angels,MLB,TRUE
+Robert,Stephenson,30,75,205,Martinez,CA,RP,Los Angeles Angels,MLB,TRUE
+Jose,Suarez,26,70,225,Naguanagua,Venezuela,SP,Los Angeles Angels,MLB,TRUE
+Andrew,Wantz,28,76,235,Erie,PA,RP,Los Angeles Angels,MLB,TRUE
+Austin,Warren,27,72,170,Fayetteville,NC,RP,Los Angeles Angels,MLB,TRUE
+Logan,O'Hoppe,23,74,185,West Islip,NY,C,Los Angeles Angels,MLB,TRUE
+Matt,Thaiss,28,72,215,Jackson,NJ,C,Los Angeles Angels,MLB,TRUE
+C.J.,Cron,34,76,235,Fullerton,CA,1B,Los Angeles Angels,MLB,TRUE
+Brandon,Drury,31,74,230,Grants Pass,OR,2B,Los Angeles Angels,MLB,TRUE
+Zach,Neto,22,72,185,Miami,FL,SS,Los Angeles Angels,MLB,TRUE
+Kyren,Paris,22,72,180,Oakley,CA,2B,Los Angeles Angels,MLB,TRUE
+Anthony,Rendon,33,73,200,Houston,TX,3B,Los Angeles Angels,MLB,TRUE
+Luis,Rengifo,26,70,195,Naguanagua,Venezuela,2B,Los Angeles Angels,MLB,TRUE
+Nolan,Schanuel,21,76,220,Boca Raton,FL,1B,Los Angeles Angels,MLB,TRUE
+Livan,Soto,23,70,160,Valencia,Venezuela,2B,Los Angeles Angels,MLB,TRUE
+Michael,Stefanic,27,68,180,Boise,ID,2B,Los Angeles Angels,MLB,TRUE
+Jordyn,Adams,24,74,181,Gulfport,MS,CF,Los Angeles Angels,MLB,TRUE
+Jo,Adell,24,75,215,Shelby,NC,RF,Los Angeles Angels,MLB,TRUE
+Mickey,Moniak,25,74,195,Encinitas,CA,RF,Los Angeles Angels,MLB,TRUE
+Brett,Phillips,29,72,195,Seminole,FL,CF,Los Angeles Angels,MLB,TRUE
+Mike,Trout,32,74,235,Vineland,NJ,CF,Los Angeles Angels,MLB,TRUE
+Taylor,Ward,30,73,200,Dayton,OH,LF,Los Angeles Angels,MLB,TRUE
+Brady,Basso,26,74,213,Pearland,TX,SP,Oakland Athletics,MLB,TRUE
+Osvaldo,Bido,28,75,175,Los Hidalgos,Dominican Republic,SP,Oakland Athletics,MLB,TRUE
+Paul,Blackburn,30,73,196,Antioch,CA,SP,Oakland Athletics,MLB,TRUE
+Joe,Boyle,24,79,240,O'Fallon,MO,RP,Oakland Athletics,MLB,TRUE
+Lucas,Erceg,28,74,214,San Jose,CA,RP,Oakland Athletics,MLB,TRUE
+Joey,Estes,22,74,190,Palmdale,CA,SP,Oakland Athletics,MLB,TRUE
+Angel,Felipe,26,77,190,Villa Mella,Dominican Republic,RP,Oakland Athletics,MLB,TRUE
+Trevor,Gott,31,71,185,Lexington,KY,RP,Oakland Athletics,MLB,TRUE
+Hogan,Harris,27,75,230,Lafayette,LA,RP,Oakland Athletics,MLB,TRUE
+Zach,Jackson,29,76,230,Tulsa,OK,RP,Oakland Athletics,MLB,TRUE
+Dany,Jimenez,30,73,182,San Cristobal,Dominican Republic,RP,Oakland Athletics,MLB,TRUE
+Michael,Kelly,31,76,185,Boynton Beach,FL,RP,Oakland Athletics,MLB,TRUE
+Adrian,Martinez,27,74,215,Mexicali,Mexico,RP,Oakland Athletics,MLB,TRUE
+Luis,Medina,24,73,175,Nagua,Dominican Republic,SP,Oakland Athletics,MLB,TRUE
+Mason,Miller,25,77,200,Pittsburgh,PA,SP,Oakland Athletics,MLB,TRUE
+Kyle,Muller,26,79,250,Dallas,TX,SP,Oakland Athletics,MLB,TRUE
+Sean,Newcomb,30,77,255,Brockton,MA,RP,Oakland Athletics,MLB,TRUE
+Francisco,Perez,26,74,227,Loma de Cabrera,Dominican Republic,RP,Oakland Athletics,MLB,TRUE
+Royber,Salinas,22,75,205,Guarenas,Venezuela,RP,Oakland Athletics,MLB,TRUE
+JP,Sears,27,71,180,Sumter,SC,SP,Oakland Athletics,MLB,TRUE
+Mitch,Spence,25,73,185,Kirkland,WA,SP,Oakland Athletics,MLB,TRUE
+Freddy,Tarnok,25,75,185,Brandon,FL,RP,Oakland Athletics,MLB,TRUE
+Ken,Waldichuk,26,76,220,San Diego,CA,SP,Oakland Athletics,MLB,TRUE
+Shea,Langeliers,26,72,205,Portland,OR,C,Oakland Athletics,MLB,TRUE
+Carlos,Perez,33,70,210,Valencia,Venezuela,C,Oakland Athletics,MLB,TRUE
+Tyler,Soderstrom,22,73,200,Turlock,CA,C,Oakland Athletics,MLB,TRUE
+Nick,Allen,25,68,166,San Diego,CA,SS,Oakland Athletics,MLB,TRUE
+Jonah,Bride,28,70,200,Owasso,OK,3B,Oakland Athletics,MLB,TRUE
+Aledmys,Diaz,33,73,195,Santa Clara,Cuba,SS,Oakland Athletics,MLB,TRUE
+Jordan,Diaz,23,70,175,Sincelejo,Colombia,2B,Oakland Athletics,MLB,TRUE
+Zack,Gelof,24,74,205,Rehoboth Beach,DE,2B,Oakland Athletics,MLB,TRUE
+Darell,Hernaiz,22,71,190,San Juan,Puerto Rico,SS,Oakland Athletics,MLB,TRUE
+Ryan,Noda,27,75,217,Volo,IL,1B,Oakland Athletics,MLB,TRUE
+Abraham,Toro,27,72,223,Longueuil,Canada,3B,Oakland Athletics,MLB,TRUE
+Miguel,Andujar,28,72,211,San Cristobal,Dominican Republic,LF,Oakland Athletics,MLB,TRUE
+Lazaro,Robersy,24,71,182,Havana,Cuba,LF,Oakland Athletics,MLB,TRUE
+JJ,Bleday,26,74,205,Danville,PA,LF,Oakland Athletics,MLB,TRUE
+Seth,Brown,31,73,223,Klamath Falls,OR,LF,Oakland Athletics,MLB,TRUE
+Lawrence,Butler,23,75,210,Burlington,NJ,OF,Oakland Athletics,MLB,TRUE
+Brent,Rooker,29,76,225,Germantown,TN,LF,Oakland Athletics,MLB,TRUE
+Esteury,Ruiz,24,72,169,Azua Province,Dominican Republic,CF,Oakland Athletics,MLB,TRUE
+Ty,Adcock,26,72,213,Oxford,NC,RP,Seattle Mariners,MLB,TRUE
+Eduard,Bazardo,28,72,190,Maracay,Venezuela,RP,Seattle Mariners,MLB,TRUE
+Prelander,Berroa,23,71,170,Santo Domingo,Dominican Republic,SP,Seattle Mariners,MLB,TRUE
+Cody,Bolton,25,74,210,Richmond,VA,RP,Seattle Mariners,MLB,TRUE
+Matt,Brash,25,73,173,Kingston,Canada,RP,Seattle Mariners,MLB,TRUE
+Luis,Castillo,31,74,200,Bani,Dominican Republic,SP,Seattle Mariners,MLB,TRUE
+Anthony,DeSclafani,33,74,195,Freehold,NJ,SP,Seattle Mariners,MLB,TRUE
+Logan,Gilbert,26,78,215,Winter Park,FL,SP,Seattle Mariners,MLB,TRUE
+Emerson,Hancock,24,76,213,Cairo,GA,SP,Seattle Mariners,MLB,TRUE
+George,Kirby,25,76,215,Rye,NY,SP,Seattle Mariners,MLB,TRUE
+Jackson,Kowar,27,77,200,Weddington,NC,RP,Seattle Mariners,MLB,TRUE
+Mauricio,Llovera,27,71,224,El Tigre,Venezuela,RP,Seattle Mariners,MLB,TRUE
+Darren,McCaughan,27,73,200,Long Beach,CA,RP,Seattle Mariners,MLB,TRUE
+Bryce,Miller,25,74,200,Mount Pleasant,TX,SP,Seattle Mariners,MLB,TRUE
+Andres,Munoz,25,74,222,Los Mochis,Mexico,RP,Seattle Mariners,MLB,TRUE
+Tayler,Saucedo,30,76,205,Honolulu,HI,RP,Seattle Mariners,MLB,TRUE
+Gabe,Speier,28,71,200,Santa Barbara,CA,RP,Seattle Mariners,MLB,TRUE
+Trent,Thornton,30,72,190,Charlotte,NC,RP,Seattle Mariners,MLB,TRUE
+Justin,Topa,32,76,200,Binghamton,NY,RP,Seattle Mariners,MLB,TRUE
+Carlos,Vargas,24,76,210,Moca,Dominican Republic,RP,Seattle Mariners,MLB,TRUE
+Austin,Voth,31,74,215,Redmond,WA,RP,Seattle Mariners,MLB,TRUE
+Bryan,Woo,23,74,205,Oakland,CA,SP,Seattle Mariners,MLB,TRUE
+Mitch,Garver,33,73,220,Albuquerque,NM,C,Seattle Mariners,MLB,TRUE
+Blake,Hunt,25,75,215,Costa Mesa,CA,C,Seattle Mariners,MLB,TRUE
+Cal,Raleigh,27,75,235,Cullowhee,NC,C,Seattle Mariners,MLB,TRUE
+Seby,Zavala,30,71,205,Fort Hood,TX,C,Seattle Mariners,MLB,TRUE
+J.P.,Crawford,29,74,202,Long Beach,CA,SS,Seattle Mariners,MLB,TRUE
+Ty,France,29,71,215,Downey,CA,1B,Seattle Mariners,MLB,TRUE
+Sam,Haggerty,29,71,175,Phoenix,AZ,2B,Seattle Mariners,MLB,TRUE
+Luke,Raley,29,76,235,Hinckley,OH,1B,Seattle Mariners,MLB,TRUE
+Josh,Rojas,29,73,207,Litchfield Park,AZ,3B,Seattle Mariners,MLB,TRUE
+Luis,Urias,26,70,202,Sonora,Mexico,3B,Seattle Mariners,MLB,TRUE
+Dominic,Canzone,26,71,190,Cleveland,OH,OF,Seattle Mariners,MLB,TRUE
+Jonatan,Clase,21,69,150,Santo Domingo,Dominican Republic,CF,Seattle Mariners,MLB,TRUE
+Zach,DeLoach,25,72,205,Irving,TX,RF,Seattle Mariners,MLB,TRUE
+Mitch,Haniger,33,74,214,Mountain View,CA,LF,Seattle Mariners,MLB,TRUE
+Cade,Marlowe,26,73,210,Tifton,GA,LF,Seattle Mariners,MLB,TRUE
+Dylan,Moore,31,72,205,Yorba Linda,CA,LF,Seattle Mariners,MLB,TRUE
+Julio,Rodriguez,23,75,228,Loma de Cabrera,Dominican Republic,CF,Seattle Mariners,MLB,TRUE
+Taylor,Trammell,26,74,220,Powder Springs,GA,LF,Seattle Mariners,MLB,TRUE
+Grant,Anderson,26,72,180,Port Arthur,TX,RP,Texas Rangers,MLB,TRUE
+Cody,Bradford,25,76,197,Aledo,TX,SP,Texas Rangers,MLB,TRUE
+Brock,Burke,27,76,210,Chicago,IL,RP,Texas Rangers,MLB,TRUE
+Marc,Church,22,75,189,Atlanta,GA,RP,Texas Rangers,MLB,TRUE
+Carson,Coleman,25,74,190,Lexington,KY,RP,Texas Rangers,MLB,TRUE
+Jose,Corniell,20,75,165,Santo Domingo,Dominican Republic,SP,Texas Rangers,MLB,TRUE
+Jacob,deGrom,35,76,180,DeLand,FL,SP,Texas Rangers,MLB,TRUE
+Daniel,Duarte,27,72,235,Huatabampo,Mexico,RP,Texas Rangers,MLB,TRUE
+Dane,Dunning,29,76,225,Orange Park,FL,SP,Texas Rangers,MLB,TRUE
+Nathan,Eovaldi,33,74,217,Houston,TX,SP,Texas Rangers,MLB,TRUE
+Jon,Gray,32,76,225,Shawnee,OK,SP,Texas Rangers,MLB,TRUE
+Andrew,Heaney,32,74,200,Oklahoma City,OK,SP,Texas Rangers,MLB,TRUE
+Jonathan,Hernandez,27,75,190,Memphis,TN,RP,Texas Rangers,MLB,TRUE
+Antoine,Kelly,24,77,205,Chicago,IL,SP,Texas Rangers,MLB,TRUE
+Zachary,Kent,25,75,208,Henrico,VA,SP,Texas Rangers,MLB,TRUE
+Jake,Latz,27,74,185,Lemont,IL,SP,Texas Rangers,MLB,TRUE
+Jose,Leclerc,30,72,195,Esperanza,Dominican Republic,RP,Texas Rangers,MLB,TRUE
+Tyler,Mahle,29,75,210,Newport Beach,CA,SP,Texas Rangers,MLB,TRUE
+David,Robertson,38,71,195,Birmingham,AL,RP,Texas Rangers,MLB,TRUE
+Yerry,Rodriguez,26,74,198,Santiago,Dominican Republic,RP,Texas Rangers,MLB,TRUE
+Josh,Sborz,30,75,215,Washington,DC,RP,Texas Rangers,MLB,TRUE
+Max,Scherzer,39,75,208,St. Louis,MO,SP,Texas Rangers,MLB,TRUE
+Owen,White,24,75,199,Mount Ulla,NC,RP,Texas Rangers,MLB,TRUE
+Cole,Winn,24,74,190,Longmont,CO,SP,Texas Rangers,MLB,TRUE
+Kirby,Yates,36,70,205,Lihue,HI,RP,Texas Rangers,MLB,TRUE
+Jonah,Heim,28,76,220,Buffalo,NY,C,Texas Rangers,MLB,TRUE
+Sam,Huff,26,76,240,Phoenix,AZ,C,Texas Rangers,MLB,TRUE
+Andrew,Knizner,28,73,225,Glen Allen,VA,C,Texas Rangers,MLB,TRUE
+Ezequiel,Duran,24,71,185,San Juan de la Maguana,Dominican Republic,SS,Texas Rangers,MLB,TRUE
+Justin,Foscue,24,71,205,Huntsville,AL,2B,Texas Rangers,MLB,TRUE
+Josh,Jung,25,74,214,San Antonio,TX,3B,Texas Rangers,MLB,TRUE
+Nathaniel,Lowe,28,76,220,Norfolk,VA,1B,Texas Rangers,MLB,TRUE
+Jonathan,Ornelas,23,72,196,Glendale,AZ,3B,Texas Rangers,MLB,TRUE
+Corey,Seager,29,76,215,Charlotte,NC,SS,Texas Rangers,MLB,TRUE
+Marcus,Semien,33,72,195,San Francisco,CA,2B,Texas Rangers,MLB,TRUE
+Josh,Smith,26,70,172,Baton Rouge,LA,SS,Texas Rangers,MLB,TRUE
+Evan,Carter,21,74,190,Elizabethton,TN,CF,Texas Rangers,MLB,TRUE
+Adolis,Garcia,30,73,205,Ciego de Avila,Cuba,RF,Texas Rangers,MLB,TRUE
+Dustin,Harris,24,75,185,Tampa,FL,OF,Texas Rangers,MLB,TRUE
+Travis,Jankowski,32,74,190,Lancaster,PA,LF,Texas Rangers,MLB,TRUE
+Leody,Taveras,25,74,195,Tenares,Dominican Republic,CF,Texas Rangers,MLB,TRUE
+Miguel,Castro,29,79,201,La Romana,Dominican Republic,RP,Arizona Diamondbacks,MLB,TRUE
+Slade,Cecconi,24,76,219,Oviedo,FL,SP,Arizona Diamondbacks,MLB,TRUE
+Luis,Frias,25,75,245,Rio San Juan,Dominican Republic,RP,Arizona Diamondbacks,MLB,TRUE
+Zac,Gallen,28,74,189,Somerdale,NJ,SP,Arizona Diamondbacks,MLB,TRUE
+Kevin,Ginkel,29,76,235,San Diego,CA,RP,Arizona Diamondbacks,MLB,TRUE
+Tommy,Henry,26,75,205,Portage,MI,SP,Arizona Diamondbacks,MLB,TRUE
+Drey,Jameson,26,72,165,Greenfield,IN,RP,Arizona Diamondbacks,MLB,TRUE
+Bryce,Jarvis,26,74,195,Lexington,KY,RP,Arizona Diamondbacks,MLB,TRUE
+Merrill,Kelly,35,74,202,Houston,TX,SP,Arizona Diamondbacks,MLB,TRUE
+Joe,Mantiply,32,76,219,Danville,VA,RP,Arizona Diamondbacks,MLB,TRUE
+Corbin,Martin,28,74,225,Hempstead,TX,SP,Arizona Diamondbacks,MLB,TRUE
+Justin,Martinez,22,75,180,Bonao,Dominican Republic,RP,Arizona Diamondbacks,MLB,TRUE
+Scott,McGough,34,71,190,Monroeville,PA,RP,Arizona Diamondbacks,MLB,TRUE
+Kyle,Nelson,27,73,175,San Francisco,CA,RP,Arizona Diamondbacks,MLB,TRUE
+Ryne,Nelson,25,75,184,Henderson,NV,SP,Arizona Diamondbacks,MLB,TRUE
+Brandon,Pfaadt,25,76,220,Louisville,KY,SP,Arizona Diamondbacks,MLB,TRUE
+Chris,Rodriguez,25,74,185,Coral Springs,FL,RP,Arizona Diamondbacks,MLB,TRUE
+Eduardo,Rodriguez,30,74,231,Valencia,Venezuela,SP,Arizona Diamondbacks,MLB,TRUE
+Andrew,Saalfrank,26,75,205,Fort Wayne,IN,RP,Arizona Diamondbacks,MLB,TRUE
+Paul,Sewald,33,75,219,Las Vegas,NV,RP,Arizona Diamondbacks,MLB,TRUE
+Collin,Snider,28,76,195,Nashville,TN,RP,Arizona Diamondbacks,MLB,TRUE
+Peter,Strzelecki,29,74,216,Queens,NY,RP,Arizona Diamondbacks,MLB,TRUE
+Ryan,Thompson,31,77,210,Turner,OR,RP,Arizona Diamondbacks,MLB,TRUE
+Blake,Walston,22,77,175,Wilmington,NC,SP,Arizona Diamondbacks,MLB,TRUE
+Jose,Herrera,26,70,217,San Carlos,Venezuela,C,Arizona Diamondbacks,MLB,TRUE
+Gabriel,Moreno,23,71,195,Barquisimeto,Venezuela,C,Arizona Diamondbacks,MLB,TRUE
+Blaze,Alexander,24,71,160,Cape Coral,FL,SS,Arizona Diamondbacks,MLB,TRUE
+Jordan,Lawlar,21,73,190,Carrollton,TX,SS,Arizona Diamondbacks,MLB,TRUE
+Ketel,Marte,30,73,210,Nizao,Dominican Republic,2B,Arizona Diamondbacks,MLB,TRUE
+Geraldo,Perdomo,24,74,203,Santo Domingo,Dominican Republic,SS,Arizona Diamondbacks,MLB,TRUE
+Jace,Peterson,33,72,215,Lake Charles,LA,3B,Arizona Diamondbacks,MLB,TRUE
+Emmanuel,Rivera,27,74,225,Mayaguez,Puerto Rico,3B,Arizona Diamondbacks,MLB,TRUE
+Eugenio,Suarez,32,71,213,Puerto Ordaz,Venezuela,3B,Arizona Diamondbacks,MLB,TRUE
+Christian,Walker,32,72,208,Norristown,PA,1B,Arizona Diamondbacks,MLB,TRUE
+Jorge,Barrosa,22,65,165,Puerto Cabello,Venezuela,LF,Arizona Diamondbacks,MLB,TRUE
+Corbin,Carroll,23,70,165,Seattle,WA,LF,Arizona Diamondbacks,MLB,TRUE
+Dominic,Fletcher,26,66,185,Orange,CA,CF,Arizona Diamondbacks,MLB,TRUE
+Lourdes,Gurriel,30,76,215,Sancti Spíritus,Cuba,LF,Arizona Diamondbacks,MLB,TRUE
+Jake,McCarthy,26,74,215,Scranton,PA,RF,Arizona Diamondbacks,MLB,TRUE
+Pavin,Smith,27,74,208,Jupiter,FL,OF,Arizona Diamondbacks,MLB,TRUE
+Alek,Thomas,23,71,175,Chicago,IL,CF,Arizona Diamondbacks,MLB,TRUE
+Daniel,Bard,38,76,215,Houston,TX,RP,Colorado Rockies,MLB,TRUE
+Jalen,Beeks,30,71,215,Fayetteville,AR,RP,Colorado Rockies,MLB,TRUE
+Jake,Bird,28,75,200,Newhall,CA,RP,Colorado Rockies,MLB,TRUE
+Matt,Carasiti,32,74,205,New Britain,CT,RP,Colorado Rockies,MLB,TRUE
+Angel,Chivilli,21,74,162,La Victoria,Dominican Republic,RP,Colorado Rockies,MLB,TRUE
+Noah,Davis,26,74,195,Newport Beach,CA,SP,Colorado Rockies,MLB,TRUE
+Ryan,Feltner,27,76,190,Orlando,FL,SP,Colorado Rockies,MLB,TRUE
+Kyle,Freeland,30,76,204,Denver,CO,SP,Colorado Rockies,MLB,TRUE
+Lucas,Gilbreath,27,73,185,Westminster,CO,RP,Colorado Rockies,MLB,TRUE
+Austin,Gomber,30,77,220,Winter Garden,FL,SP,Colorado Rockies,MLB,TRUE
+Gavin,Hollowell,26,79,215,Somerset,NJ,RP,Colorado Rockies,MLB,TRUE
+Dakota,Hudson,29,77,215,Dunlap,TN,SP,Colorado Rockies,MLB,TRUE
+Evan,Justice,25,76,205,Richmond,VA,RP,Colorado Rockies,MLB,TRUE
+Karl,Kauffmann,26,74,200,Bloomfield Hills,MI,SP,Colorado Rockies,MLB,TRUE
+Tyler,Kinley,32,76,220,Plantation,FL,RP,Colorado Rockies,MLB,TRUE
+Peter,Lambert,26,74,208,San Dimas,CA,RP,Colorado Rockies,MLB,TRUE
+Justin,Lawrence,29,75,213,Panama City,Panama,RP,Colorado Rockies,MLB,TRUE
+German,Marquez,28,73,230,San Felix,Venezuela,SP,Colorado Rockies,MLB,TRUE
+Nick,Mears,27,74,200,Sacramento,CA,RP,Colorado Rockies,MLB,TRUE
+Juan,Mejia,23,75,200,Santo Domingo,Dominican Republic,RP,Colorado Rockies,MLB,TRUE
+Anthony,Molina,22,73,170,San Joaquin,Venezuela,RP,Colorado Rockies,MLB,TRUE
+Riley,Pint,26,77,225,Lenexa,KS,RP,Colorado Rockies,MLB,TRUE
+Cal,Quantrill,28,75,195,Port Hope,Canada,SP,Colorado Rockies,MLB,TRUE
+Antonio,Senzatela,29,73,236,Valencia,Venezuela,SP,Colorado Rockies,MLB,TRUE
+Victor,Vodnik,24,72,200,Whittier,CA,RP,Colorado Rockies,MLB,TRUE
+Elias,Diaz,33,73,223,Maracaibo,Venezuela,C,Colorado Rockies,MLB,TRUE
+Jacob,Stallings,34,77,225,Lawrence,KS,C,Colorado Rockies,MLB,TRUE
+Adael,Amador,20,72,200,Santiago,Dominican Republic,2B,Colorado Rockies,MLB,TRUE
+Warming,Bernabel,21,73,180,Bani,Dominican Republic,SS,Colorado Rockies,MLB,TRUE
+Julio,Carreras,24,73,190,Sabana Grande de Boya,Dominican Republic,3B,Colorado Rockies,MLB,TRUE
+Harold,Castro,30,70,195,Caracas,Venezuela,2B,Colorado Rockies,MLB,TRUE
+Hunter,Goodman,24,71,210,Arlington,TN,1B,Colorado Rockies,MLB,TRUE
+Ryan,McMahon,29,74,219,Yorba Linda,CA,3B,Colorado Rockies,MLB,TRUE
+Elehuris,Montero,25,75,235,Santo Domingo,Dominican Republic,3B,Colorado Rockies,MLB,TRUE
+Brendan,Rodgers,27,72,204,Winter Park,FL,2B,Colorado Rockies,MLB,TRUE
+Michael,Toglia,25,77,226,Phoenix,AZ,1B,Colorado Rockies,MLB,TRUE
+Ezequiel,Tovar,22,72,162,Maracay,Venezuela,SS,Colorado Rockies,MLB,TRUE
+Alan,Trejo,27,74,205,Los Angeles,CA,2B,Colorado Rockies,MLB,TRUE
+Sean,Bouchard,27,75,215,San Diego,CA,LF,Colorado Rockies,MLB,TRUE
+Kris,Bryant,32,77,230,Las Vegas,NV,RF,Colorado Rockies,MLB,TRUE
+Brenton,Doyle,25,74,200,Warrenton,VA,CF,Colorado Rockies,MLB,TRUE
+Yanquiel,Fernandez,21,74,198,Havana,Cuba,RF,Colorado Rockies,MLB,TRUE
+Nolan,Jones,25,76,195,Langhorne,PA,RF,Colorado Rockies,MLB,TRUE
+Charlie,Blackmon,37,75,221,Dallas,TX,DH,Colorado Rockies,MLB,TRUE
+Ryan,Brasier,36,72,223,Wichita Falls,TX,RP,Los Angeles Dodgers,MLB,TRUE
+Walker,Buehler,29,74,185,Lexington,KY,SP,Los Angeles Dodgers,MLB,TRUE
+Caleb,Ferguson,27,75,226,Columbus,OH,RP,Los Angeles Dodgers,MLB,TRUE
+J.P.,Feyereisen,30,74,215,River Falls,WI,RP,Los Angeles Dodgers,MLB,TRUE
+Nick,Frasso,25,77,200,Torrance,CA,RP,Los Angeles Dodgers,MLB,TRUE
+Tyler,Glasnow,30,80,225,Newhall,CA,SP,Los Angeles Dodgers,MLB,TRUE
+Tony,Gonsolin,29,75,205,Vacaville,CA,SP,Los Angeles Dodgers,MLB,TRUE
+Brusdar,Graterol,25,73,265,Calabozo,Venezuela,RP,Los Angeles Dodgers,MLB,TRUE
+Michael,Grove,27,75,200,Wheeling,WV,SP,Los Angeles Dodgers,MLB,TRUE
+Kyle,Hurt,25,75,240,Rancho Santa Fe,CA,SP,Los Angeles Dodgers,MLB,TRUE
+Joe,Kelly,35,73,174,Anaheim,CA,RP,Los Angeles Dodgers,MLB,TRUE
+Landon,Knack,26,74,220,Johnson City,TN,SP,Los Angeles Dodgers,MLB,TRUE
+Dustin,May,26,78,180,Justin,TX,SP,Los Angeles Dodgers,MLB,TRUE
+Bobby,Miller,24,77,220,Elk Grove Village,IL,SP,Los Angeles Dodgers,MLB,TRUE
+Evan,Phillips,29,74,215,Salisbury,MD,RP,Los Angeles Dodgers,MLB,TRUE
+Emmet,Sheehan,24,77,220,New York,NY,SP,Los Angeles Dodgers,MLB,TRUE
+Gavin,Stone,25,73,175,Lake City,AR,SP,Los Angeles Dodgers,MLB,TRUE
+Blake,Treinen,35,77,225,Wichita,KS,RP,Los Angeles Dodgers,MLB,TRUE
+Julio,Urias,27,72,225,Culiacan,Mexico,SP,Los Angeles Dodgers,MLB,TRUE
+Ricky,Vanasco,25,75,180,Morriston,FL,SP,Los Angeles Dodgers,MLB,TRUE
+Gus,Varland,27,73,213,Maplewood,MN,RP,Los Angeles Dodgers,MLB,TRUE
+Alex,Vesia,27,73,209,Alpine,CA,RP,Los Angeles Dodgers,MLB,TRUE
+Yoshinobu,Yamamoto,25,70,176,--,NA,SP,Los Angeles Dodgers,MLB,TRUE
+Ryan,Yarbrough,32,77,215,Austin,TX,RP,Los Angeles Dodgers,MLB,TRUE
+Austin,Barnes,34,70,187,Riverside,CA,C,Los Angeles Dodgers,MLB,TRUE
+Diego,Cartaya,22,75,219,Maracay,Venezuela,C,Los Angeles Dodgers,MLB,TRUE
+Hunter,Feduccia,26,72,215,Lake Charles,LA,C,Los Angeles Dodgers,MLB,TRUE
+Will,Smith,28,70,195,Louisville,KY,C,Los Angeles Dodgers,MLB,TRUE
+Freddie,Freeman,34,77,220,Villa Park,CA,1B,Los Angeles Dodgers,MLB,TRUE
+Enrique,Hernandez,32,71,195,San Juan,Puerto Rico,SS,Los Angeles Dodgers,MLB,TRUE
+Gavin,Lux,26,74,190,Kenosha,WI,SS,Los Angeles Dodgers,MLB,TRUE
+Max,Muncy,33,72,215,Midland,TX,3B,Los Angeles Dodgers,MLB,TRUE
+Miguel,Rojas,34,72,188,Los Teques,Venezuela,SS,Los Angeles Dodgers,MLB,TRUE
+Chris,Taylor,33,73,196,Virginia Beach,VA,SS,Los Angeles Dodgers,MLB,TRUE
+Miguel,Vargas,24,75,205,Havana,Cuba,2B,Los Angeles Dodgers,MLB,TRUE
+Mookie,Betts,31,69,180,Nashville,TN,RF,Los Angeles Dodgers,MLB,TRUE
+Teoscar,Hernandez,31,74,215,Cotui,Dominican Republic,RF,Los Angeles Dodgers,MLB,TRUE
+Jason,Heyward,34,77,240,Ridgewood,NJ,RF,Los Angeles Dodgers,MLB,TRUE
+Manuel,Margot,29,71,180,San Cristobal,Dominican Republic,CF,Los Angeles Dodgers,MLB,TRUE
+James,Outman,26,75,215,Redwood City,CA,CF,Los Angeles Dodgers,MLB,TRUE
+Andy,Pages,23,73,212,Havana,Cuba,RF,Los Angeles Dodgers,MLB,TRUE
+David,Peralta,36,73,210,Valencia,Venezuela,LF,Los Angeles Dodgers,MLB,TRUE
+Shohei,Ohtani,29,76,210,Oshu,Japan,DH,Los Angeles Dodgers,MLB,TRUE
+Pedro,Avila,27,71,210,Caracas,Venezuela,RP,San Diego Padres,MLB,TRUE
+Jhony,Brito,25,74,210,Puerto Plata,Dominican Republic,SP,San Diego Padres,MLB,TRUE
+Tom,Cosgrove,27,74,190,Staten Island,NY,RP,San Diego Padres,MLB,TRUE
+Yu,Darvish,37,77,220,Osaka,Japan,SP,San Diego Padres,MLB,TRUE
+Enyel,De,28,75,235,San Pedro de Macoris,Dominican Republic,RP,San Diego Padres,MLB,TRUE
+Jeremiah,Estrada,25,73,185,Indio,CA,RP,San Diego Padres,MLB,TRUE
+Logan,Gillaspie,26,74,215,Bakersfield,CA,RP,San Diego Padres,MLB,TRUE
+Jay,Groome,25,78,262,Barnegat,NJ,SP,San Diego Padres,MLB,TRUE
+Jairo,Iriarte,22,74,160,La Guaira,Venezuela,SP,San Diego Padres,MLB,TRUE
+Alek,Jacob,25,75,190,Spokane,WA,RP,San Diego Padres,MLB,TRUE
+Michael,King,28,75,210,Rochester,NY,RP,San Diego Padres,MLB,TRUE
+Reiss,Knehr,27,74,205,Manhasset,NY,RP,San Diego Padres,MLB,TRUE
+Stephen,Kolek,26,75,210,Houston,TX,RP,San Diego Padres,MLB,TRUE
+Adrian,Morejon,24,71,224,Havana,Cuba,RP,San Diego Padres,MLB,TRUE
+Joe,Musgrove,31,77,230,El Cajon,CA,SP,San Diego Padres,MLB,TRUE
+Glenn,Otto,27,75,240,Spring,TX,RP,San Diego Padres,MLB,TRUE
+Luis,Patino,24,73,192,Barranquilla,Colombia,SP,San Diego Padres,MLB,TRUE
+Sean,Reynolds,25,80,250,Redondo Beach,CA,RP,San Diego Padres,MLB,TRUE
+Robert,Suarez,32,74,210,Ciudad Bolivar,Venezuela,RP,San Diego Padres,MLB,TRUE
+Randy,Vasquez,25,72,165,Navarrete,Dominican Republic,SP,San Diego Padres,MLB,TRUE
+Matt,Waldron,27,74,185,Omaha,NE,RP,San Diego Padres,MLB,TRUE
+Steven,Wilson,29,75,221,Littleton,CO,RP,San Diego Padres,MLB,TRUE
+Luis,Campusano,25,71,232,Augusta,GA,C,San Diego Padres,MLB,TRUE
+Kyle,Higashioka,33,73,202,Huntington Beach,CA,C,San Diego Padres,MLB,TRUE
+Brett,Sullivan,29,70,195,Stockton,CA,C,San Diego Padres,MLB,TRUE
+Matthew,Batten,28,70,180,Shelton,CT,2B,San Diego Padres,MLB,TRUE
+Xander,Bogaerts,31,74,218,Oranjestad,Aruba,SS,San Diego Padres,MLB,TRUE
+Jake,Cronenworth,30,72,187,Saint Clair,MI,1B,San Diego Padres,MLB,TRUE
+Ha-Seong,Kim,28,69,168,Seoul,South Korea,2B,San Diego Padres,MLB,TRUE
+Manny,Machado,31,75,218,Miami,FL,3B,San Diego Padres,MLB,TRUE
+Tucupita,Marcano,24,72,170,San Antonio de Maturin,Venezuela,SS,San Diego Padres,MLB,TRUE
+Eguy,Rosario,24,67,150,Juan Baron,Dominican Republic,3B,San Diego Padres,MLB,TRUE
+Jose,Azocar,27,71,181,Güiria,Venezuela,RF,San Diego Padres,MLB,TRUE
+Fernando,Tatis,25,75,217,San Pedro de Macoris,Dominican Republic,RF,San Diego Padres,MLB,TRUE
+Tristan,Beck,27,76,165,Corona,CA,RP,San Francisco Giants,MLB,TRUE
+Alex,Cobb,36,75,205,Boston,MA,SP,San Francisco Giants,MLB,TRUE
+Camilo,Doval,26,74,185,Yamasa,Dominican Republic,RP,San Francisco Giants,MLB,TRUE
+Kyle,Harrison,22,74,200,San Jose,CA,SP,San Francisco Giants,MLB,TRUE
+Jordan,Hicks,27,74,220,Houston,TX,SP,San Francisco Giants,MLB,TRUE
+Sean,Hjelle,26,83,228,Fridley,MN,RP,San Francisco Giants,MLB,TRUE
+Luke,Jackson,32,74,210,Fort Lauderdale,FL,RP,San Francisco Giants,MLB,TRUE
+Trevor,Mcdonald,22,74,200,Mobile,AL,SP,San Francisco Giants,MLB,TRUE
+Erik,Miller,25,77,240,St. Louis,MO,RP,San Francisco Giants,MLB,TRUE
+Robbie,Ray,32,74,225,Brentwood,TN,SP,San Francisco Giants,MLB,TRUE
+Randy,Rodriguez,24,72,166,Santo Domingo,Dominican Republic,RP,San Francisco Giants,MLB,TRUE
+Taylor,Rogers,33,75,190,Denver,CO,RP,San Francisco Giants,MLB,TRUE
+Tyler,Rogers,33,75,181,Denver,CO,RP,San Francisco Giants,MLB,TRUE
+Kai-Wei,Teng,25,76,260,Taichung,Taiwan,SP,San Francisco Giants,MLB,TRUE
+Ryan,Walker,28,74,200,Arlington,WA,RP,San Francisco Giants,MLB,TRUE
+Logan,Webb,27,73,220,Rocklin,CA,SP,San Francisco Giants,MLB,TRUE
+Keaton,Winn,25,76,238,Ollie,IA,RP,San Francisco Giants,MLB,TRUE
+Patrick,Bailey,24,72,210,Greensboro,NC,C,San Francisco Giants,MLB,TRUE
+Joey,Bart,27,74,238,Buford,GA,C,San Francisco Giants,MLB,TRUE
+Tom,Murphy,32,73,206,West Monroe,NY,C,San Francisco Giants,MLB,TRUE
+Blake,Sabol,26,76,225,Aliso Viejo,CA,C,San Francisco Giants,MLB,TRUE
+J.D.,Davis,30,75,218,Elk Grove,CA,3B,San Francisco Giants,MLB,TRUE
+Thairo,Estrada,27,70,185,Bejuma,Venezuela,2B,San Francisco Giants,MLB,TRUE
+Tyler,Fitzgerald,26,75,205,Springfield,IL,SS,San Francisco Giants,MLB,TRUE
+Wilmer,Flores,32,74,213,Valencia,Venezuela,1B,San Francisco Giants,MLB,TRUE
+Marco,Luciano,22,73,178,San Francisco de Macoris,Dominican Republic,SS,San Francisco Giants,MLB,TRUE
+Casey,Schmitt,24,74,215,San Diego,CA,SS,San Francisco Giants,MLB,TRUE
+David,Villar,26,73,215,Atlanta,GA,2B,San Francisco Giants,MLB,TRUE
+LaMonte,Wade,30,73,205,Baltimore,MD,1B,San Francisco Giants,MLB,TRUE
+Brett,Wisely,24,70,180,Jacksonville,FL,2B,San Francisco Giants,MLB,TRUE
+Michael,Conforto,30,73,215,Seattle,WA,RF,San Francisco Giants,MLB,TRUE
+TJ,Hopkins,27,73,195,Summerville,SC,CF,San Francisco Giants,MLB,TRUE
+Cooper,Hummel,29,70,198,Portland,OR,OF,San Francisco Giants,MLB,TRUE
+Jung,Hoo,25,73,192,Nagoya,Japan,OF,San Francisco Giants,MLB,TRUE
+Luis,Matos,21,71,160,Valera,Venezuela,CF,San Francisco Giants,MLB,TRUE
+Wade,Meckler,23,70,178,Anaheim,CA,OF,San Francisco Giants,MLB,TRUE
+Heliot,Ramos,24,73,188,Humacao,Puerto Rico,LF,San Francisco Giants,MLB,TRUE
+Austin,Slater,31,73,204,Jacksonville,FL,LF,San Francisco Giants,MLB,TRUE
+Mike,Yastrzemski,33,70,178,Andover,MA,CF,San Francisco Giants,MLB,TRUE
+Stephan,Aumaitre,23,67,140,Grove city,OH,SS /,Adrian,Club,FALSE
+Shane,Braughton II,19,72,167,Dansville,MI,C,Adrian,Club,FALSE
+Austin,Daniels,20,72,165,Adrian,MI,OF,Adrian,Club,FALSE
+Connor,Davies,21,73,195,Adrian,MI,OF,Adrian,Club,FALSE
+Devon,Flanery,20,71,170,Edwardsburg,MI,C,Adrian,Club,FALSE
+Jack,Florig,22,68,175,Hudson,OH,P,Adrian,Club,FALSE
+Remington,Gielniak,19,68,160,Armada,MI,C,Adrian,Club,FALSE
+Colton,Hicks,20,70,175,Pioneer,OH,P,Adrian,Club,FALSE
+Elijah,Holst,20,75,185,Elgin,IL,OF,Adrian,Club,FALSE
+Jesse,Leyva Jesse,19,70,173,Oak Hills,CA,SS,Adrian,Club,FALSE
+Nathan,Lindner,19,71,140,South Milwaukee,WI,P,Adrian,Club,FALSE
+Benjamin,Luna,19,69,155,Allen Park,MI,3B,Adrian,Club,FALSE
+Miles,Maury,19,68,210,Cadillac,MI,NA,Adrian,Club,FALSE
+Kaleb,McKinley,20,69,195,Cadillac,MI,SS,Adrian,Club,FALSE
+Mathyis,Neuenkirchen,19,68,170,Aurora,IL,P,Adrian,Club,FALSE
+Luke,Pope,22,73,250,St. Johns High School,MI,1B,Adrian,Club,FALSE
+Joseph,Postma,21,68,180,St. Clair,MI,P,Adrian,Club,FALSE
+Pedro,Rivera,19,69,157,Rochester Hills,MI,OF,Adrian,Club,FALSE
+Jacob,Sikanas Jr,20,73,160,Centreville,MI,SS,Adrian,Club,FALSE
+Owen,Swanson,22,75,209,Muskegon,MI,C,Adrian,Club,FALSE
+Trevor,Trombley Trombley,22,74,185,Clay township,MI,P,Adrian,Club,FALSE
+Kai,Tsukahara,20,68,143,Shinjuku-ku,Tokyo,2B,Adrian,Club,FALSE
+Braxton,Vasseur,20,66,185,Fenton,MI,IF,Adrian,Club,FALSE
+André,Williams,20,70,180,Jackson,MI,NA,Adrian,Club,FALSE
+samuel,fosmoen,22,76,155,lake orion,MI,P,Adrian,Club,FALSE
+Brady,Armitage,22,70,160,Middleton,ID,SS,Boise State,Club,FALSE
+Brett,Armitage,20,70,155,Middleton,ID,SS,Boise State,Club,FALSE
+Jose,Barajas,22,69,165,Orofino,ID,2B,Boise State,Club,FALSE
+Patrick,Burch,21,78,175,Middleton,ID,NA,Boise State,Club,FALSE
+Thomas,Durkin,23,70,180,Petersburg,AK,P,Boise State,Club,FALSE
+Mason,Garcia,21,77,225,Eagle,ID,1B,Boise State,Club,FALSE
+Joshua,Kuehnle,22,74,225,Danville,CA,C,Boise State,Club,FALSE
+Trevor,Lerch,20,75,180,Woodland,CA,P,Boise State,Club,FALSE
+Jacob,Lord,22,70,175,Livermore,CA,P,Boise State,Club,FALSE
+Garrett,Love,20,69,165,Rathdrum,ID,SS,Boise State,Club,FALSE
+Logan,Marlin,20,70,190,Placerville,CA,P,Boise State,Club,FALSE
+Garrett,Millick,23,72,190,Challis,ID,NA,Boise State,Club,FALSE
+Peter,Mittelbrun,22,72,195,Valencia,CA,OF,Boise State,Club,FALSE
+Gillan,Nickason,21,70,160,Santa Maria,CA,NA,Boise State,Club,FALSE
+Lance,Pike,21,73,220,Eagle,ID,NA,Boise State,Club,FALSE
+Ethan,Potter,22,70,180,Coeur d’Alene,ID,C,Boise State,Club,FALSE
+Mark,Scheiber,22,74,170,Davis,CA,NA,Boise State,Club,FALSE
+Tyler,Schubert,20,68,172,Flushing,NY,IF,Boise State,Club,FALSE
+Sean,Stuart,23,72,170,San Diego,CA,NA,Boise State,Club,FALSE
+Andrew,Travis,21,70,165,Chandler,AZ,NA,Boise State,Club,FALSE
+Nate,Venneri,20,73,185,Roseville,CA,C,Boise State,Club,FALSE
+Jack,Wilson,23,68,185,Livermore,CA,P,Boise State,Club,FALSE
+Samuel,Yeakley,19,68,165,Greenleaf,ID,NA,Boise State,Club,FALSE
+Nathan,Albrinck,21,75,215,Cincinnati,OH,P /,Boston College,Club,FALSE
+Sam,Arcamone,23,73,180,Fairfield,CT,OF /,Boston College,Club,FALSE
+Nicholas,Astolfi,22,71,185,Wyndmoor,PA,C,Boston College,Club,FALSE
+Nicklaus,Beck,23,71,192,Groton,MA,C,Boston College,Club,FALSE
+Kevin,Campbell,23,73,195,Concord,MA,1B,Boston College,Club,FALSE
+Joseph,Cichowski,19,71,180,Milford,CT,OF,Boston College,Club,FALSE
+Carter,Coffey,22,75,215,Hamilton,MA,OF,Boston College,Club,FALSE
+Patrick (Gip),Conroy,21,72,175,Cleveland,OH,SS,Boston College,Club,FALSE
+Peter,Coquillette,21,74,185,Bronxville,NY,NA,Boston College,Club,FALSE
+Kyle,Deegan,20,75,230,Braintree,MA,P,Boston College,Club,FALSE
+Mick,Dwyer,20,69,147,Potomac,MD,P,Boston College,Club,FALSE
+Brandon,Giampalmi,22,68,170,Fort Washington,PA,OF,Boston College,Club,FALSE
+Andrew,Haddad,19,73,210,New York,NY,1B,Boston College,Club,FALSE
+Grayson,Harkness,21,72,180,Washington,DC,3B,Boston College,Club,FALSE
+Andrew,Kennefick,22,74,185,Danvers,MA,C,Boston College,Club,FALSE
+Trevor,Khouzami,21,70,160,Baltimore,MD,P,Boston College,Club,FALSE
+Jack,Kloster,22,69,145,Prairie Village,KS,OF,Boston College,Club,FALSE
+Baxter,Lee,19,71,175,San Francisco,CA,NA,Boston College,Club,FALSE
+Harry,MacGillis,19,70,165,Baltimore,MD,SS,Boston College,Club,FALSE
+Colin,MacKinnon,21,71,180,Oak Park,IL,P,Boston College,Club,FALSE
+Timothy,Martin,19,73,165,Wilton,CT,P,Boston College,Club,FALSE
+Bryan,Martinez,20,72,190,Miami,FL,C,Boston College,Club,FALSE
+John,McLaughlin,23,73,175,Milton,MA,P,Boston College,Club,FALSE
+Paul,McLaughlin,19,71,150,Dorchester,MA,P,Boston College,Club,FALSE
+Patrick,Menton,22,70,160,Boston,MA,2B,Boston College,Club,FALSE
+Aidan,Nicholson,20,73,175,Winnetka,IL,P,Boston College,Club,FALSE
+Joshua,Smith,22,69,175,Bridgewater,MA,2B,Boston College,Club,FALSE
+Brendan,Taylor,23,76,200,Malvern,PA,P,Boston College,Club,FALSE
+Christopher,Wanat,21,71,180,New Haven,CT,P,Boston College,Club,FALSE
+Drake,Wertlieb,23,69,160,Los Angeles,CA,P,Boston College,Club,FALSE
+Jared,Arita,23,69,145,Huntington Beach,CA,IF,Cal State - Long Beach,Club,FALSE
+Jarel Albert,Banes,21,66,155,Long Beach,CA,2B,Cal State - Long Beach,Club,FALSE
+Ian,Bennett,19,73,210,Torrance,CA,NA,Cal State - Long Beach,Club,FALSE
+Kevin,Campos,21,69,215,Bell,CA,3B,Cal State - Long Beach,Club,FALSE
+Noah,Cardenas,20,69,200,Torrance,CA,P,Cal State - Long Beach,Club,FALSE
+Kyle,Christner,23,73,175,Aliso Viejo,CA,P,Cal State - Long Beach,Club,FALSE
+Jose,Felix,19,72,178,Los Angeles,CA,3B,Cal State - Long Beach,Club,FALSE
+Patrick,Flanagan,22,75,150,Torrance,CA,P,Cal State - Long Beach,Club,FALSE
+Angel,Gonzalez,19,72,181,Norwalk,CA,NA,Cal State - Long Beach,Club,FALSE
+Logan,Green,21,71,175,San Marcos,CA,C,Cal State - Long Beach,Club,FALSE
+Elijah,Hackathorn,19,73,185,Windsor,CA,C,Cal State - Long Beach,Club,FALSE
+Alexander,Hernandez,21,70,145,Cerritos,CA,SS,Cal State - Long Beach,Club,FALSE
+Pablo,Hidalgo Jr.,19,71,250,La Mirada,CA,P,Cal State - Long Beach,Club,FALSE
+Taiyo,Horii,20,69,150,Rolling Hills Estates,CA,2B,Cal State - Long Beach,Club,FALSE
+Bruce,Kuntz,20,72,150,South Lake Tahoe,CA,1B,Cal State - Long Beach,Club,FALSE
+Christopher,Lee,21,71,170,Las Flores,CA,P,Cal State - Long Beach,Club,FALSE
+Herman,Loaisiga,19,69,180,Palmdale,CA,2B,Cal State - Long Beach,Club,FALSE
+Chad,Martin,21,71,145,Santa Clara,CA,OF,Cal State - Long Beach,Club,FALSE
+Sean,Matsubara,21,70,200,Walnut,CA,1B,Cal State - Long Beach,Club,FALSE
+Michael,McBride,28,69,195,Anaheim,CA,C,Cal State - Long Beach,Club,FALSE
+Jace,Orozco,19,68,160,Long Beach,CA,C,Cal State - Long Beach,Club,FALSE
+Matthew,Packwood,20,68,145,Corona,CA,P,Cal State - Long Beach,Club,FALSE
+Jake,Paragas,21,70,170,San Diego,CA,OF,Cal State - Long Beach,Club,FALSE
+Anthony,Romero,24,74,210,Lakewood,CA,P,Cal State - Long Beach,Club,FALSE
+Trevor,Soe,22,71,170,San Jose,CA,P,Cal State - Long Beach,Club,FALSE
+Daishin,Tanaka,24,72,180,Kamakura,Kanagawa,P,Cal State - Long Beach,Club,FALSE
+Aryan,Vanswala,21,69,155,Redlands,CA,OF,Cal State - Long Beach,Club,FALSE
+Wyatt,Weaver,20,67,150,La Mirada,CA,3B,Cal State - Long Beach,Club,FALSE
+Brandon,Abray,20,74,220,White Lake,MI,1B,Central Michigan,Club,FALSE
+Ryan,Abray,21,72,180,White Lake,MI,P,Central Michigan,Club,FALSE
+Connor,Aiken,21,71,165,Clarkston,MI,P,Central Michigan,Club,FALSE
+Colby,Ardelean,20,73,190,Corunna,MI,3B,Central Michigan,Club,FALSE
+Dylan,Cubitt,23,72,200,Shelby Twp,MI,3B,Central Michigan,Club,FALSE
+Elliott,Darr,19,72,180,Rock Hill,SC,SS,Central Michigan,Club,FALSE
+Ryan,Fachting,21,70,185,Alma,MI,C,Central Michigan,Club,FALSE
+Carter,Hebert,21,71,165,Bay City,MI,OF,Central Michigan,Club,FALSE
+Nolan,Kane,21,70,270,Midland,MI,P,Central Michigan,Club,FALSE
+Vaughn,Krepps,20,71,180,Fowler,MI,IF,Central Michigan,Club,FALSE
+Adam,Kuczajda,21,67,140,Dearborn,MI,2B,Central Michigan,Club,FALSE
+Jacob,Miller,19,68,140,Hartland,MI,SS,Central Michigan,Club,FALSE
+Brendan,Moore,21,70,175,Oxford,MI,OF,Central Michigan,Club,FALSE
+Liam,Nyberg,22,70,160,Grand Rapids,MI,OF,Central Michigan,Club,FALSE
+Treagan,O'Rourke,20,73,200,Fowler,MI,OF,Central Michigan,Club,FALSE
+Brett,Schultz,22,69,150,st. charles,MI,C,Central Michigan,Club,FALSE
+Ben,Sermo,20,70,145,Pontiac,MI,SS,Central Michigan,Club,FALSE
+Evan,VanDriessche,20,71,180,Saginaw,MI,P,Central Michigan,Club,FALSE
+Luke,Vingren,19,75,187,Bonn,Germany,1B,Central Michigan,Club,FALSE
+Parker,Welch,19,71,175,Traverse city,MI,C,Central Michigan,Club,FALSE
+Jackson,Zako,20,72,190,Beverly Hills,MI,3B,Central Michigan,Club,FALSE
+aaron,mervyn,22,74,270,whittemore,MI,P,Central Michigan,Club,FALSE
+Michael,Coletta,21,71,175,Lawrence,NY,P /,Drexel,Club,FALSE
+Shane,Corson,23,74,185,Delran,NJ,3B,Drexel,Club,FALSE
+Ryan,Daniels,22,75,215,Abington,PA,3B,Drexel,Club,FALSE
+Shay,Elster,24,68,170,Levittown,NY,OF,Drexel,Club,FALSE
+John,Ferraioli,22,71,185,Brooklyn,NY,P,Drexel,Club,FALSE
+Joseph,Filipkowski,20,72,160,Haddonfield,NJ,OF,Drexel,Club,FALSE
+Sean,Flanagan,24,70,170,Philadelphia,PA,1B,Drexel,Club,FALSE
+Cole,Forte,22,69,165,Rutherford,NJ,OF,Drexel,Club,FALSE
+Quinn,Guiney,23,70,150,Arlington,MA,P,Drexel,Club,FALSE
+Tyler,Hemstreet,23,70,170,Pottstown,PA,OF,Drexel,Club,FALSE
+Thomas,Kossey,21,74,185,Glen Mills,PA,1B,Drexel,Club,FALSE
+Christian,Lewis,23,72,215,Fairless Hills,PA,OF,Drexel,Club,FALSE
+Todd,Picard Jr.,20,73,200,Norristown,PA,C,Drexel,Club,FALSE
+Dalton,Preston,23,70,160,Wilkes-Barre,PA,2B,Drexel,Club,FALSE
+Benjamin,Rosenfeld,22,71,140,Westborough,MA,P,Drexel,Club,FALSE
+Noah,Shanken,22,67,155,Jenkintow,PA,SS,Drexel,Club,FALSE
+Martin,Simpson Teplin,20,71,147,Boulder,CO,P,Drexel,Club,FALSE
+William,Taylor,20,72,160,Philadelphia,PA,3B,Drexel,Club,FALSE
+Hunter,Watts,23,74,205,Boca Raton,FL,OF,Drexel,Club,FALSE
+Brenden,Bowen,20,72,155,Salmon,ID,OF,Idaho State,Club,FALSE
+Peyton,Briggs,21,72,150,Malad,ID,NA,Idaho State,Club,FALSE
+Carter,Cheney,20,70,185,Idaho Falls,ID,3B,Idaho State,Club,FALSE
+Grady,Combs,22,70,145,Malad,ID,NA,Idaho State,Club,FALSE
+Matthew,Dwonch,22,72,170,Meridian,ID,C,Idaho State,Club,FALSE
+Stetson,Higley,19,72,200,Malad,ID,NA,Idaho State,Club,FALSE
+Hesston,Hoggan,19,69,155,Salmon,ID,OF,Idaho State,Club,FALSE
+Jarett,Ollar,21,69,130,Challis,ID,NA,Idaho State,Club,FALSE
+Dillon,Pilkerton,22,74,185,Salmon,ID,P,Idaho State,Club,FALSE
+Cooper,Scarrow Scarrow,19,69,145,Jerome,ID,NA,Idaho State,Club,FALSE
+Ryan,durfee,22,74,175,La Canada,CA,NA,Idaho State,Club,FALSE
+Christian,Cast,22,71,160,Aurora,IL,C,Illinois State,Club,FALSE
+Casey,Ciesla,21,69,140,Minooka,IL,P,Illinois State,Club,FALSE
+Easton,Dietz,22,72,170,Addison,IL,P,Illinois State,Club,FALSE
+Trenton,Dietz,19,73,175,Addison,IL,2B,Illinois State,Club,FALSE
+Jimmy,Fedinec Jr.,21,71,170,Lisle,IL,P,Illinois State,Club,FALSE
+Joshus,Graves,21,69,160,Elgin,IL,P,Illinois State,Club,FALSE
+Keegan,Henley,23,66,140,Wauconda,IL,OF,Illinois State,Club,FALSE
+Steven,Kenyon,23,72,255,Somonauk,IL,P,Illinois State,Club,FALSE
+Nolan,Kulavic,20,72,200,Springfield,IL,C,Illinois State,Club,FALSE
+Marcus,Maristela,22,70,195,Grayslake,IL,NA,Illinois State,Club,FALSE
+Matthew,Mercado,19,65,130,Chicago,IL,OF,Illinois State,Club,FALSE
+Jack,Osta,21,71,187,Aurora,IL,P,Illinois State,Club,FALSE
+Blake,Pettys,24,72,205,Springfield,IL,P,Illinois State,Club,FALSE
+Jack,Pfeifer,23,75,205,Lake Zurich,IL,1B,Illinois State,Club,FALSE
+Sammy,Sabatello,23,75,210,Barrington,IL,P,Illinois State,Club,FALSE
+Michael,Seibert,21,72,175,Elmwood,IL,P,Illinois State,Club,FALSE
+Ethan,Steele,21,71,215,Sycamore,IL,IF,Illinois State,Club,FALSE
+Brendan,Taylor,23,68,155,Warrensburg,IL,C,Illinois State,Club,FALSE
+Emilio,Vazquez,19,73,218,Chicago,IL,1B,Illinois State,Club,FALSE
+Anthony,Wasowicz,22,71,170,New Lenox,IL,P,Illinois State,Club,FALSE
+Jared,Wolf,21,72,170,Antioch,IL,OF,Illinois State,Club,FALSE
+owen,rivera,19,71,200,Chicago,IL,SS,Illinois State,Club,FALSE
+ayden,winterland,23,73,205,Stanford,IL,OF,Illinois State,Club,FALSE
+Scooter,Beverly,20,67,175,Framingham,MA,OF /,Indiana,Club,FALSE
+Blake,Bouchard,20,70,175,Pleasanton,CA,C,Indiana,Club,FALSE
+Owen,Brooks,20,71,160,Evanston,IL,P,Indiana,Club,FALSE
+Declan,Bruton,21,70,165,White Plains,NY,2B,Indiana,Club,FALSE
+Dylan,Eng,21,69,170,Pennington,NJ,OF,Indiana,Club,FALSE
+Casey,Fanelli,22,71,170,Westfield,IN,1B,Indiana,Club,FALSE
+Cole,Garrow,21,75,195,Hopewell,NJ,SS,Indiana,Club,FALSE
+Lucas,Gmutza,21,74,190,Evansville,IN,C,Indiana,Club,FALSE
+Alex,James,23,72,185,Saint John,IN,P,Indiana,Club,FALSE
+Tommy,Kuban,19,72,175,Naperville,IL,SS,Indiana,Club,FALSE
+Ryan,Lancaster,21,68,165,La Jolla,CA,OF,Indiana,Club,FALSE
+Noah,Lippman,19,70,190,Seattle,WA,NA,Indiana,Club,FALSE
+Brandon,Panell,22,68,170,Wellesley,MA,OF,Indiana,Club,FALSE
+Austin,Ridgway,22,71,190,Crown point,IN,OF,Indiana,Club,FALSE
+Aiden,Riebe,22,72,200,New Rochelle,NY,3B,Indiana,Club,FALSE
+Luke,Rue,20,75,180,Naperville,IL,P,Indiana,Club,FALSE
+Brenden,Schrage,22,71,175,Elmhurst,IL,C,Indiana,Club,FALSE
+Ayden,Barnhart,22,75,180,Rockford,IL,SS,Iowa State,Club,FALSE
+Jacob,Barton,21,71,180,Waukee,IA,NA,Iowa State,Club,FALSE
+Alec,Bell,19,72,175,Gilbert,IA,NA,Iowa State,Club,FALSE
+Evan,Benetti,20,74,205,Woodbury,MN,1B,Iowa State,Club,FALSE
+Charlie,Bredeson,21,74,175,Savage,MN,OF,Iowa State,Club,FALSE
+Drake,Callon,20,74,170,Fort Dodge,IA,OF,Iowa State,Club,FALSE
+Brendan,Carter,20,74,185,Cary,IL,3B,Iowa State,Club,FALSE
+Brad,Corcoran,19,70,190,Franklin,WI,P,Iowa State,Club,FALSE
+Jason,Feils,21,70,185,plainview,MN,NA,Iowa State,Club,FALSE
+Nicholas,Gebhart,22,70,160,Maple Grove,MN,SS,Iowa State,Club,FALSE
+Andrew,Iutzwig,23,78,265,batavia,IL,P,Iowa State,Club,FALSE
+Tyler,Klene,22,71,170,Vernon Hills,IL,OF,Iowa State,Club,FALSE
+Liam,McGee,20,72,195,West Des Moines,IA,3B,Iowa State,Club,FALSE
+Matthew,Midby,21,73,180,Hudson,WI,OF,Iowa State,Club,FALSE
+Zachary,Nelson,22,72,160,Stillwater,MN,P,Iowa State,Club,FALSE
+Calvin,Pettit,20,74,195,Geneseo,IL,NA,Iowa State,Club,FALSE
+Scott,Porter,21,75,170,Rockton,IL,1B,Iowa State,Club,FALSE
+Justin,Rohde,22,69,175,Woodstock,IL,P,Iowa State,Club,FALSE
+Jacob,Ross,21,72,180,Huxley,IA,IF,Iowa State,Club,FALSE
+Joe,Stelzig,20,74,185,Savage,MN,NA,Iowa State,Club,FALSE
+Jack,Thompson,22,68,170,Cary,IL,2B,Iowa State,Club,FALSE
+Cale,Wabbe,22,72,155,Watertown,MN,OF,Iowa State,Club,FALSE
+Boston,Weidner,20,70,155,Cottage Grove,MN,SS,Iowa State,Club,FALSE
+James,Agoglia Jr.,22,70,185,Brooklyn,NY,C,Loyola - Maryland,Club,FALSE
+Robert,Agoglia,20,74,205,Bay Ridge,NY,1B,Loyola - Maryland,Club,FALSE
+Matthew,Andress,20,74,190,Fort Washinton,PA,P,Loyola - Maryland,Club,FALSE
+Conor,Barnum,20,73,147,Buffalo,NY,SS,Loyola - Maryland,Club,FALSE
+David,Bierwirth Jr.,21,76,180,Potomac,MD,OF,Loyola - Maryland,Club,FALSE
+Hank,Brown,19,68,160,Manchester,MD,NA,Loyola - Maryland,Club,FALSE
+Aaron,Cox,22,70,180,Mamaroneck,NY,3B,Loyola - Maryland,Club,FALSE
+Andrew,Giacomini,19,71,170,Oradell,NJ,P,Loyola - Maryland,Club,FALSE
+Alex,Jarboe,20,70,165,Washington,DC,OF,Loyola - Maryland,Club,FALSE
+Matt,Koury,22,72,200,Reading,MA,P,Loyola - Maryland,Club,FALSE
+Collin,Lipinski,21,73,170,Fallston,MD,OF,Loyola - Maryland,Club,FALSE
+Owen,McGinley,20,73,178,Mineola,NY,P,Loyola - Maryland,Club,FALSE
+Julian,Mena,21,68,160,San Ramon,CA,C,Loyola - Maryland,Club,FALSE
+Ryan,Molen,20,71,160,Brooklyn,NY,P,Loyola - Maryland,Club,FALSE
+Faraz,Nazir,19,70,135,Gambrills,MD,P,Loyola - Maryland,Club,FALSE
+Gabriel,Nocera,20,67,175,Brooklyn,NY,P,Loyola - Maryland,Club,FALSE
+Kevin,O'Shea,19,72,180,Freehold,NJ,3B,Loyola - Maryland,Club,FALSE
+Christopher,Owsik,20,74,165,Downingtown,PA,OF,Loyola - Maryland,Club,FALSE
+Jarret,O’Connor,22,70,175,Nantucket,MA,C,Loyola - Maryland,Club,FALSE
+Sean,Richards,23,68,160,Rochester,NY,1B,Loyola - Maryland,Club,FALSE
+Jack,Samms,22,71,185,Devon,PA,OF,Loyola - Maryland,Club,FALSE
+Jacob,Strazza,21,69,150,Fairfield,CT,OF,Loyola - Maryland,Club,FALSE
+Eduardo,Ugarte,21,67,160,Hanover,PA,2B,Loyola - Maryland,Club,FALSE
+Andrew,Alvarez,22,72,185,Wales,WI,P,Marquette,Club,FALSE
+Sammy,Brattini,22,70,170,Springfield,PA,P,Marquette,Club,FALSE
+Jake,Conrad,20,75,190,Lisle,IL,P,Marquette,Club,FALSE
+Joshua,Conrad,22,75,215,Lilse,IL,P,Marquette,Club,FALSE
+Rex,Dockendorf,20,71,170,Riverside,IL,SS,Marquette,Club,FALSE
+Tyler,Freeman,23,74,170,Wheaton,IL,OF,Marquette,Club,FALSE
+David,Hattas,22,70,175,Lisle,IL,P,Marquette,Club,FALSE
+Finbar,Kibby,22,74,205,Chicago,IL,P,Marquette,Club,FALSE
+Ryan,Lafferty,22,72,190,Livingston,NJ,P,Marquette,Club,FALSE
+Tyler,Miller,20,70,175,Mequon,WI,OF,Marquette,Club,FALSE
+Gavin,Nelson,21,76,185,Hinton,IA,P,Marquette,Club,FALSE
+John,Nelson,22,69,170,West Roxbury,MA,OF,Marquette,Club,FALSE
+Nathan,Nichols,20,74,200,Kansas City,MO,1B,Marquette,Club,FALSE
+John,Noonan,22,73,170,Creve Cour,MO,SS,Marquette,Club,FALSE
+Kaleb,Pagel,19,74,170,Fond du Lac,WI,NA,Marquette,Club,FALSE
+Carter,Peetz,19,77,185,Lockport,IL,P,Marquette,Club,FALSE
+Sean,Riter,21,72,185,Orchard Park,NY,P,Marquette,Club,FALSE
+Aidan,Rund,19,74,205,Lenexa,KS,C,Marquette,Club,FALSE
+Max,Sawyer,21,70,175,Wilmette,IL,OF,Marquette,Club,FALSE
+Jacob,Schilf,20,71,140,Lisle,IL,P,Marquette,Club,FALSE
+Tyler,Steck,22,72,190,Galesburg,IL,C,Marquette,Club,FALSE
+Jonathan,Tomasiello,20,71,185,Wilmette,IL,3B,Marquette,Club,FALSE
+Owen,Wery,20,68,170,Green Bay,WI,2B,Marquette,Club,FALSE
+Jackson,Bayer,21,70,185,Lisle,IL,3B,Miami OH,Club,FALSE
+Ben,Bayler,21,74,170,Brownsburg,IN,SS,Miami OH,Club,FALSE
+Jameson,Beck,20,75,160,Canfield,OH,P,Miami OH,Club,FALSE
+Alex,Canupp,20,68,160,Northfield,OH,C,Miami OH,Club,FALSE
+Colin,Crawford,20,73,175,Pittsburgh,PA,P,Miami OH,Club,FALSE
+Jack,Davis III,21,73,185,Springfield,IL,P,Miami OH,Club,FALSE
+Grant,Davis,20,75,180,Hinsdale,IL,1B,Miami OH,Club,FALSE
+Spencer,Friery,23,71,145,Parma,OH,OF,Miami OH,Club,FALSE
+Jacob,Hesselmann,23,73,185,New Lenox,IL,1B,Miami OH,Club,FALSE
+Daniel,Hoffman,20,72,155,Barrington,IL,2B,Miami OH,Club,FALSE
+Adam,Ketner,22,70,170,Minster,OH,C,Miami OH,Club,FALSE
+Danny,Kirk,21,72,165,Indianapolis,IN,3B,Miami OH,Club,FALSE
+Joshua,Kotzin,21,76,220,Cincinnati,OH,1B,Miami OH,Club,FALSE
+Nolan,Kutchey,21,69,148,Oxford,MI,P,Miami OH,Club,FALSE
+Tommy,Lampert,20,71,170,Winchester,MA,SS,Miami OH,Club,FALSE
+Sean,Lynch,21,72,170,Parma,OH,OF,Miami OH,Club,FALSE
+Cal,McCarthy,20,69,160,Harrison,NY,OF,Miami OH,Club,FALSE
+Will,McNamara,22,74,190,Westford,MA,P,Miami OH,Club,FALSE
+Cory,Misconish,22,67,155,Cleveland,OH,OF,Miami OH,Club,FALSE
+Matthew,O'dell,23,72,165,Lewisburg,OH,P,Miami OH,Club,FALSE
+Liam,O’Grady-Walsh,20,71,160,Burke,VA,2B,Miami OH,Club,FALSE
+Colton,Sandefur,22,73,181,Chicago,IL,P,Miami OH,Club,FALSE
+Bryce,Schreiner,22,72,175,Orchard Park,NY,C,Miami OH,Club,FALSE
+Hogan,Sedlock,20,68,155,Massillon,OH,SS,Miami OH,Club,FALSE
+Jacob,Shull,20,70,170,Centerville,OH,OF,Miami OH,Club,FALSE
+William,Stanton,22,75,190,Austin,TX,P,Miami OH,Club,FALSE
+Evan,Vigorito,22,72,175,North Attleboro,MA,OF,Miami OH,Club,FALSE
+Alex,Ackerman,22,75,180,Rochester Hills,MI,1B,Michigan State,Club,FALSE
+Riley,Adams,22,74,185,Stevensville,MI,OF,Michigan State,Club,FALSE
+Will,Arnason,22,72,200,Hinsdale,IL,1B,Michigan State,Club,FALSE
+Evan,Berger,21,73,195,Canton,MI,1B,Michigan State,Club,FALSE
+Joseph,Bullock,22,72,180,Sterling Heights,MI,P,Michigan State,Club,FALSE
+Nathan,Cain,22,74,185,Canton,MI,UT,Michigan State,Club,FALSE
+Jacob,Collier,21,75,205,Rochester,MI,OF,Michigan State,Club,FALSE
+Timothy,Cooney,21,73,190,White lake,MI,OF,Michigan State,Club,FALSE
+Nathaniel,Derkacz,19,70,165,Rochester,MI,OF,Michigan State,Club,FALSE
+John,Diamond,19,71,165,Kansas City,MO,UT,Michigan State,Club,FALSE
+Cooper,Hill,21,72,180,Concord,MA,3B,Michigan State,Club,FALSE
+Bryant,Hixson,22,73,140,Walled Lake,MI,OF,Michigan State,Club,FALSE
+Vaughn,Hurdle,20,75,175,Stevensville,MI,P,Michigan State,Club,FALSE
+Zachary,Johnson,21,71,180,Larkspur,CA,OF,Michigan State,Club,FALSE
+Andrew,King,20,73,185,Davie,FL,3B,Michigan State,Club,FALSE
+Mason,Kottmeyer,22,78,210,Maple Park,IL,P,Michigan State,Club,FALSE
+Jacob,Kuschel,23,72,165,Marysville,MI,P,Michigan State,Club,FALSE
+Christopher,Milliken,19,68,175,Oakland Township,MI,NA,Michigan State,Club,FALSE
+Caden,Monti,20,71,195,Woodstock,IL,NA,Michigan State,Club,FALSE
+Lucas,Powell,21,68,160,Canton,MI,SS,Michigan State,Club,FALSE
+Alden,Stefanovski,20,76,205,Whitmore Lake,MI,C,Michigan State,Club,FALSE
+Aidan,Tafelski,21,72,200,Canton,MI,C,Michigan State,Club,FALSE
+Caleb,Tuttle,20,73,180,Grand Rapids,MI,OF,Michigan State,Club,FALSE
+Joshua,Tuttle,23,73,185,Grand Rapids,MI,2B,Michigan State,Club,FALSE
+Mason,Walker,21,70,225,Marine City,MI,3B,Michigan State,Club,FALSE
+Wyatt,Walker,20,71,180,Marine city,MI,NA,Michigan State,Club,FALSE
+Murphy,Wegner,20,70,180,Buchanan,MI,C,Michigan State,Club,FALSE
+Will,Arendt,22,70,206,Lakeville,MN,1B,MSU Mankato,Club,FALSE
+Alex,Ballis,22,76,200,Lakeville,MN,OF,MSU Mankato,Club,FALSE
+Gunnar,Benson,21,69,175,Northfield,MN,OF,MSU Mankato,Club,FALSE
+Daniel,Buendorf,22,72,195,Plymouth,MN,OF,MSU Mankato,Club,FALSE
+Cody,Dayton,21,68,175,Eau Claire,WI,2B,MSU Mankato,Club,FALSE
+Caleb,Dose,22,74,180,Arlington,MN,NA,MSU Mankato,Club,FALSE
+Baden,Fenton,21,68,163,Plainview,MN,OF,MSU Mankato,Club,FALSE
+Tyler,Hach,22,70,195,Muscoda,WI,C,MSU Mankato,Club,FALSE
+Ralph,Haumschild Haumschild,20,71,182,Watertown,WI,OF,MSU Mankato,Club,FALSE
+Mason,Holmes,22,69,165,Mankato,MN,2B,MSU Mankato,Club,FALSE
+Brody,Isley,20,73,155,New Prague,MN,P,MSU Mankato,Club,FALSE
+Trevor,Langeberg,19,73,170,Eagan,MN,P,MSU Mankato,Club,FALSE
+Gianni,Lendino,23,71,170,Chaska,MN,OF,MSU Mankato,Club,FALSE
+Jackson,Lesmeister,20,73,175,Rochester,MN,OF,MSU Mankato,Club,FALSE
+Cole,Macziewski,23,72,170,Howard Lake,MN,OF,MSU Mankato,Club,FALSE
+Jack,Morsching,21,67,166,Janesville,MN,2B,MSU Mankato,Club,FALSE
+Jordan,Nawrocki,22,70,180,Faribault,MN,C,MSU Mankato,Club,FALSE
+Chase,Neubauer,21,69,160,Stewartville,MN,SS,MSU Mankato,Club,FALSE
+Matthew,Riley,21,69,200,Rosemount,MN,C,MSU Mankato,Club,FALSE
+Tanner,Schmidt,20,72,175,Waconia,MN,SS,MSU Mankato,Club,FALSE
+Nolan,Stepka,21,73,195,Northfield,MN,3B,MSU Mankato,Club,FALSE
+Brode,Vail,22,74,160,White Bear Lake,MN,1B,MSU Mankato,Club,FALSE
+Lucas,Walechka,21,75,220,Cleveland,MN,P,MSU Mankato,Club,FALSE
+Sean,Wright,23,70,185,Coon Rapids,MN,NA,MSU Mankato,Club,FALSE
+Jake,Zander,21,69,155,Howard Lake,MN,OF,MSU Mankato,Club,FALSE
+John,Beardemphl,23,71,150,Tacoma,WA,NA,Montana State,Club,FALSE
+Nicholas,Bollinger,20,73,180,Chesterland,OH,OF,Montana State,Club,FALSE
+Evan,Caton,20,69,168,Red Lodge,MT,C,Montana State,Club,FALSE
+Luke,Compton,21,68,170,Fort Worth,TX,OF,Montana State,Club,FALSE
+Avery,Crouse,20,73,175,Lewistown,MT,OF,Montana State,Club,FALSE
+Tristen,Delaney,23,70,195,Holmdel,NJ,3B,Montana State,Club,FALSE
+Ryan,Doerfler,20,74,220,La Cañada,CA,3B,Montana State,Club,FALSE
+Mason,Engbretson,20,70,170,Manhattan,MT,P,Montana State,Club,FALSE
+Joshua,Ezell,20,75,165,Littleton,CO,SS,Montana State,Club,FALSE
+Justin,Garcia,19,71,155,Belgrade,MT,P,Montana State,Club,FALSE
+Wyatt,Goffena,19,70,155,Red Lodge,MT,P,Montana State,Club,FALSE
+Jonathan,Hanses,22,72,165,Yakima,WA,P,Montana State,Club,FALSE
+Trenton,Lamie,20,71,175,Arlington,WA,2B,Montana State,Club,FALSE
+Cale,Livergood,20,72,210,Belgrade,MT,P,Montana State,Club,FALSE
+Brooks,Ochoa,19,74,175,Davis,CA,OF,Montana State,Club,FALSE
+Walker,Posch,19,75,205,Stillwater,MN,C,Montana State,Club,FALSE
+Chase,Rivet,19,70,150,Denver,CO,UT,Montana State,Club,FALSE
+Nolan,Thompson,19,76,190,Northfield,MN,P,Montana State,Club,FALSE
+Chaz,Unrue,20,77,185,Snohomish,WA,1B,Montana State,Club,FALSE
+Gavin,Vos,21,74,175,Waconia,MN,C,Montana State,Club,FALSE
+Brayden,White,22,73,220,USAFA,CO,1B,Montana State,Club,FALSE
+Nicholas,Aderhold,21,71,185,Rocky Hill,CT,OF,Northeastern,Club,FALSE
+Jacob,Berger,19,68,165,Ellicott City,MD,OF,Northeastern,Club,FALSE
+Ryan,Broderick,21,75,160,Belmont,MA,P,Northeastern,Club,FALSE
+Augustus,Buzby IV,21,75,160,Egg Harbor Township,NJ,P,Northeastern,Club,FALSE
+Aidan,Cann,22,77,275,Byfield,MA,3B,Northeastern,Club,FALSE
+Ethan,Chang,23,69,150,Manhattan Beach,CA,SS,Northeastern,Club,FALSE
+Shawn,Charles,21,76,220,Kinnelon,NJ,1B,Northeastern,Club,FALSE
+John,Ciolfi,24,68,160,Wellesley,MA,OF,Northeastern,Club,FALSE
+Joseph,Goncalves,24,72,185,San Diego,CA,OF,Northeastern,Club,FALSE
+Jay,Kalathur,20,75,155,Mendham,NJ,P,Northeastern,Club,FALSE
+Ross,Kobayashi,20,68,160,Pleasanton,CA,SS,Northeastern,Club,FALSE
+Charles,Lange,20,74,175,Glen Ellyn,IL,3B,Northeastern,Club,FALSE
+Michael,Leonard II,21,67,150,Saratoga Springs,NY,2B,Northeastern,Club,FALSE
+Andrew,Rashad,21,73,170,New Canaan,CT,OF,Northeastern,Club,FALSE
+Benjamin,Schattman,22,69,145,Westport,CT,C,Northeastern,Club,FALSE
+Andrew,Seidman,21,76,200,west hartford,CT,3B,Northeastern,Club,FALSE
+William,Seward,21,71,170,Belmont,MA,P,Northeastern,Club,FALSE
+Kevin,Simmons,20,68,160,Belmont,MA,C,Northeastern,Club,FALSE
+Nicholas,Wong,23,73,165,Minneapolis,MN,C,Northeastern,Club,FALSE
+Brandon,Buchanan,20,73,168,Mesa,AZ,3B,NAU,Club,FALSE
+Abel,Calderon,23,67,191,Phoenix,AZ,3B,NAU,Club,FALSE
+Nathan,Catanach,22,69,200,Surprise,AZ,P,NAU,Club,FALSE
+Noah,Coffler,22,69,155,Bellevue,WA,OF,NAU,Club,FALSE
+Tristan,Cook,20,70,145,Surprise,AZ,P,NAU,Club,FALSE
+Tristen,Figueroa,21,70,160,Flagstaff,AZ,C,NAU,Club,FALSE
+Nate,Flores,22,70,150,Flagstaff,AZ,SS,NAU,Club,FALSE
+Hunter,Hays,22,75,239,Prescott,AZ,P,NAU,Club,FALSE
+Adam,Lappin,19,74,180,Oro Valley,AZ,OF,NAU,Club,FALSE
+Anthony,LoGrande,25,67,150,Long Beach,CA,OF,NAU,Club,FALSE
+Mason,McDermott,22,75,200,Peoria,AZ,P,NAU,Club,FALSE
+Ryan,Ollenberger Jr,22,68,165,Lakeport,CA,3B,NAU,Club,FALSE
+Craig,Price,25,68,160,Surprise,AZ,SS,NAU,Club,FALSE
+Branden,Reich,20,71,160,San Tan Valley,AZ,OF,NAU,Club,FALSE
+Lucas,Root,19,73,190,Westminster,CO,OF,NAU,Club,FALSE
+Wyatt,Snitker,23,68,195,Alexandria,MN,1B,NAU,Club,FALSE
+Brady,Whitmer,21,68,175,Chandler,AZ,C,NAU,Club,FALSE
+Brian,Albert,21,71,160,Mamaroneck,NY,P,Northwestern,Club,FALSE
+Noah,Hughes,21,74,185,Chicago,IL,C,Northwestern,Club,FALSE
+Ethan,Baer,21,74,175,Harmony,PA,3B,Ohio,Club,FALSE
+Dominic,Calanni,19,69,170,Elyria,OH,3B,Ohio,Club,FALSE
+Riley,Canitia,21,71,180,Mayfield,OH,DH,Ohio,Club,FALSE
+Donovan,Chaulk,21,74,185,Dayton,OH,P,Ohio,Club,FALSE
+Konstantinos,Coe,21,74,200,Avon,OH,P,Ohio,Club,FALSE
+Owen,Conrad,20,76,190,Carroll,OH,P,Ohio,Club,FALSE
+Ryan,Florence,21,73,205,Shadyside,OH,C,Ohio,Club,FALSE
+Evan,Litton,20,71,180,Reynoldsburg,OH,P,Ohio,Club,FALSE
+Brady,Mason,20,73,190,Reynoldsburg,OH,1B,Ohio,Club,FALSE
+Ryan,Roffe,21,72,180,Grove city,OH,NA,Ohio,Club,FALSE
+Gavin,Rowland,22,72,175,Lancaster,OH,P,Ohio,Club,FALSE
+Chris,Russo,19,70,160,Mayfield Heights,OH,P,Ohio,Club,FALSE
+Jace,Sanchez,21,73,194,Toledo,OH,OF,Ohio,Club,FALSE
+Chase,Saneholtz,21,72,195,Whitehouse,OH,NA,Ohio,Club,FALSE
+Nathan,Scrabis,21,74,170,Pittsburgh,PA,P,Ohio,Club,FALSE
+Alexander,Seghy,21,72,150,Strongsville,OH,P,Ohio,Club,FALSE
+Danny,Skandul,19,67,170,Cleveland,OH,OF,Ohio,Club,FALSE
+Aiden,Vanderbilt,19,73,185,Hamilton,OH,P,Ohio,Club,FALSE
+Donovan,Varney,21,71,190,Westerville,OH,C,Ohio,Club,FALSE
+Blaine,Winans,22,71,180,Marysville,OH,C,Ohio,Club,FALSE
+Jared,Wittels,21,75,160,Lyndhurst,OH,P,Ohio,Club,FALSE
+Chandler,Yocca,24,73,170,Pittsburgh,PA,2B,Ohio,Club,FALSE
+Jack,Addeo,22,71,165,West Nyack,NY,C,Penn State,Club,FALSE
+Garrett,Alauzen,21,74,205,Bridgeville,PA,OF,Penn State,Club,FALSE
+Jonathan,Bodnar,20,73,180,Pittsburgh,PA,2B,Penn State,Club,FALSE
+Andrew,Capizzi,19,70,175,Harmony,PA,IF,Penn State,Club,FALSE
+Lance,Farlow Jr,23,72,165,Philadelphia,PA,P,Penn State,Club,FALSE
+Matt,Fricker,24,71,170,West Chester,PA,P,Penn State,Club,FALSE
+Jacob,Gartley,23,73,200,Coraopolis,PA,2B,Penn State,Club,FALSE
+Ethan,Gavlik,21,71,180,Wexford,PA,OF,Penn State,Club,FALSE
+Samuel,Grana,19,67,166,Gibsonia,PA,P,Penn State,Club,FALSE
+Scott,Hodinko,21,71,195,Chantilly,VA,SS,Penn State,Club,FALSE
+Samuel,Kerwin,23,74,190,Elizabethville,PA,P,Penn State,Club,FALSE
+Andrew,Kingsbury,21,74,210,Phoenixville,PA,3B,Penn State,Club,FALSE
+Drew,Lamonica,21,72,180,Berwyn,PA,OF,Penn State,Club,FALSE
+Justin,Lowe,23,73,170,GIBSONIA,PA,P,Penn State,Club,FALSE
+Justin,Machita,21,71,190,Wyndmoor,PA,OF,Penn State,Club,FALSE
+Jacob,Maley,24,70,185,Gibsonia,PA,1B,Penn State,Club,FALSE
+Owen,Mathes,20,74,210,Newtown Square,PA,1B,Penn State,Club,FALSE
+Brady,Palmer,22,74,215,Pittsburgh,PA,P,Penn State,Club,FALSE
+Ryan,Pilewski,20,74,190,Lansdale,PA,P,Penn State,Club,FALSE
+Evan,Pittsman,21,69,170,Purcellville,VA,C,Penn State,Club,FALSE
+Noah,Scheel,22,67,165,McDonald,PA,P,Penn State,Club,FALSE
+Tanner,Singh,22,70,200,Gibsonia,PA,OF,Penn State,Club,FALSE
+Alejandro,Soto II,24,73,175,Benicia,CA,P,Penn State,Club,FALSE
+Nathan,Zimcosky,23,72,200,Uniontown,PA,3B,Penn State,Club,FALSE
+Hunter,Adams,21,74,180,Frankfort,IL,SS,Purdue,Club,FALSE
+Luke,Carnoy,20,70,190,Buffalo,MN,C,Purdue,Club,FALSE
+Peter,Catizone III,20,74,220,Naperville,IL,3B,Purdue,Club,FALSE
+Griffin,DiTeodoro,21,69,155,Woodbury,MN,OF,Purdue,Club,FALSE
+Dalton,Farnell,22,71,170,Bunker Hill,IN,OF,Purdue,Club,FALSE
+Michael,Filarski,21,71,150,Saint Louis,MO,SS,Purdue,Club,FALSE
+Daniel,Furneri,22,72,240,Ridgefield,CT,3B,Purdue,Club,FALSE
+Kyle,Goff,22,69,150,Fort Wayne,IN,2B,Purdue,Club,FALSE
+Charlie,Graefen,21,70,175,New lenox,IL,OF,Purdue,Club,FALSE
+Cooper,Kerry,20,71,155,Concord,CA,P,Purdue,Club,FALSE
+Jacob,Knaust,23,73,150,O'Fallon,IL,IF,Purdue,Club,FALSE
+Alex,Kubon,22,70,160,San Antonio,TX,OF,Purdue,Club,FALSE
+Max,Matteucci,21,73,237,San Mateo,CA,1B,Purdue,Club,FALSE
+Jonah,Messina,23,70,175,Downingtown,PA,OF,Purdue,Club,FALSE
+Mark-Alexander,Ohl,23,72,155,Brownsburg,IN,UT,Purdue,Club,FALSE
+Ross,Ostrager,22,70,185,Plainview,NY,C,Purdue,Club,FALSE
+Jacob,Perrone,21,72,175,South Lyon,MI,SS,Purdue,Club,FALSE
+Irving,Rogers IV,22,70,155,Springboro,OH,OF,Purdue,Club,FALSE
+Robert,Savelkoul,19,79,230,Waukesha,WI,NA,Purdue,Club,FALSE
+Hunter,Schmitt,21,74,190,`Grafton,WI,OF,Purdue,Club,FALSE
+Jackson,Tremper,19,78,200,Dana Point,CA,P,Purdue,Club,FALSE
+Ian,Van Beek,20,76,195,Dyer,IN,P,Purdue,Club,FALSE
+Jeremy,VanTryon,23,75,195,Plainfield,IN,P,Purdue,Club,FALSE
+Aaron,Ariza,19,70,175,Montvale,NJ,C,Sacred Heart,Club,FALSE
+Ryan,Beardsley,20,67,155,Braintree,MA,SS,Sacred Heart,Club,FALSE
+Christian,Campo,22,66,155,Mahopac,NY,OF,Sacred Heart,Club,FALSE
+Andrew,Civetta,19,70,280,Rye Brook,NY,C,Sacred Heart,Club,FALSE
+Michael,Civetta,19,69,175,Rye Brook,NY,OF,Sacred Heart,Club,FALSE
+Colin,Corrigan,23,69,145,Weston,MA,OF,Sacred Heart,Club,FALSE
+Bryan,Coyne,22,66,150,Greenlawn,NY,1B,Sacred Heart,Club,FALSE
+Andrew,Dayton,20,71,140,Fairfield,CT,OF,Sacred Heart,Club,FALSE
+Zachary,Dezinski,20,70,160,Melville,NY,P,Sacred Heart,Club,FALSE
+Michael,Frieri,22,71,170,Nanuet,NY,P,Sacred Heart,Club,FALSE
+Patrick,Hefner,20,71,165,Longmeadow,MA,3B,Sacred Heart,Club,FALSE
+Tom,Kenn,22,68,150,East Bridgewater,MA,UT,Sacred Heart,Club,FALSE
+Patrick,Mahan II,22,73,170,250 rt 25a Shoreham,NY,P,Sacred Heart,Club,FALSE
+Brian,McGovern,20,68,172,Oradell,NJ,3B,Sacred Heart,Club,FALSE
+Colin,McPherson,19,75,210,Weymouth,MA,P,Sacred Heart,Club,FALSE
+Michael,Moran,22,73,210,Paramus,NJ,P,Sacred Heart,Club,FALSE
+Thomas,Parrish,22,69,150,Saratoga Springs,NY,P,Sacred Heart,Club,FALSE
+Justin,Pesco,21,71,170,New Rochelle,NY,P,Sacred Heart,Club,FALSE
+Trevin,Rieger,20,75,174,Jackson,NJ,P,Sacred Heart,Club,FALSE
+Tony,Rodriguez,22,73,175,Springfield,MA,1B,Sacred Heart,Club,FALSE
+Nicholas,Scura,20,73,190,Ramsey,NJ,P,Sacred Heart,Club,FALSE
+Anthony,Stackhouse,22,75,155,Rockaway,NJ,P,Sacred Heart,Club,FALSE
+Cameron,Thibeault,23,72,210,Shrewsbury,MA,C,Sacred Heart,Club,FALSE
+Aldo,Vittozzi,19,68,150,North Reading,MA,2B,Sacred Heart,Club,FALSE
+Luke,Wilke,19,70,165,Bow,NH,OF,Sacred Heart,Club,FALSE
+Ryan,Andrews,19,73,190,Philadelphia,PA,P,St. Joe's,Club,FALSE
+Frank,Castrovinci,21,70,170,Easton,PA,P,St. Joe's,Club,FALSE
+Brendon,Chin,22,68,175,Voorhees,NJ,P,St. Joe's,Club,FALSE
+Diego,Cobo,21,70,220,San Juan,PR,1B,St. Joe's,Club,FALSE
+Patrick,Colyar,20,71,160,Vienna,VA,OF,St. Joe's,Club,FALSE
+Anthony,Cristinzio,20,70,190,Malvern,PA,OF,St. Joe's,Club,FALSE
+Daniel,Culmone,22,68,140,Montville,NJ,2B,St. Joe's,Club,FALSE
+Matt,DeFalco Jr.,20,70,170,Wallingford,PA,2B,St. Joe's,Club,FALSE
+Nate,DeVincent,21,75,180,Ambler,PA,P,St. Joe's,Club,FALSE
+Will,Doyle,21,69,140,Middletown,NJ,3B,St. Joe's,Club,FALSE
+Connor,Gayton,22,73,180,Wyndmoor,PA,OF,St. Joe's,Club,FALSE
+Jared,Glad,22,71,175,Center Valley,PA,OF,St. Joe's,Club,FALSE
+Ian,Glass,22,75,185,Collegeville,PA,P,St. Joe's,Club,FALSE
+Alex,Jones,21,72,205,Berwyn,PA,1B,St. Joe's,Club,FALSE
+Colin,Kind,20,69,175,Cinnaminson,NJ,C,St. Joe's,Club,FALSE
+James,Lavelle,21,74,170,Stamford,CT,P,St. Joe's,Club,FALSE
+Nathan,Mathis,20,73,185,Fairport,NY,P,St. Joe's,Club,FALSE
+JohnRyan,McMenamin,20,75,190,Pottstown,PA,OF,St. Joe's,Club,FALSE
+Braedan,Nitti,19,70,175,Hamilton,NJ,OF,St. Joe's,Club,FALSE
+Derek,Pavlik,22,70,140,Summit Hill,PA,P,St. Joe's,Club,FALSE
+Nick,Rymas,21,70,170,Absecon,NJ,P,St. Joe's,Club,FALSE
+Colin,Saunders,23,69,138,Wilmington,DE,P,St. Joe's,Club,FALSE
+Kenny,Schiavone,20,70,176,Princeton,NJ,SS,St. Joe's,Club,FALSE
+Connor,Scofield,22,71,190,Moorpark,CA,SS,St. Joe's,Club,FALSE
+Kyle,Skutack,20,73,173,Scranton,PA,OF,St. Joe's,Club,FALSE
+Shane,Slattery,20,76,265,Lawrenceville,NJ,P,St. Joe's,Club,FALSE
+dominic,romani,20,73,175,pennsauken,NJ,P,St. Joe's,Club,FALSE
+Samuel,Baic,23,73,200,Harmony,PA,OF,Slippery Rock,Club,FALSE
+Ian,Balquist,22,71,155,Slippery Rock,PA,P,Slippery Rock,Club,FALSE
+Koen,Bearer,21,71,175,Oil City,PA,SS,Slippery Rock,Club,FALSE
+Zacharia,Caldwell,22,74,165,Slippery Rock,PA,SS,Slippery Rock,Club,FALSE
+Jacob,Coon,23,71,190,Harmony,PA,DH,Slippery Rock,Club,FALSE
+Nico,DeCaria,21,73,185,Ellwood City,PA,1B,Slippery Rock,Club,FALSE
+Jarrod,Glasl,22,72,190,Albion,PA,P,Slippery Rock,Club,FALSE
+Nick,Kingerski,19,73,165,Harmony,PA,SS,Slippery Rock,Club,FALSE
+Bert,Kovalsky Jr,20,69,185,west mifflin,PA,3B,Slippery Rock,Club,FALSE
+Nathan,Lesher,21,71,205,Corry,PA,P,Slippery Rock,Club,FALSE
+Anthony,Manna,21,72,185,Erie,PA,P,Slippery Rock,Club,FALSE
+Nicholas,Marvin,22,70,195,Monaca,PA,C,Slippery Rock,Club,FALSE
+Garret,Polka,23,71,160,Leechburg,PA,3B,Slippery Rock,Club,FALSE
+Brady,Quatman,21,71,195,Pittsburgh,PA,C,Slippery Rock,Club,FALSE
+Matthew,Remick,19,71,150,Kutztown,PA,OF,Slippery Rock,Club,FALSE
+Ethan,Rendulic,21,72,185,Mckeepsort,PA,1B,Slippery Rock,Club,FALSE
+randall,Richter III,21,74,215,Selinsgrove,PA,3B,Slippery Rock,Club,FALSE
+John,Szczypinski II,24,73,195,Pittsburgh,PA,1B,Slippery Rock,Club,FALSE
+Benjamin,Tharpe,24,75,200,Wexford,PA,P,Slippery Rock,Club,FALSE
+Aidan,Treu,21,68,165,Harmony Township,PA,C,Slippery Rock,Club,FALSE
+Braiden,Turiak,19,71,166,Leechburg,PA,NA,Slippery Rock,Club,FALSE
+Kyle,Uber,22,69,145,Sandy Lake,PA,2B,Slippery Rock,Club,FALSE
+Jonas,Woodworth,19,67,140,Pittsburgh,PA,OF,Slippery Rock,Club,FALSE
+Lliam,Woodworth,20,69,165,Pittsburgh,PA,OF,Slippery Rock,Club,FALSE
+Tyler,durstine,21,71,170,Titusville,PA,P,Slippery Rock,Club,FALSE
+Jordan,Anagnostou,24,69,225,Woodside,CA,C,Sonoma State,Club,FALSE
+Antonino,Balistreri,21,68,180,San Francisco,CA,P,Sonoma State,Club,FALSE
+Kenneth,Baltz,20,72,165,Grass Valley,CA,P,Sonoma State,Club,FALSE
+Robert,Beltran,20,68,160,Healdsburg,CA,SS,Sonoma State,Club,FALSE
+Vincent,DeMartini,22,70,175,Novato,CA,2B,Sonoma State,Club,FALSE
+Diego,Delgado,19,68,150,Vacaville,CA,2B,Sonoma State,Club,FALSE
+Ronny,Estrada Jr.,19,71,155,Kentfield,CA,OF,Sonoma State,Club,FALSE
+Cameron,Gregory,23,68,210,Larkspur,CA,C,Sonoma State,Club,FALSE
+Alex,Guevara,21,71,175,Escalon,CA,1B,Sonoma State,Club,FALSE
+Aidan,Hickman,21,73,200,Brentwood,CA,OF,Sonoma State,Club,FALSE
+Jason,Hill Jr,22,70,165,Berkeley,CA,OF,Sonoma State,Club,FALSE
+Ethan,Martinez,22,72,215,Fair Oaks,CA,OF,Sonoma State,Club,FALSE
+Eric,Mejia Villagomez,20,68,180,Point Arena,CA,C,Sonoma State,Club,FALSE
+Eddie,Rakosky Rakosky,23,72,180,Bellflower,CA,OF,Sonoma State,Club,FALSE
+Dominic,Salerno,23,72,197,Long Beach,CA,P,Sonoma State,Club,FALSE
+Leonel,Sanchez Jr,22,69,160,Benica,CA,P,Sonoma State,Club,FALSE
+Nico,Sanchez,22,69,160,Benicia,CA,P,Sonoma State,Club,FALSE
+Chris,Schaefer,21,70,195,Boise,ID,UT,Sonoma State,Club,FALSE
+Jeffrey,Smith,23,75,195,Bellflower,CA,OF,Sonoma State,Club,FALSE
+Brayden,Stephens,22,69,150,Santa Rosa,CA,SS,Sonoma State,Club,FALSE
+Tyler,Stewart,21,67,175,Orangevale,CA,3B,Sonoma State,Club,FALSE
+Trevor,Trussell,23,68,195,Chula Vista,CA,2B,Sonoma State,Club,FALSE
+Kyle,Willis,23,70,170,Santa Rosa,CA,OF,Sonoma State,Club,FALSE
+Jostin,Zalkin,19,73,252,Albany,CA,3B,Sonoma State,Club,FALSE
+David,Anderson,21,75,185,Sturgis,SD,OF,South Dakota State,Club,FALSE
+Gunner,Brueggeman,20,75,180,HIGHMORE,SD,P,South Dakota State,Club,FALSE
+Landon,Cleveland,21,73,185,Wolsey,SD,C,South Dakota State,Club,FALSE
+Joshua,Devine,21,71,205,Brookings,SD,P,South Dakota State,Club,FALSE
+Justin,Devine,24,70,186,Brookings,SD,C,South Dakota State,Club,FALSE
+Nate,Doering,24,75,200,Parkston,SD,UT,South Dakota State,Club,FALSE
+Kadyn,Fernholz,20,71,180,Madison,MN,C,South Dakota State,Club,FALSE
+Jackson,Grady,19,72,194,Salem,SD,NA,South Dakota State,Club,FALSE
+Jackson,Hughes,24,69,170,Marshall,MN,OF,South Dakota State,Club,FALSE
+Jacob,Hughes,21,70,170,Marshall,MN,C,South Dakota State,Club,FALSE
+Joseph,Jacobson,21,69,175,Sioux Falls,SD,2B,South Dakota State,Club,FALSE
+Kyle,Lechner,23,72,180,Redwood Falls,MN,P,South Dakota State,Club,FALSE
+Carter,Lyon,19,72,165,Spearfish,SD,C,South Dakota State,Club,FALSE
+Bennett,Osborn,23,69,175,Redfield,SD,OF,South Dakota State,Club,FALSE
+Tyler,Sandbulte,22,71,185,Sioux Falls,SD,SS,South Dakota State,Club,FALSE
+Gage,Scholting,20,74,185,Louisville,NE,1B,South Dakota State,Club,FALSE
+Kemmer,Schramm,22,72,165,Sioux Falls,SD,IF,South Dakota State,Club,FALSE
+Maxwell,Scott,21,77,225,Parkston,SD,P,South Dakota State,Club,FALSE
+Aidan,Stewart,21,72,150,Brookings,SD,OF,South Dakota State,Club,FALSE
+Griffin,Tobin,20,72,160,Plankinton,SD,OF,South Dakota State,Club,FALSE
+Tanner,Tomasek,20,71,185,Holdingford,MN,NA,South Dakota State,Club,FALSE
+Hunter,Van Nieuwenhuyse,22,77,210,Highmore,SD,3B,South Dakota State,Club,FALSE
+Andrew,VanDam,21,72,195,Baltic,SD,P,South Dakota State,Club,FALSE
+Kaleb,Weber,20,72,170,Parkston,SD,NA,South Dakota State,Club,FALSE
+Avery,Wittnebel,20,71,185,Madison,MN,P,South Dakota State,Club,FALSE
+Max,Woods,22,75,195,Sioux Falls,SD,1B,South Dakota State,Club,FALSE
+Jared,Zerr,20,76,190,Brandon,SD,NA,South Dakota State,Club,FALSE
+Anthony,Amato,23,69,170,Bohemia,NY,2B,SUNY - Binghamton,Club,FALSE
+Iravan,Bhattacharyya,19,71,180,New York,NY,P,SUNY - Binghamton,Club,FALSE
+Jack,Cinquemani,19,70,155,New Rochelle,NY,NA,SUNY - Binghamton,Club,FALSE
+Luke,Cinquemani,19,69,155,New Rochelle,NY,SS,SUNY - Binghamton,Club,FALSE
+Edward,Clark,22,69,165,Oyster Bay,NY,SS,SUNY - Binghamton,Club,FALSE
+Luke,Costanzo,21,68,170,Valley Stream,NY,OF,SUNY - Binghamton,Club,FALSE
+Cole,Deatrick,20,71,155,Jefferson,NJ,P,SUNY - Binghamton,Club,FALSE
+Morgan,Dillon,23,72,180,Guilderland,NY,P,SUNY - Binghamton,Club,FALSE
+Scott,Hourigan,20,76,230,Cortland,NY,P,SUNY - Binghamton,Club,FALSE
+Brent,Isaacs,21,72,170,Endicott,NY,3B,SUNY - Binghamton,Club,FALSE
+Logan,Kapusinsky,20,70,155,Thiells,NY,UT,SUNY - Binghamton,Club,FALSE
+Robert,Kwortnik,22,68,180,Ithaca,NY,C,SUNY - Binghamton,Club,FALSE
+Jack,McDonald,21,70,175,Islip,NY,SS,SUNY - Binghamton,Club,FALSE
+Nicholas,Muglia,21,71,180,Staten Island,NY,1B,SUNY - Binghamton,Club,FALSE
+James,Muscat,22,73,205,Garden City,NY,3B,SUNY - Binghamton,Club,FALSE
+Justyn,Park,21,66,130,Manhasset,NY,IF,SUNY - Binghamton,Club,FALSE
+Matt,Polestino,22,69,175,East Northport,NY,P,SUNY - Binghamton,Club,FALSE
+Tarif,Sabur,22,69,170,Scarsdale,NY,P,SUNY - Binghamton,Club,FALSE
+Nicholas,Spitzer,21,77,195,East Elmhurst,NY,NA,SUNY - Binghamton,Club,FALSE
+Ryan,Steel,21,71,180,Greenlawn,NY,OF,SUNY - Binghamton,Club,FALSE
+Samuel,Stricks,21,70,185,Bx,NY,C,SUNY - Binghamton,Club,FALSE
+Nick,Telgheder,22,72,175,Slate Hill,NY,P,SUNY - Binghamton,Club,FALSE
+Christopher,Tufano,23,72,165,Forest Hills,NY,OF,SUNY - Binghamton,Club,FALSE
+Thomas,Verdon,21,72,170,New York,NY,P,SUNY - Binghamton,Club,FALSE
+Luke,Zuckerman,22,72,210,Plainview,NY,P,SUNY - Binghamton,Club,FALSE
+Matthew,Adamson,19,74,165,Lewiston,NY,P,SUNY - Brockport,Club,FALSE
+Cole,Blunt,19,70,236,Lancaster,NY,1B,SUNY - Brockport,Club,FALSE
+Jonathan,Bunk,21,75,190,North Chili,NY,P,SUNY - Brockport,Club,FALSE
+Hunter,Byrne,21,75,180,Marcellus,NY,OF,SUNY - Brockport,Club,FALSE
+Joey,Campbell,19,71,215,Rochester,NY,3B,SUNY - Brockport,Club,FALSE
+Kade,Cochran,20,74,185,Campbell,NY,OF,SUNY - Brockport,Club,FALSE
+Casey,Cummings,19,70,185,Clifton Park,NY,SS,SUNY - Brockport,Club,FALSE
+Liam,Duggan,20,69,172,Hamburg,NY,P,SUNY - Brockport,Club,FALSE
+Matthew,Federico,21,69,170,Brewster,NY,OF,SUNY - Brockport,Club,FALSE
+Trevor,Gienau,22,68,170,Henrietta,NY,2B,SUNY - Brockport,Club,FALSE
+Andrew,Gleason,20,72,175,Macedon,NY,SS,SUNY - Brockport,Club,FALSE
+Noah,Howlett,20,70,165,Holland,NY,OF,SUNY - Brockport,Club,FALSE
+Kegan,Kraeger,21,72,265,Oriskany,NY,1B,SUNY - Brockport,Club,FALSE
+Daniel,Krzywicki,22,70,155,Clarence Center,NY,UT,SUNY - Brockport,Club,FALSE
+Nicholas,Liberti,20,74,170,Webster,NY,C,SUNY - Brockport,Club,FALSE
+Andrew,McDermott,19,66,165,Poughkeepsie,NY,OF,SUNY - Brockport,Club,FALSE
+Colin,McPherson,19,77,195,Bemus Point,NY,1B,SUNY - Brockport,Club,FALSE
+Sean,Nellis,20,72,185,Ontario,NY,NA,SUNY - Brockport,Club,FALSE
+Brian,Oddi Jr,21,72,215,Waterloo,NY,NA,SUNY - Brockport,Club,FALSE
+Tony,Puckhaber Jr,21,68,175,North Collins,NY,C,SUNY - Brockport,Club,FALSE
+Jack,Rauschenbach,20,75,195,Wallkill,NY,OF,SUNY - Brockport,Club,FALSE
+Ryan,Redmond,19,68,175,Schenectady,NY,P,SUNY - Brockport,Club,FALSE
+Braden,Statt,21,74,160,Rochester,NY,P,SUNY - Brockport,Club,FALSE
+Shawn,Wallace,20,72,175,Wolfeboro,NH,OF,SUNY - Brockport,Club,FALSE
+cooper,purdy,20,71,145,Skaneateles,NY,2B,SUNY - Brockport,Club,FALSE
+Jason,Anderson,22,70,235,Newtown Square,PA,1B,Temple,Club,FALSE
+Jake,Andrien,21,71,162,Devon,PA,OF,Temple,Club,FALSE
+Liam,Birrane,20,71,175,Bloomsburg,PA,P,Temple,Club,FALSE
+Jack,Campo Jr,20,73,190,Arnold,MD,2B,Temple,Club,FALSE
+Eric,Esworthy,21,75,180,Harrisburg,PA,FLEX,Temple,Club,FALSE
+Ryan,Fick,22,69,170,Exton,PA,3B,Temple,Club,FALSE
+Logan,Fischer,21,75,210,Horsham,PA,1B,Temple,Club,FALSE
+Josh,Jakubik,21,70,175,Holland,PA,OF,Temple,Club,FALSE
+Caleb,Kirkpatrick,19,71,170,hunting valley,OH,P,Temple,Club,FALSE
+Adam,Litchkofski,21,72,170,Mountain Top,PA,P,Temple,Club,FALSE
+Damarco,Maglio,22,74,180,Moscow,PA,P,Temple,Club,FALSE
+Danny,McLoughlin,23,71,155,Media,PA,SS,Temple,Club,FALSE
+Nate,OConnor,20,74,185,Willow Grove,PA,OF,Temple,Club,FALSE
+Gabriel,Pietryka,22,73,175,South Abington,PA,1B,Temple,Club,FALSE
+Thomas,Roberts,23,74,175,Wayne,PA,P,Temple,Club,FALSE
+Andrew,Scott,22,68,165,Downingtown,PA,P,Temple,Club,FALSE
+Max,Squarcia,21,72,190,Easton,PA,OF,Temple,Club,FALSE
+Matthew,Tucker,21,70,175,Havertown,PA,P,Temple,Club,FALSE
+Evan,Williams,22,70,160,Mechanicsburg,PA,P,Temple,Club,FALSE
+Henry,Wood-Lewis,21,70,175,Burlington,VT,SS,Temple,Club,FALSE
+Joey,Yuen,22,68,165,Carlisle,PA,P,Temple,Club,FALSE
+Noah,Zilker,20,77,240,Barnesville,PA,P,Temple,Club,FALSE
+Logan,Adams,20,70,175,Kettering,OH,C,Ohio State,Club,FALSE
+Jason,Bilotti,22,70,175,Phoenixville,PA,OF,Ohio State,Club,FALSE
+Connor,Breneman,19,76,215,Kings Mills,OH,P,Ohio State,Club,FALSE
+Frank,Ceraolo,20,71,165,Mayfield Village,OH,OF,Ohio State,Club,FALSE
+Ryan,Eatherton,24,73,165,Hilliard,OH,1B,Ohio State,Club,FALSE
+Brenden,Gordon,21,74,182,Galloway,OH,3B,Ohio State,Club,FALSE
+Michael,Gorman,20,71,160,Downers Grove,IL,P,Ohio State,Club,FALSE
+Cael,Gray,21,70,150,Mentor,OH,IF,Ohio State,Club,FALSE
+Keaton,Host,21,70,150,Uhrichsville,OH,OF,Ohio State,Club,FALSE
+Adam,Knaak,20,74,235,Kirtland,OH,1B,Ohio State,Club,FALSE
+Vince,Koprowski,20,74,175,North Royalton,OH,OF,Ohio State,Club,FALSE
+Landon,Ladany,20,76,220,Akron,OH,P,Ohio State,Club,FALSE
+Vincenzo,Lio,19,72,200,Oakmont,PA,1B,Ohio State,Club,FALSE
+Adam,Maruna,22,74,165,Medina,OH,2B,Ohio State,Club,FALSE
+William,Meyers,19,75,210,Fairfield,CT,P,Ohio State,Club,FALSE
+Christopher,Perez,23,72,205,Westbury,NY,C,Ohio State,Club,FALSE
+Gavin,Roell,21,71,165,Cincinnati,OH,IF,Ohio State,Club,FALSE
+Gavin,Smith,22,69,145,Reynoldsburg,OH,2B,Ohio State,Club,FALSE
+Micaden,Stephens,21,72,190,Hamilton,OH,SS,Ohio State,Club,FALSE
+Jaden,Thomas,21,72,200,Carroll,OH,P,Ohio State,Club,FALSE
+Brett,Zawatsky,19,72,175,Beachwood,OH,P,Ohio State,Club,FALSE
+Brandon,Bartolotta,21,73,165,Columbia,MD,2B,Towson,Club,FALSE
+Caleb,Benkwitt,22,78,245,Stamford,CT,1B,Towson,Club,FALSE
+Michael,Bowles,20,71,150,Severna Park,MD,P,Towson,Club,FALSE
+Grant,Bruns,21,70,165,Towson,MD,C,Towson,Club,FALSE
+Cruz,Cortez,23,67,165,Frederick,MD,OF,Towson,Club,FALSE
+Timmy,Cronin,20,68,170,Laurel,MD,SS,Towson,Club,FALSE
+Ariel,Dominguez Jr,20,71,200,Hyattsville,MD,2B,Towson,Club,FALSE
+Tucker,Freer,21,69,180,Columbia,MD,OF,Towson,Club,FALSE
+Justin,Gallagher,21,70,165,Monmouth Junction,NJ,P,Towson,Club,FALSE
+Filip,Healey,19,71,170,Joppatowne,MD,C,Towson,Club,FALSE
+Ethan,Joseph,23,70,160,Ellicott City,MD,OF,Towson,Club,FALSE
+Sean,Lincoln,20,73,170,Marriottsville,MD,OF,Towson,Club,FALSE
+Justin,Powell,23,69,160,Clarksburg,MD,NA,Towson,Club,FALSE
+Zach,Rotter,21,72,165,Marriottsville,MD,3B,Towson,Club,FALSE
+William,Ruff,20,72,165,Towson,MD,UT,Towson,Club,FALSE
+Tyler,Stuck,20,72,173,Finksburg,MD,NA,Towson,Club,FALSE
+Rahil,Talati,21,66,145,Timonium,MD,OF,Towson,Club,FALSE
+Raymond,Woodward IV,22,72,180,Sykesville,MD,UT,Towson,Club,FALSE
+Cheyenne,Arnold,20,72,195,Los Angeles,CA,3B,Cal,Club,FALSE
+Kalvin,Choe,22,67,152,Mililani,HI,2B,Cal,Club,FALSE
+Diego,Cruz,23,71,185,Claremont,CA,P,Cal,Club,FALSE
+Ian,De Vaynes,21,67,155,San Francisco,CA,OF,Cal,Club,FALSE
+Luke,Gargotta,22,76,175,North Hollywood,CA,OF,Cal,Club,FALSE
+Diego,Huizar,20,70,210,Pasadena,CA,3B,Cal,Club,FALSE
+Braeden,Jones,21,72,200,Geronimo,OK,P,Cal,Club,FALSE
+Evan,Leu,19,72,230,Sacramento,CA,C,Cal,Club,FALSE
+Ethan,Lo,22,75,165,Davis,CA,OF,Cal,Club,FALSE
+Tyler,Mahomes,23,75,175,Torrance,CA,P,Cal,Club,FALSE
+Manuel,Molina Jr.,23,70,169,San Fernando,CA,2B,Cal,Club,FALSE
+Michael,Mulligan Jr.,21,76,195,Bellflower,CA,P,Cal,Club,FALSE
+Timothy,Park,20,74,230,La Canada,CA,C,Cal,Club,FALSE
+Cortez,Rush,21,70,195,Modesto,CA,OF,Cal,Club,FALSE
+Derek,Shah,20,74,185,Woodland Hills,CA,P,Cal,Club,FALSE
+Jason,Shin,22,68,158,Cerritos,CA,SS,Cal,Club,FALSE
+Zachary,Stephenson,22,71,160,Cambria,CA,C,Cal,Club,FALSE
+Matthew,Thompson,20,71,180,Livermore,CA,P,Cal,Club,FALSE
+Andrew,Wang,22,70,185,San Jose,CA,OF,Cal,Club,FALSE
+Matthew,Bolton,20,73,160,Collegeville,MN,P,UCLA,Club,FALSE
+Gavin,Butler,19,72,165,Glen Head,NY,OF,UCLA,Club,FALSE
+Sebastian,Caid,22,70,175,Chicago,IL,OF,UCLA,Club,FALSE
+Noah,Clausen,20,75,175,San Luis Obispo,CA,SS,UCLA,Club,FALSE
+Matthew,Drake,22,71,170,Berkeley,CA,OF,UCLA,Club,FALSE
+Diego,Duarte,20,74,185,Hayward,CA,P,UCLA,Club,FALSE
+Ernesto,Favela Corral,22,71,165,Victorville,CA,SS,UCLA,Club,FALSE
+Demetrios,Georggin,20,74,225,Irvine,CA,1B,UCLA,Club,FALSE
+Donnobhain,Haertel,19,75,205,Hollister,CA,OF,UCLA,Club,FALSE
+Joey,Janssen,21,72,200,Oakdale,CA,1B,UCLA,Club,FALSE
+Nicholas,Johnson,22,70,168,Everett,WA,SS,UCLA,Club,FALSE
+Kyle,Kim,20,69,175,Fullerton,CA,IF,UCLA,Club,FALSE
+Justin,Klausner,21,70,165,Agoura Hills,CA,C,UCLA,Club,FALSE
+Brandon,Louie,22,71,165,Fremont,CA,P,UCLA,Club,FALSE
+Alexander,Marcoline,19,74,190,New Hyde Park,NY,P,UCLA,Club,FALSE
+Oliver,Montclare,21,72,150,Redwood City,CA,P,UCLA,Club,FALSE
+Gavin,Mora,19,71,185,Lodi,CA,C,UCLA,Club,FALSE
+Jason,Mosher,24,71,160,Fairfield,CA,3B,UCLA,Club,FALSE
+Niki,Prongos,21,79,285,Kentfield,CA,NA,UCLA,Club,FALSE
+Wyatt,Reynolds,22,74,170,Chicago,IL,1B,UCLA,Club,FALSE
+Silas,Rowen-Herzog,22,71,165,Rohnert Park,CA,IF,UCLA,Club,FALSE
+Aidan,Sautner,20,72,160,San Clemente,CA,P,UCLA,Club,FALSE
+Adam,Simshauser,22,70,175,West Linn,OR,UT,UCLA,Club,FALSE
+Blake,Thomas,20,72,173,Placentia,CA,NA,UCLA,Club,FALSE
+Jacob,Barrett,23,72,185,Union,KY,C,Cincinnati,Club,FALSE
+Liam,Brian,22,71,165,Lakewood,OH,3B,Cincinnati,Club,FALSE
+Carson,Brown,20,72,185,Easton,MD,3B,Cincinnati,Club,FALSE
+Tyler,Collaros,21,72,145,North Royalton,OH,P,Cincinnati,Club,FALSE
+Aidan,Cunningham,20,72,175,Strongsville,OH,OF,Cincinnati,Club,FALSE
+Phillip,Davison,19,69,140,Chardon,OH,2B,Cincinnati,Club,FALSE
+Zachary,Gessner,22,69,160,Indianapolis,IN,3B,Cincinnati,Club,FALSE
+Henry,Haag,19,71,175,Cincinnati,OH,NA,Cincinnati,Club,FALSE
+Brandon,Hale,20,73,180,Worthington,OH,P,Cincinnati,Club,FALSE
+Alex,Howard,21,66,160,Amelia,OH,NA,Cincinnati,Club,FALSE
+Jacob,Hudepohl,20,76,180,West Carrollton,OH,P,Cincinnati,Club,FALSE
+CJ,Longo,19,69,160,DELAWARE,OH,OF,Cincinnati,Club,FALSE
+Nick,McLaughlin,22,75,200,Cincinnati,OH,SS,Cincinnati,Club,FALSE
+Jared,Moeller,20,77,210,Delaware,OH,OF,Cincinnati,Club,FALSE
+Matt,Morris,20,77,190,Westfield,IN,NA,Cincinnati,Club,FALSE
+Jonathon,Nejman,22,72,170,Cuyahoga Heights,OH,P,Cincinnati,Club,FALSE
+Logan,Regg,22,71,160,Liberty Township,OH,NA,Cincinnati,Club,FALSE
+David,Robinson,21,75,170,Rocky River,OH,NA,Cincinnati,Club,FALSE
+Brad,Schauer,19,75,200,Cincinnati,OH,OF,Cincinnati,Club,FALSE
+Tate,Scholvin,21,71,165,Lewis Center,OH,OF,Cincinnati,Club,FALSE
+Jack,Shade,20,75,200,Noblesville,IN,1B,Cincinnati,Club,FALSE
+Cedric,Stewart,19,78,200,Columbus,OH,1B,Cincinnati,Club,FALSE
+Kyle,Stoughton,22,71,165,Monroe,OH,OF,Cincinnati,Club,FALSE
+Mitchell,Thomas,21,73,180,Vandalia,OH,1B,Cincinnati,Club,FALSE
+Aidan,Vober,22,66,140,Stow,OH,OF,Cincinnati,Club,FALSE
+Ian,Wigglesworth,22,75,210,Marysville,OH,P,Cincinnati,Club,FALSE
+brendan,malek,21,75,175,Beachwood,OH,2B,Cincinnati,Club,FALSE
+Connor,Anthony,21,73,180,East Granby,CT,3B,UConn,Club,FALSE
+Daniel,Bae,21,70,180,Avon,CT,3B,UConn,Club,FALSE
+Drew,Belcourt,22,68,165,Southington,CT,OF,UConn,Club,FALSE
+Coleby,Bunnell,23,73,220,Litchfield,CT,1B,UConn,Club,FALSE
+Bryce,Carey,21,72,180,Colchester,VT,C,UConn,Club,FALSE
+Jack,D'Avignon,19,72,150,Milford,CT,SS,UConn,Club,FALSE
+Rowan,Devlin,21,72,190,Newton,MA,C,UConn,Club,FALSE
+Hadyn,Gourley,22,74,195,Trumbull,CT,P,UConn,Club,FALSE
+Riley,Gravel,22,69,170,West Hartford,CT,SS,UConn,Club,FALSE
+Sean,Griffin,21,72,175,East Granby,CT,NA,UConn,Club,FALSE
+Matthew,Kelly,19,72,170,Millbury,MA,OF,UConn,Club,FALSE
+Jonathan,McNelis,23,71,170,Woodbridge,CT,OF,UConn,Club,FALSE
+Carter,Morissette,19,73,180,Woodstock,CT,NA,UConn,Club,FALSE
+Ryan,Nuzzo,22,67,145,Woodbridge,CT,OF,UConn,Club,FALSE
+Tyler,Perkins,22,74,184,Ledyard,CT,P,UConn,Club,FALSE
+Evan,Robbins,20,67,160,Ellington,CT,NA,UConn,Club,FALSE
+Michael,Santos,21,70,155,East Granby,CT,P,UConn,Club,FALSE
+Jake,Savino,19,69,165,Valhalla,NY,P,UConn,Club,FALSE
+Preston,Tabor,21,69,160,Groton,CT,OF,UConn,Club,FALSE
+Gianmarco,Tocco,22,66,155,Dix Hills,NY,SS,UConn,Club,FALSE
+Nicholas,Verdone,21,68,150,Glastonbury,CT,OF,UConn,Club,FALSE
+Andrew,Apanasewicz,21,69,190,Cleveland,OH,C,Dayton,Club,FALSE
+Justin,Bailes,22,74,180,Cincinnati,OH,C,Dayton,Club,FALSE
+Nicholas,Beltran,21,65,150,Chicago,IL,C,Dayton,Club,FALSE
+Alberto,Berrios,22,70,170,San Juan,PR,NA,Dayton,Club,FALSE
+Trevor,Blum,22,72,205,Wheaton,IL,OF,Dayton,Club,FALSE
+Connor,Bonino,22,74,205,Hinsdale,IL,3B,Dayton,Club,FALSE
+Christopher,Bussen,23,70,185,Shorewood,WI,SS,Dayton,Club,FALSE
+Ryan,Cummings,21,69,175,Mundelein,IL,C,Dayton,Club,FALSE
+Aidan,Dunehew,21,73,185,Cincinnati,OH,DH,Dayton,Club,FALSE
+Jack,Glasstetter,19,67,160,Arlington Heights,IL,NA,Dayton,Club,FALSE
+Michael,Griffith,21,72,185,Cleveland,OH,P,Dayton,Club,FALSE
+Joseph,Hollis,23,76,195,Gates Mills,OH,P,Dayton,Club,FALSE
+John,Hoover,21,76,200,Brookfield,WI,1B,Dayton,Club,FALSE
+Will,Kay,18,72,180,Gates Mills,OH,P,Dayton,Club,FALSE
+John,McKenzie,21,75,170,Cincinnati,OH,OF,Dayton,Club,FALSE
+Bryan,Mitchell,23,70,155,Perrysburg,OH,P,Dayton,Club,FALSE
+Nicholas,Mulvihill,22,71,170,Hinsdale,IL,SS,Dayton,Club,FALSE
+Jacob,Pentasuglio,22,72,180,Akron,OH,OF,Dayton,Club,FALSE
+Charles,Rosmarin,20,73,180,Grand Rapids,MI,P,Dayton,Club,FALSE
+Ben,Ruth,23,75,165,Kensington,MD,SS,Dayton,Club,FALSE
+Evan,Sandt,22,74,185,St. Louis,MO,OF,Dayton,Club,FALSE
+Dylan,Snyder,22,70,180,Dayton,OH,OF,Dayton,Club,FALSE
+Colin,Springer,21,75,195,New Lenox,IL,1B,Dayton,Club,FALSE
+Corey,Stease,22,72,195,Brecksville,OH,1B,Dayton,Club,FALSE
+Nathan,Teller,20,68,155,Clayton,OH,SS,Dayton,Club,FALSE
+Jimmy,Thomas,22,71,180,Akron,OH,UT,Dayton,Club,FALSE
+Alex,York,19,74,215,Trenton,OH,C,Dayton,Club,FALSE
+ryan,jones,19,70,170,Elburn,IL,NA,Dayton,Club,FALSE
+josh,nelson,21,70,165,Arlington Heights,IL,P,Dayton,Club,FALSE
+Christopher,Bangs,20,75,200,Nyack,NY,C,Delaware,Club,FALSE
+Aidan,Barbone,20,70,195,Slate Hill,NY,1B,Delaware,Club,FALSE
+Cameron,Batterberry,22,74,200,Sayville,NY,P,Delaware,Club,FALSE
+Derek,Boerner,21,71,210,Mullica Hill,Nj,P,Delaware,Club,FALSE
+Andrew,Booth,23,73,180,Ambler,PA,1B,Delaware,Club,FALSE
+Jack,Burns Burns,21,72,165,Wilmington,DE,P,Delaware,Club,FALSE
+Harrison,Burns,23,74,180,Wilmington,DE,OF,Delaware,Club,FALSE
+Christopher,Calderone,20,71,180,Wilton,CT,C,Delaware,Club,FALSE
+Phlip,Centineo,21,70,210,Waldwick,NJ,IF,Delaware,Club,FALSE
+Landon,Costa,19,70,165,Sewell,NJ,P,Delaware,Club,FALSE
+Ben,Crescenzi,21,72,188,Glen Gardner,NJ,OF,Delaware,Club,FALSE
+Samuel,Devard,22,71,207,Wilmington,DE,OF,Delaware,Club,FALSE
+Thomas,DiLeo,23,75,200,Princeton Junction,NJ,P,Delaware,Club,FALSE
+Alexander,Dias,20,70,180,Chester,NJ,OF,Delaware,Club,FALSE
+Nick,Eder,19,70,160,Dumont,NJ,P,Delaware,Club,FALSE
+Ryan,Farina,21,68,140,Wilmington,DE,2B,Delaware,Club,FALSE
+Jake,Harris,19,71,170,Denville,NJ,2B,Delaware,Club,FALSE
+Dylan,Hirshorn,22,75,200,West Caldwell,NJ,3B,Delaware,Club,FALSE
+John,King,21,68,160,Watchung,NJ,OF,Delaware,Club,FALSE
+Grayson,Lovitz,21,67,150,Ambler,PA,3B,Delaware,Club,FALSE
+Joseph,Meola,22,67,165,Cranford,NJ,C,Delaware,Club,FALSE
+Sean,Michael,20,71,180,Wawayanda,NY,P,Delaware,Club,FALSE
+Nick,Murante,20,69,165,West Caldwell,NJ,P,Delaware,Club,FALSE
+Max,Oettinger,21,75,185,Lorton,VA,P,Delaware,Club,FALSE
+Daymond,Purdy,23,72,200,Havertown,PA,OF,Delaware,Club,FALSE
+Mike,Rinaldi,20,71,155,Eastchester,NY,SS,Delaware,Club,FALSE
+Christopher,Segreti,22,70,155,Huntington,NY,SS,Delaware,Club,FALSE
+Kevin,Taraborelli,20,74,195,Newtown Square,PA,1B,Delaware,Club,FALSE
+Andres,Castaneda,21,70,175,Hoffman Estates,IL,3B,Illinois,Club,FALSE
+Daniel,Clawson,23,74,200,Arlington Heights,IL,1B,Illinois,Club,FALSE
+Michael,Connell,22,76,185,Elmhurst,IL,OF,Illinois,Club,FALSE
+Jack,Corda,22,71,155,Chicago,IL,2B,Illinois,Club,FALSE
+Grant,Cox,21,73,190,Breese,IL,P,Illinois,Club,FALSE
+Kendall,Crawford,20,74,185,Champaign,IL,P,Illinois,Club,FALSE
+Mitchell,Crompton,20,69,175,champaign,IL,OF,Illinois,Club,FALSE
+Blake,Darcy,20,71,170,Joliet,IL,P,Illinois,Club,FALSE
+Alexander,Del Val,22,69,205,Skokie,IL,C,Illinois,Club,FALSE
+Michael,Gioia Jr,21,69,175,Chicago,IL,2B,Illinois,Club,FALSE
+Owen,Hobbs,19,78,190,Champaign,IL,P,Illinois,Club,FALSE
+Cooper,Jaworski,19,69,185,Hampshire,IL,C,Illinois,Club,FALSE
+Lukas,Kim,22,71,165,Hoffman Estates,IL,P,Illinois,Club,FALSE
+Carson,Lee,22,74,235,Naperville,IL,C,Illinois,Club,FALSE
+Cameron,Majeski,21,70,160,Buffalo Grove,IL,SS,Illinois,Club,FALSE
+Armond,Milton,23,71,170,Belleville,IL,OF,Illinois,Club,FALSE
+Ozzie,Muhlhauser,20,72,185,Normal,IL,P,Illinois,Club,FALSE
+Korey,Mulling,20,69,170,Flossmoor,IL,SS,Illinois,Club,FALSE
+Connor,Oswalt,25,71,155,Reseda,CA,P,Illinois,Club,FALSE
+Tyler,Procajlo,22,71,190,Elmhurst,IL,IF,Illinois,Club,FALSE
+Zachary,Riley,20,71,195,Joliet,IL,NA,Illinois,Club,FALSE
+Luc,Rotondo,21,71,190,Buffalo Grove,IL,P,Illinois,Club,FALSE
+Parker,Schoeff,21,71,185,Chicago,IL,1B,Illinois,Club,FALSE
+Daniel,Smid,21,74,175,Naperville,IL,P,Illinois,Club,FALSE
+Aleks,Timotijevic,22,70,160,Lemont,IL,IF,Illinois,Club,FALSE
+John,Ahlstedt,20,76,212,Roselle,IL,C,Iowa,Club,FALSE
+Noah,Blayney,19,69,175,Peoria,IL,P,Iowa,Club,FALSE
+Benjamin,Borrman,24,70,180,Stillwater,MN,P,Iowa,Club,FALSE
+Anthony,Bynum,22,72,170,Bettendorf,IA,P,Iowa,Club,FALSE
+Dayne,Cordray,23,67,150,Fort Madiaon,IA,SS,Iowa,Club,FALSE
+Noah,Desaulniers,20,72,165,Iowa city,IA,P,Iowa,Club,FALSE
+Ryan,DiGiallonardo,19,75,180,Dunlap,IL,P,Iowa,Club,FALSE
+Aidan,Fitzgibbon,22,72,190,Davenport,IA,UT,Iowa,Club,FALSE
+Jack,Gorsche,21,73,190,Johnston,IA,P,Iowa,Club,FALSE
+Andrew,Harvey,19,77,225,Aurora,IL,P,Iowa,Club,FALSE
+Tanner,Ho,19,67,170,Shakopee,MN,2B,Iowa,Club,FALSE
+Tyler,Ho,21,68,160,Shakopee,MN,C,Iowa,Club,FALSE
+Nathan,Jepson,22,70,175,Morris,IL,OF,Iowa,Club,FALSE
+Hudson,King,22,73,175,Hartland,WI,UT,Iowa,Club,FALSE
+Tyler,Klipowicz,22,68,150,Palatine,IL,OF,Iowa,Club,FALSE
+Carter,LaVelle,20,66,200,Eden Prairie,MN,3B,Iowa,Club,FALSE
+Nick,Maleri,21,76,200,Highlands Ranch,CO,P,Iowa,Club,FALSE
+Miles,Malizia,22,75,190,Ankeny,IA,2B,Iowa,Club,FALSE
+Nathan,Snedic,22,73,190,Naperville,IL,C,Iowa,Club,FALSE
+Kacey,Sommars,19,74,200,Newton,IA,IF,Iowa,Club,FALSE
+Jack,Swichtenberg,22,75,180,Crystal Lake,IL,P,Iowa,Club,FALSE
+Jacob,Tobey,24,70,175,Johnston,IA,P,Iowa,Club,FALSE
+Thomas,Wilkie,22,74,200,Shakopee,MN,OF,Iowa,Club,FALSE
+Kevin,Barrera,22,68,165,Attleboro,MA,NA,UMass,Club,FALSE
+James,Birch,21,69,185,West Roxbury,MA,C,UMass,Club,FALSE
+Tobin,Clark-Goldfeld,21,74,190,South Hamilton,MA,SS,UMass,Club,FALSE
+Calvin,Cononi,23,69,160,Waltham,MA,OF,UMass,Club,FALSE
+jacob,Crisileo,20,65,170,franklin,MA,OF,UMass,Club,FALSE
+Ryan,Dexter,21,71,205,Milton,MA,P,UMass,Club,FALSE
+Matthew,Doyle,21,66,175,Malden,MA,3B,UMass,Club,FALSE
+Chase,Dunlap,22,73,165,Port orange,FL,OF,UMass,Club,FALSE
+Kyle,Finnigan,23,71,140,Lynn,MA,P,UMass,Club,FALSE
+Hayden,Groh,21,71,175,Boston,MA,P,UMass,Club,FALSE
+Zach,Hatfield,23,72,180,Quincy,MA,OF,UMass,Club,FALSE
+Cameron,Hunt,21,74,185,Marlborough,MA,P,UMass,Club,FALSE
+Luke,Ickes,20,73,195,Wakefield,MA,P,UMass,Club,FALSE
+Max,Kasper,20,72,185,Needham,MA,NA,UMass,Club,FALSE
+Tyler,King,21,71,190,Upton,MA,P,UMass,Club,FALSE
+Connor,Lynch,20,72,185,Norton,MA,P,UMass,Club,FALSE
+Ryan,Mack,23,75,210,Ashburnham,MA,P,UMass,Club,FALSE
+Gavin,Martin,22,73,230,Lawrenceville,NJ,P,UMass,Club,FALSE
+Matthew,McDonald,22,72,195,Shrewsbury,MA,OF,UMass,Club,FALSE
+Aidan,Ritter,22,68,160,Andover,MA,SS,UMass,Club,FALSE
+Michael,Silva,22,75,155,Reading,MA,1B,UMass,Club,FALSE
+Matt,Skillings,22,69,190,Marlborough,MA,NA,UMass,Club,FALSE
+Devin,Smith,22,68,155,West Roxbury,MA,2B,UMass,Club,FALSE
+Andrew,Smithson,22,71,175,Andover,MA,P,UMass,Club,FALSE
+Phin,Steiniger,21,71,185,Northampton,MA,C,UMass,Club,FALSE
+George,Tolman,20,72,190,Norwood,MA,NA,UMass,Club,FALSE
+Jacob,Troutman,21,69,175,Ashland,MA,NA,UMass,Club,FALSE
+Derek,Zakrosky Jr,20,72,170,Middleboro,MA,SS,UMass,Club,FALSE
+zachary,ramaswamy,20,72,195,Franklin,MA,NA,UMass,Club,FALSE
+jack,walsh,20,72,185,Walpole,MA,OF,UMass,Club,FALSE
+Cole,Allen,20,70,160,Ann Arbor,MI,OF,Michigan,Club,FALSE
+Cole,Arnedt,20,73,175,Dexter,MI,SS,Michigan,Club,FALSE
+Philip,Arzt,19,76,175,Studio City,CA,P,Michigan,Club,FALSE
+Daniel,Cifu,21,67,155,Millburn,NJ,P,Michigan,Club,FALSE
+Tom,Costello,20,73,200,Rockville,MD,C,Michigan,Club,FALSE
+Jake,D'Amico,22,72,180,Westport,CT,NA,Michigan,Club,FALSE
+Jacob,Delidow,23,70,170,Millburn,NJ,2B,Michigan,Club,FALSE
+Charles,Forde Forde,21,73,195,Atlanta,GA,P,Michigan,Club,FALSE
+Mitchell,Fuchs,20,73,160,Livonia,MI,P,Michigan,Club,FALSE
+Braeden,Fuson,21,69,165,Dexter,MI,OF,Michigan,Club,FALSE
+Jacoby,Haley,24,74,195,Dexter,MI,P,Michigan,Club,FALSE
+Ryan,Jones,20,76,190,Grosse Pointe Woods,MI,OF,Michigan,Club,FALSE
+Brendan,Karsch,22,74,175,Ann Arbor,MI,SS,Michigan,Club,FALSE
+Jake,Martin,19,71,180,Grosse Pointe Woods,MI,C,Michigan,Club,FALSE
+Evan,McCleery Brown,23,72,185,San Diego,CA,P,Michigan,Club,FALSE
+Treye,Meadows,21,72,155,Calabasas,CA,P,Michigan,Club,FALSE
+Joe,Murphy,20,70,150,Rochester Hills,MI,P,Michigan,Club,FALSE
+Griffin,Pardi,20,70,175,Bloomfield Hills,MI,C,Michigan,Club,FALSE
+Drew,Ruchim,23,69,175,Lincolnshire,IL,C,Michigan,Club,FALSE
+Jeremy,Sacks,22,75,190,Montclair,NJ,1B,Michigan,Club,FALSE
+Robert,Schilp,22,71,170,Detroit,MI,3B,Michigan,Club,FALSE
+Kai,Seidel,20,73,185,San Francisco,CA,3B,Michigan,Club,FALSE
+Donovan,Selph,21,70,170,Berkley,MI,3B,Michigan,Club,FALSE
+Jake,Sheinberg,20,70,160,Danville,CA,NA,Michigan,Club,FALSE
+John,Szajenko,20,73,175,Midland,MI,P,Michigan,Club,FALSE
+JC,Vanappledorn,19,74,210,Bellevue,WA,NA,Michigan,Club,FALSE
+Robert,Whelan,20,69,165,Commerce,MI,P,Michigan,Club,FALSE
+Cole,Arcieri-Rowe,22,72,170,Exeter,NH,P /,New Hampshire,Club,FALSE
+Tyler,Baker,20,71,178,Westford,MA,OF /,New Hampshire,Club,FALSE
+Grady,Chase,21,66,145,Barre,VT,2B,New Hampshire,Club,FALSE
+Spencer,Cheney,22,71,173,Bow,NH,OF,New Hampshire,Club,FALSE
+Jeffrey,DeFazio,23,70,170,belmar,NJ,P,New Hampshire,Club,FALSE
+Sam,Farrington,21,70,175,Rochester,NH,OF,New Hampshire,Club,FALSE
+Caleb,Greene,20,68,162,Portsmouth,NH,P,New Hampshire,Club,FALSE
+Gunner,Hagstrom,23,68,163,Hillsboro,NH,OF,New Hampshire,Club,FALSE
+Matthew,Hamilton,22,70,165,Bow,NH,3B,New Hampshire,Club,FALSE
+Jack,Hornstein,20,69,165,Warwick,RI,C,New Hampshire,Club,FALSE
+Tommy,Langlois,23,68,200,Windham,NH,C,New Hampshire,Club,FALSE
+Alec,Lawry,23,73,165,Exeter,NH,SS,New Hampshire,Club,FALSE
+Jack,Leahy,22,70,145,Dracut,MA,P,New Hampshire,Club,FALSE
+Tony,Lucci,21,74,180,Newburyport,MA,SS,New Hampshire,Club,FALSE
+Ryan,Marchand,19,73,190,Ayer,MA,P,New Hampshire,Club,FALSE
+Matthew,McGowan,19,72,175,Ipswich,MA,OF,New Hampshire,Club,FALSE
+Jack,McLean,22,71,225,Gilford,NH,3B,New Hampshire,Club,FALSE
+Ty,Mitchell,20,72,175,Hampton,NH,SS,New Hampshire,Club,FALSE
+Ryan,Mooney,21,69,185,Hampton,NH,P,New Hampshire,Club,FALSE
+Tucker,Mundy,22,66,155,Somersworth,NH,2B,New Hampshire,Club,FALSE
+Dominic,Puksta,20,73,205,Claremont,NH,OF,New Hampshire,Club,FALSE
+Matthew,Quan,20,69,135,Canton,MA,OF,New Hampshire,Club,FALSE
+Matthew,Ray,21,72,190,Sudbury,MA,OF,New Hampshire,Club,FALSE
+Nicholas,Rioux,21,72,190,Derry,NH,1B,New Hampshire,Club,FALSE
+Alexander,Rivera,19,72,190,Manchester,NH,NA,New Hampshire,Club,FALSE
+Joe,Rush,19,73,185,Stoughton,MA,P,New Hampshire,Club,FALSE
+Devin,Sawyer,19,72,170,Nashua,NH,OF,New Hampshire,Club,FALSE
+Jake,Tobin,21,70,172,Newmarket,NH,OF,New Hampshire,Club,FALSE
+Tyson,Cota,20,70,165,Lansing,IA,OF,Northern Iowa,Club,FALSE
+Mason,DeVorse,23,74,245,Sussex,WI,1B,Northern Iowa,Club,FALSE
+Brody,Deerberg,19,73,150,tipton,IA,NA,Northern Iowa,Club,FALSE
+Hunter,Essmann,20,72,171,West Des Moines,IA,C,Northern Iowa,Club,FALSE
+Owen,Huehnergarth,20,68,200,Dyersville,IA,OF,Northern Iowa,Club,FALSE
+Cohen,Kamaus,20,70,150,Lisbon,IA,IF,Northern Iowa,Club,FALSE
+Ty,Kelderman,22,70,182,New Sharon,IA,P,Northern Iowa,Club,FALSE
+Drew,Lange,23,71,190,Van Horne,IA,UT,Northern Iowa,Club,FALSE
+Dylan,Lund,21,73,165,Farmington,MN,OF,Northern Iowa,Club,FALSE
+Kyle,Mottet,22,69,170,Dubuque,IA,2B,Northern Iowa,Club,FALSE
+Joseph,Schmidt,22,73,210,Maple Grove,MN,OF,Northern Iowa,Club,FALSE
+Carson,Souhrada,21,67,150,Hudson,IA,2B,Northern Iowa,Club,FALSE
+Sam,Terpstra,20,72,215,New Sharon,IA,NA,Northern Iowa,Club,FALSE
+Christopher,Ayres,22,70,190,Malvern,PA,NA,Notre Dame,Club,FALSE
+Joseph,Bollard,20,74,183,Arlington Heights,IL,OF,Notre Dame,Club,FALSE
+John,Boscarino,20,71,175,Buffalo,NY,SS,Notre Dame,Club,FALSE
+Luke,Brandau,20,70,190,New Orleans,LA,C,Notre Dame,Club,FALSE
+Joseph,Colleran,19,72,170,Seattle,WA,3B,Notre Dame,Club,FALSE
+Jacob,Dording,20,74,190,Simsbury,CT,C,Notre Dame,Club,FALSE
+Daniel,Durkin Jr,22,73,190,Orland Park,IL,1B,Notre Dame,Club,FALSE
+Sean,Froning,22,72,205,Chicago,IL,C,Notre Dame,Club,FALSE
+Jack,Gallagher,19,70,160,Philadelphia,PA,P,Notre Dame,Club,FALSE
+Luke,Godlewski,19,75,211,Lakewood,OH,P,Notre Dame,Club,FALSE
+Christopher,Hoefling,22,72,175,Charlotte,NC,3B,Notre Dame,Club,FALSE
+Thomas,Hoefling,21,72,170,Charlotte,NC,SS,Notre Dame,Club,FALSE
+Anthony,Ingram,21,70,190,Stillwater,MN,IF,Notre Dame,Club,FALSE
+Daniel,Kim,22,68,175,Brookfield,WI,2B,Notre Dame,Club,FALSE
+Keaton,Rodgers,22,75,190,Santa Monica,CA,P,Notre Dame,Club,FALSE
+Peter,Royeca,22,70,160,Mishawaka,IN,IF,Notre Dame,Club,FALSE
+Brady,Soenen,20,72,185,Woodbury,MN,P,Notre Dame,Club,FALSE
+Hawkins,Sutter,21,72,175,Lawrenceville,NJ,SS,Notre Dame,Club,FALSE
+Jacob,Tate,22,74,200,Lafayette,LA,P,Notre Dame,Club,FALSE
+Thomas,Toole,21,73,180,Tucson,AZ,OF,Notre Dame,Club,FALSE
+Owen,Trzebuckowski,19,74,175,Berea,OH,SS,Notre Dame,Club,FALSE
+Joseph,Vaughan,21,71,165,Tacoma,WA,C,Notre Dame,Club,FALSE
+George,Williams,23,75,220,Cincinnati,OH,P,Notre Dame,Club,FALSE
+Grant,Woodward,22,76,198,Aurora,CO,P,Notre Dame,Club,FALSE
+Dashiell,Wuller,22,73,190,St. Louis,MO,OF,Notre Dame,Club,FALSE
+Justin,Zych,20,74,195,Greenwich,CT,3B,Notre Dame,Club,FALSE
+Joseph,Altvater,21,74,155,Upper St. Clair,PA,P,Pittsburgh,Club,FALSE
+Michael,Brodecki,19,73,185,Moorestown,NJ,P,Pittsburgh,Club,FALSE
+Dominic,Carpinello,23,72,185,Mechanicsburg,PA,SS,Pittsburgh,Club,FALSE
+Christopher,Chung,20,68,165,Upper Darby,PA,P,Pittsburgh,Club,FALSE
+Brock,Cunningham,20,73,205,Cambridge Springs,PA,C,Pittsburgh,Club,FALSE
+Richard,Ferris,23,69,183,McMurray,PA,OF,Pittsburgh,Club,FALSE
+Brendan,Gola,21,70,150,Mineola,NY,P,Pittsburgh,Club,FALSE
+Austin,Goldstein,21,74,220,Rosemont,PA,1B,Pittsburgh,Club,FALSE
+Ilan,Gordon,21,70,200,Bryn Mawr,PA,C,Pittsburgh,Club,FALSE
+Adam,Hartman,21,74,250,Strongsville,OH,1B,Pittsburgh,Club,FALSE
+Aidan,Keaveney,21,68,165,Westport,CT,2B,Pittsburgh,Club,FALSE
+Michael,Kosko,21,71,175,Allison Park,PA,OF,Pittsburgh,Club,FALSE
+Joshua,Morse,21,73,200,Downingtown,PA,C,Pittsburgh,Club,FALSE
+Daniel,Orrego,22,71,205,Stroudsubrg,PA,3B,Pittsburgh,Club,FALSE
+Jack,Palmerine,23,69,160,Pittsburgh,PA,P,Pittsburgh,Club,FALSE
+Jacob,Peters,21,68,160,Pittsburgh,PA,P,Pittsburgh,Club,FALSE
+George,Prokop,20,74,180,Annapolis,MD,NA,Pittsburgh,Club,FALSE
+Chris,Samek,23,72,260,Pittsburgh,PA,1B,Pittsburgh,Club,FALSE
+Zachary,Smith,22,72,160,Manlius,NY,2B,Pittsburgh,Club,FALSE
+Matt,Stanick,23,75,177,Harmony,PA,P,Pittsburgh,Club,FALSE
+Leo,Stein,19,68,165,Rosemont,PA,2B,Pittsburgh,Club,FALSE
+Ryan,Sullivan,20,72,180,Lansdale,PA,OF,Pittsburgh,Club,FALSE
+Carson,Weaver,20,69,180,Brookville,PA,P,Pittsburgh,Club,FALSE
+Paxton,Williams,19,67,150,Northbrook,IL,IF,Pittsburgh,Club,FALSE
+matthew,gay,20,73,170,Carmel,NY,P,Pittsburgh,Club,FALSE
+Seth,Avant,22,72,165,Norfolk,VA,SS,South Carolina,Club,FALSE
+William,Batson,21,76,175,Greenville,SC,OF,South Carolina,Club,FALSE
+Brian,Boland,23,69,170,Rockville Centre,NY,C,South Carolina,Club,FALSE
+Alexander,Borda,23,70,163,Bensalem,PA,OF,South Carolina,Club,FALSE
+Hakeem,Cain Cain,23,69,180,Florence,SC,OF,South Carolina,Club,FALSE
+Bradyn,Clark,22,68,185,Sarver,PA,3B,South Carolina,Club,FALSE
+Cameron,Cook,22,75,190,Gambrills,MD,P,South Carolina,Club,FALSE
+Eli,Cowperthwaite,19,74,190,Falmouth,ME,P,South Carolina,Club,FALSE
+Colin,Dille,21,72,150,Ft. Mitchell,KY,P,South Carolina,Club,FALSE
+Ryan,Forbes,22,75,140,San Juan Capistrano,CA,P,South Carolina,Club,FALSE
+Zach,Frick,22,68,170,Prosperity,SC,IF,South Carolina,Club,FALSE
+Liam,Gallagher,20,71,190,Sparta,NJ,C,South Carolina,Club,FALSE
+Ethan,Gay,22,73,180,Clifton Park,NY,P,South Carolina,Club,FALSE
+Shane,Hackett,23,72,220,Stamford,CT,3B,South Carolina,Club,FALSE
+John,Indellicate,22,74,200,New Rochelle,NY,OF,South Carolina,Club,FALSE
+Aaron,Kenner,21,76,180,Mount Pleasant,SC,P,South Carolina,Club,FALSE
+Ryan,Lattomus,22,68,165,Chantilly,VA,SS,South Carolina,Club,FALSE
+Cam,McGonigle,20,71,175,Concord,NH,SS,South Carolina,Club,FALSE
+John,McNabola,20,70,170,Trumbull,CT,C,South Carolina,Club,FALSE
+Colby,Mekiliesky,20,74,160,Baltimore,MD,IF,South Carolina,Club,FALSE
+Zachary,Murdaugh,22,73,155,Bluffton,SC,P,South Carolina,Club,FALSE
+Connor,Naus,22,74,155,Mineola,NY,P,South Carolina,Club,FALSE
+Aidan,Osborne,23,72,170,Fairfax,VA,OF,South Carolina,Club,FALSE
+Adam,Parker,22,73,170,San Antonio,TX,OF,South Carolina,Club,FALSE
+Trevor,Pierce,20,75,195,Hanover,NH,P,South Carolina,Club,FALSE
+Demetrius,Robinson,25,71,220,Haines City,FL,1B,South Carolina,Club,FALSE
+Jason,Ward,19,70,160,Mount Pleasant,SC,NA,South Carolina,Club,FALSE
+Maxwell,Bendler,20,71,215,Ashland,NE,C,South Dakota,Club,FALSE
+Parker,Bollinger,22,69,170,Mitchell,SD,OF,South Dakota,Club,FALSE
+Trey,Brandhagen,22,74,205,Rapid City,SD,P,South Dakota,Club,FALSE
+Peyton,Cleveland,23,68,200,Montrose,SD,C,South Dakota,Club,FALSE
+Peyton,Eich,22,73,180,Lennox,SD,SS,South Dakota,Club,FALSE
+Avery,Feterl,21,68,205,Salem,SD,OF,South Dakota,Club,FALSE
+Ben,Fischbach,22,71,175,Warner,SD,P,South Dakota,Club,FALSE
+Jack,Heesch,20,70,150,Watertown,SD,SS,South Dakota,Club,FALSE
+Logan,Heidinger,22,71,190,Parkston,SD,C,South Dakota,Club,FALSE
+Ryker,Henne,21,74,195,Rapid City,SD,NA,South Dakota,Club,FALSE
+Quintin,Holman,22,74,205,Nebraska City,NE,P,South Dakota,Club,FALSE
+Ethan,Johnson,21,74,195,Sioux Rapids,IA,P,South Dakota,Club,FALSE
+Braeden,Kerkhove,20,69,180,Salem,SD,3B,South Dakota,Club,FALSE
+Bobby,Koepsell,21,68,165,Salem,SD,2B,South Dakota,Club,FALSE
+Cael,Swanson,20,74,185,Sioux Falls,SD,OF,South Dakota,Club,FALSE
+Trevor,Welch,22,70,165,Tea,SD,OF,South Dakota,Club,FALSE
+Gabriel,Wolff,20,72,185,Jackson,MN,OF,South Dakota,Club,FALSE
+Jack,Aguilera,20,72,180,Los Angeles,CA,3B /,USC,Club,FALSE
+Alejandro,Briceño,24,65,165,San Fernando,CA,IF,USC,Club,FALSE
+Carter,Cotton,23,69,150,Vancouver,BC,OF,USC,Club,FALSE
+Silas,Epstein,19,73,180,Livingston,NJ,P,USC,Club,FALSE
+Garret,Harcourt Harcourt,23,69,200,Whittier,CA,OF,USC,Club,FALSE
+Micah,Hiu,21,67,160,Honolulu,HI,P,USC,Club,FALSE
+Christopher,Huh,20,69,175,La Canada Flintridge,CA,NA,USC,Club,FALSE
+Tanjoon,Hwang,21,71,170,Oakland,CA,IF,USC,Club,FALSE
+Miles,Kirshner,22,74,160,Los Angeles,CA,P,USC,Club,FALSE
+Davin,Leathers,23,77,205,Redwood City,CA,P,USC,Club,FALSE
+Deric,Liu,22,70,225,Rancho Palos Verdes,CA,OF,USC,Club,FALSE
+Tanner,McConlogue,22,71,185,La Costa,CA,C,USC,Club,FALSE
+Robert,McCormick,19,74,175,Walnut,CA,NA,USC,Club,FALSE
+Reece,McIntyre,23,70,150,Bend,OR,NA,USC,Club,FALSE
+Darren,Parry,22,70,180,Fremont,CA,SS,USC,Club,FALSE
+Shyam,Patel,23,66,165,Hawthorne,CA,NA,USC,Club,FALSE
+Christopher,Rojas,22,71,215,Los Angeles,CA,1B,USC,Club,FALSE
+Todd,Takeuchi,24,70,210,Torrance,CA,1B,USC,Club,FALSE
+Brian,Tew,24,73,192,Kuala Lumpur,Malaysia,C,USC,Club,FALSE
+Isaac,Banks,19,71,155,Salt Lake City,UT,2B,Utah,Club,FALSE
+Nathan,Bengtson,20,76,185,Bend,OR,OF,Utah,Club,FALSE
+Kyle,Breslin,19,69,150,Encinitas,CA,P,Utah,Club,FALSE
+Luke,Brooks,20,75,198,Lake Oswego,OR,NA,Utah,Club,FALSE
+Eric,Burton,22,71,180,Los Altos,CA,3B,Utah,Club,FALSE
+Thomas,Decker,21,77,260,La Canada,CA,OF,Utah,Club,FALSE
+Trevor,Easterbrook,23,74,180,Draper,UT,P,Utah,Club,FALSE
+Miles,Elkins,23,70,170,Novato,CA,NA,Utah,Club,FALSE
+Michael,Faubert,20,71,185,Huntington Beach,CA,SS,Utah,Club,FALSE
+Dylan,Gill,19,71,145,Mequon,WI,OF,Utah,Club,FALSE
+Gavin,Grossman,22,72,180,Pukalani,HI,P,Utah,Club,FALSE
+Ryan,Howard,21,71,180,Colorado Springs,CO,C,Utah,Club,FALSE
+Joseph,Jones,21,72,200,San Ramon,CA,1B,Utah,Club,FALSE
+Matthew,Lebrecht,22,73,160,Draper,UT,P,Utah,Club,FALSE
+Jaden,Lee,20,74,180,Fullerton,CA,OF,Utah,Club,FALSE
+Griffin,Logue,20,69,150,Manchester,NH,P,Utah,Club,FALSE
+Reuben,Mason,19,70,180,Salt Lake City,UT,C,Utah,Club,FALSE
+Hunter,Milbourn,21,74,185,Newbury Park,CA,OF,Utah,Club,FALSE
+James,Roberts,20,73,165,Atherton,CA,SS,Utah,Club,FALSE
+Samuel,Snyder,21,75,270,McLean,VA,1B,Utah,Club,FALSE
+Travis,Swiger,24,72,175,Salt lake city,WA,P,Utah,Club,FALSE
+Adam,Acker,21,72,160,Waunakee,WI,P,Wisconsin,Club,FALSE
+Jakson,Amend,22,70,170,Kingston,PA,C,Wisconsin,Club,FALSE
+Matias,Anderson Garcia,20,73,196,St. Peter,MN,UT,Wisconsin,Club,FALSE
+Charlie,Brockman,23,72,215,Milwaukee,WI,P,Wisconsin,Club,FALSE
+Brandon,Brokowski,20,74,197,Evanston,IL,C,Wisconsin,Club,FALSE
+Joe,Cornelius,23,72,185,Eden Prairie,MN,3B,Wisconsin,Club,FALSE
+Mason,Denlow,20,73,180,Evanston,IL,P,Wisconsin,Club,FALSE
+Braden,DuCharme,20,69,170,Hudson,WI,2B,Wisconsin,Club,FALSE
+Brennan,DuCharme,20,70,175,Hudson,WI,OF,Wisconsin,Club,FALSE
+Simon,Handwerger,20,74,185,Minnetonka,MN,P,Wisconsin,Club,FALSE
+Sean,Hogan,19,73,190,Arlington Heights,IL,P,Wisconsin,Club,FALSE
+Matthew,Kelly,22,71,165,Minnetonka,MN,P,Wisconsin,Club,FALSE
+Payton,Lawrence,20,71,155,Hudson,WI,UT,Wisconsin,Club,FALSE
+Alex,Madden,21,75,190,Arcadia,WI,P,Wisconsin,Club,FALSE
+Jake,Moelter,20,75,265,St. Peter,MN,NA,Wisconsin,Club,FALSE
+Conlan,O'Brien,24,74,190,Sun Prairie,WI,C,Wisconsin,Club,FALSE
+Alex,Orman,21,71,180,Los Angeles,CA,OF,Wisconsin,Club,FALSE
+Noah,Perkovich,21,71,186,Milwaukee,WI,P,Wisconsin,Club,FALSE
+Eli,Ramthun,20,68,175,Hudson,WI,OF,Wisconsin,Club,FALSE
+Calvin,Schwake,21,75,180,Wauwatosa,WI,1B,Wisconsin,Club,FALSE
+Jacob,Sheahan,20,69,155,Madison,WI,2B,Wisconsin,Club,FALSE
+Drew,Simon,20,69,160,Appleton,WI,OF,Wisconsin,Club,FALSE
+Max,Steiner,20,76,190,Verona,WI,SS,Wisconsin,Club,FALSE
+Ryan,Tumpowsky,20,72,180,Lincolnshire,IL,NA,Wisconsin,Club,FALSE
+Conner,Wendricks,22,75,193,Green Bay,WI,P,Wisconsin,Club,FALSE
+holden,genrich,22,69,150,minneapolis,MN,P,Wisconsin,Club,FALSE
+Logan,Abramowski,19,72,165,Milwaukee,WI,NA,UW - Whitewater,Club,FALSE
+Erik,Ahlquist,21,69,160,St. Charles,IL,P,UW - Whitewater,Club,FALSE
+Seann,Bryant,21,76,169,Mosinee,WI,P,UW - Whitewater,Club,FALSE
+Dylan,Caruso,22,70,155,Streamwood,IL,2B,UW - Whitewater,Club,FALSE
+Jake,Galanis,22,73,200,Franklin Park,IL,P,UW - Whitewater,Club,FALSE
+Cooper,Gosse,23,72,210,Plymouth,WI,IF,UW - Whitewater,Club,FALSE
+Damien,Gretz,19,68,180,Two rivers,WI,P,UW - Whitewater,Club,FALSE
+Oliver,Hetzel,21,73,185,Delavan,WI,P,UW - Whitewater,Club,FALSE
+Tyler,Hofmann,21,70,180,Germantown,WI,C,UW - Whitewater,Club,FALSE
+Eric,Johnson I,21,66,190,Germantown,WI,C,UW - Whitewater,Club,FALSE
+Ryan,Kendziorski,21,73,190,Greenfield,WI,SS,UW - Whitewater,Club,FALSE
+Sam,Kolasinski,20,75,210,Greenfield,WI,P,UW - Whitewater,Club,FALSE
+evander,Kummer,19,73,190,Two Rivers,WI,NA,UW - Whitewater,Club,FALSE
+Brennan,O'Brien,21,70,160,Blaine,MN,P,UW - Whitewater,Club,FALSE
+Jarret,Olson,22,73,160,Pulaski,WI,SS,UW - Whitewater,Club,FALSE
+David,Roscoe,22,76,190,Des plaines,IL,1B,UW - Whitewater,Club,FALSE
+Dakota,Veium,20,69,150,Salem,WI,2B,UW - Whitewater,Club,FALSE
+John,Volkers,22,68,190,Maple Grove,MN,C,UW - Whitewater,Club,FALSE
+Kyler,Wall,19,72,200,Holmen,WI,P,UW - Whitewater,Club,FALSE
+Noah,Wendler,22,70,170,Sun Prairie,WI,P,UW - Whitewater,Club,FALSE
+Jack,Burr,23,71,175,Millville,UT,OF /,Utah State,Club,FALSE
+Lukas,Clark,22,70,155,Kaysville,UT,2B,Utah State,Club,FALSE
+Bryson,Clements,21,70,145,Woods Cross,UT,NA,Utah State,Club,FALSE
+Dallin,Clements,24,71,175,Woods Cross,UT,1B,Utah State,Club,FALSE
+Cameron,Ferreri,22,75,200,Snoqualmie,WA,C,Utah State,Club,FALSE
+Hayden,Gardner,22,72,175,Kennewick,WA,P,Utah State,Club,FALSE
+Dexter,Gilson,23,70,180,Morgan,UT,C,Utah State,Club,FALSE
+Karsten,Hatch,23,74,190,highland,UT,OF,Utah State,Club,FALSE
+Benjamin,Hill,22,70,180,Reno,NV,P,Utah State,Club,FALSE
+Kaden,Matthews,21,74,195,Smithfield,UT,P,Utah State,Club,FALSE
+Preston,Papa,24,67,150,Meridian,ID,OF,Utah State,Club,FALSE
+Dakota,Porter,25,73,180,Salt Lake City,UT,1B,Utah State,Club,FALSE
+Trevor,Price,24,73,190,Highlands Ranch,CO,OF,Utah State,Club,FALSE
+Will,Ramage,20,72,185,Katy,TX,3B,Utah State,Club,FALSE
+Jace,Robinson,22,72,175,Oakley,ID,1B,Utah State,Club,FALSE
+Vincent,Rohrer,20,71,160,Logan,UT,C,Utah State,Club,FALSE
+William,Schoulten,21,73,165,Kaysville,UT,C,Utah State,Club,FALSE
+Payton,Smoot Smoot,23,71,160,Brigham City,UT,2B,Utah State,Club,FALSE
+Davis,Whetten,19,75,205,Sun Prairie,WI,P,Utah State,Club,FALSE
+Michael,Williamson Evan,23,72,175,Portland,OR,P,Utah State,Club,FALSE
+Phillip,Zahn,22,72,170,Kaysville,UT,OF,Utah State,Club,FALSE
+Remington,Austin,22,78,210,Pleasant Grove,UT,P,Weber State,Club,FALSE
+PORTER,BENTON,19,71,190,CLEARFIELD,UT,OF,Weber State,Club,FALSE
+Bridger,Brown,22,69,160,Layton,UT,OF,Weber State,Club,FALSE
+Tyson,Denning,23,75,190,Layton,UT,2B,Weber State,Club,FALSE
+Nicholas,Garcia,23,68,195,Ogden,UT,2B,Weber State,Club,FALSE
+Bryson,Hales,23,72,200,Kaysville,UT,OF,Weber State,Club,FALSE
+Jaxon,Hill Hill,24,74,200,Plain City,UT,3B,Weber State,Club,FALSE
+Riley,Hill,22,75,215,Layton,UT,C,Weber State,Club,FALSE
+Jackson,Hoffman,21,68,172,Layton,UT,SS,Weber State,Club,FALSE
+Brock,Holmes,22,72,180,Kaysville,UT,OF,Weber State,Club,FALSE
+Erik,Summerhays,25,74,205,Syracuse,UT,1B,Weber State,Club,FALSE
+Hunter,Swalberg,22,70,150,Layton,UT,OF,Weber State,Club,FALSE
+Steve,Bermudez,21,70,187,Goshen,IN,OF /,Western Michigan,Club,FALSE
+Aaryn,Borden,19,74,245,Harrison Twp,MI,1B,Western Michigan,Club,FALSE
+Ryan,Bradford,21,74,170,Rochester Hills,MI,P,Western Michigan,Club,FALSE
+Ben,Davis,21,67,150,Croswell,MI,C,Western Michigan,Club,FALSE
+Daniel,Frey,22,70,180,Grand Rapids,MI,P,Western Michigan,Club,FALSE
+Jordan,Gilbert,24,73,180,Muskegon,MI,3B,Western Michigan,Club,FALSE
+Liam,Hughes,23,71,140,Mattawan,MI,UT,Western Michigan,Club,FALSE
+Samuel,LaForce,22,77,220,Woodhaven,MI,1B,Western Michigan,Club,FALSE
+Alec,McDonald,22,68,170,Cedar Springs,MI,IF,Western Michigan,Club,FALSE
+Cole,Modrich,20,70,165,Huntley,IL,P,Western Michigan,Club,FALSE
+Nathanial,Olechowski,22,70,155,Allen Park,MI,P,Western Michigan,Club,FALSE
+Sethe,Pollard,20,73,230,Berkley,MI,3B,Western Michigan,Club,FALSE
+Sette,Pollard,20,73,230,Berkley,MI,3B,Western Michigan,Club,FALSE
+Ethan,Prescott,24,71,185,Mesick,MI,IF,Western Michigan,Club,FALSE
+Brady,Price,21,73,160,Grand Rapids,MI,P,Western Michigan,Club,FALSE
+Noah,Proctor,20,64,139,Lowell,MI,2B,Western Michigan,Club,FALSE
+Andre,Soisson,20,70,170,kalamazoo,MI,C,Western Michigan,Club,FALSE
+Jacob,Walsh,21,68,165,Rockford,MI,NA,Western Michigan,Club,FALSE
+Kevin,Wright,20,70,141,Royal Oak,MI,SS,Western Michigan,Club,FALSE
+jackson,hagen,19,67,145,Niles,MI,OF,Western Michigan,Club,FALSE
+mitchell,rafter,21,69,145,hastings,MI,2B,Western Michigan,Club,FALSE

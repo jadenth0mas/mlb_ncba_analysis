@@ -1,0 +1,1222 @@
+fname,lname,POS,BAT,THW,Age,HT,WT,Team,city,state,League
+Keegan,Akin,RP,L,L,28,72,240,Baltimore Orioles,Alma,MI,MLB
+Bryan,Baker,RP,R,R,29,78,235,Baltimore Orioles,Fort Walton Beach,FL,MLB
+Mike,Baumann,RP,R,R,28,76,240,Baltimore Orioles,Mahtomedi,MN,MLB
+Felix,Bautista,RP,R,R,28,80,285,Baltimore Orioles,Santo Domingo,Dominican Republic,MLB
+Kyle,Bradish,SP,R,R,27,75,215,Baltimore Orioles,Peoria,AZ,MLB
+Yennier,Cano,RP,R,R,29,76,245,Baltimore Orioles,Havana,Cuba,MLB
+Danny,Coulombe,RP,L,L,34,70,190,Baltimore Orioles,St. Louis,MO,MLB
+Tucker,Davidson,RP,L,L,27,74,215,Baltimore Orioles,Amarillo,TX,MLB
+DL,Hall,RP,L,L,25,74,210,Baltimore Orioles,Valdosta,GA,MLB
+Jonathan,Heasley,RP,R,R,26,75,225,Baltimore Orioles,Plano,TX,MLB
+Cole,Irvin,SP,L,L,29,76,225,Baltimore Orioles,Anaheim,CA,MLB
+Seth,Johnson,SP,R,R,25,73,205,Baltimore Orioles,Concord,NC,MLB
+Craig,Kimbrel,RP,R,R,35,72,215,Baltimore Orioles,Huntsville,AL,MLB
+Dean,Kremer,SP,R,R,28,74,210,Baltimore Orioles,Stockton,CA,MLB
+John,Means,SP,L,L,30,76,230,Baltimore Orioles,Olathe,KS,MLB
+Cionel,Perez,RP,R,L,27,72,175,Baltimore Orioles,Matanzas,Cuba,MLB
+Grayson,Rodriguez,SP,L,R,24,77,230,Baltimore Orioles,Houston,TX,MLB
+Dillon,Tate,RP,R,R,29,74,190,Baltimore Orioles,Harbor City,CA,MLB
+Nick,Vespi,RP,L,L,28,75,235,Baltimore Orioles,Miami,FL,MLB
+Jacob,Webb,RP,R,R,30,74,210,Baltimore Orioles,Riverside,CA,MLB
+Tyler,Wells,SP,R,R,29,80,260,Baltimore Orioles,Tulsa,OK,MLB
+Bruce,Zimmermann,RP,L,L,28,73,220,Baltimore Orioles,Baltimore,MD,MLB
+James,McCann,C,R,R,33,75,235,Baltimore Orioles,Santa Barbara,CA,MLB
+Adley,Rutschman,C,B,R,25,74,230,Baltimore Orioles,Portland,OR,MLB
+Gunnar,Henderson,3B,L,R,22,75,220,Baltimore Orioles,Montgomery,AL,MLB
+Jorge,Mateo,SS,R,R,28,73,200,Baltimore Orioles,Santo Domingo,Dominican Republic,MLB
+Ryan,Mountcastle,1B,R,R,26,76,220,Baltimore Orioles,Winter Springs,FL,MLB
+Tyler,Nevin,3B,R,R,26,76,225,Baltimore Orioles,Poway,CA,MLB
+Ryan,O'Hearn,1B,L,L,30,75,220,Baltimore Orioles,Dunedin,FL,MLB
+Joey,Ortiz,2B,R,R,25,69,190,Baltimore Orioles,Garden Grove,CA,MLB
+Ramon,Urias,3B,R,R,29,70,185,Baltimore Orioles,Sonora,Mexico,MLB
+Jordan,Westburg,2B,R,R,24,74,210,Baltimore Orioles,New Braunfels,TX,MLB
+Colton,Cowser,CF,L,R,23,74,220,Baltimore Orioles,Houston,TX,MLB
+Austin,Hays,LF,R,R,28,71,200,Baltimore Orioles,Daytona Beach,FL,MLB
+Sam,Hilliard,CF,L,L,29,77,236,Baltimore Orioles,Mansfield,TX,MLB
+Heston,Kjerstad,RF,L,R,24,75,205,Baltimore Orioles,Amarillo,TX,MLB
+Ryan,McKenna,CF,R,R,26,71,195,Baltimore Orioles,Grants Pass,OR,MLB
+Cedric,Mullins,CF,L,L,29,69,175,Baltimore Orioles,Greensboro,NC,MLB
+Anthony,Santander,RF,B,R,29,74,230,Baltimore Orioles,Margarita Island,Venezuela,MLB
+Kyle,Stowers,LF,L,L,26,75,215,Baltimore Orioles,El Cajon,CA,MLB
+Terrin,Vavra,RF,L,R,26,72,185,Baltimore Orioles,Menomonie,WI,MLB
+Brayan,Bello,SP,R,R,24,73,195,Boston Red Sox,Santa Barbara de Samana,Dominican Republic,MLB
+Brennan,Bernardino,RP,L,L,32,76,180,Boston Red Sox,Valencia,CA,MLB
+Isaiah,Campbell,RP,R,R,26,76,230,Boston Red Sox,Porto,Portugal,MLB
+Max,Castillo,RP,R,R,24,74,280,Boston Red Sox,Caracas,Venezuela,MLB
+Kutter,Crawford,SP,R,R,27,73,195,Boston Red Sox,Okeechobee,FL,MLB
+Cooper,Criswell,RP,R,R,27,78,200,Boston Red Sox,Carrollton,GA,MLB
+Lucas,Giolito,SP,R,R,29,78,245,Boston Red Sox,Santa Monica,CA,MLB
+Wilkelman,Gonzalez,SP,R,R,21,72,167,Boston Red Sox,Maracay,Venezuela,MLB
+Tanner,Houck,SP,R,R,27,77,226,Boston Red Sox,St. Louis,MO,MLB
+Joe,Jacques,RP,L,L,28,76,210,Boston Red Sox,Shrewsbury,NJ,MLB
+Kenley,Jansen,RP,B,R,36,77,265,Boston Red Sox,Willemstad,Curacao,MLB
+Zack,Kelly,RP,R,R,28,75,231,Boston Red Sox,Roanoke,VA,MLB
+Chris,Martin,RP,R,R,37,80,224,Boston Red Sox,Arlington,TX,MLB
+Bryan,Mata,SP,R,R,24,75,223,Boston Red Sox,Maracay,Venezuela,MLB
+Chris,Murphy,RP,L,L,25,73,186,Boston Red Sox,Mission Hills,CA,MLB
+Luis,Perales,SP,R,R,20,73,160,Boston Red Sox,Guacara,Venezuela,MLB
+Nick,Pivetta,RP,R,R,30,77,210,Boston Red Sox,Victoria,Canada,MLB
+John,Schreiber,RP,R,R,29,74,224,Boston Red Sox,Wyandotte,MI,MLB
+Justin,Slaten,SP,R,R,26,76,222,Boston Red Sox,Longview,TX,MLB
+Brandon,Walter,RP,L,L,27,74,201,Boston Red Sox,New Castle,DE,MLB
+Zack,Weiss,RP,R,R,31,75,210,Boston Red Sox,Irvine,CA,MLB
+Greg,Weissert,RP,R,R,28,74,235,Boston Red Sox,Bay Shore,NY,MLB
+Garrett,Whitlock,SP,R,R,27,77,222,Boston Red Sox,Snellville,GA,MLB
+Josh,Winckowski,RP,R,R,25,76,215,Boston Red Sox,Toledo,OH,MLB
+Reese,McGuire,C,L,R,28,72,233,Boston Red Sox,Seattle,WA,MLB
+Connor,Wong,C,R,R,27,73,190,Boston Red Sox,Houston,TX,MLB
+Triston,Casas,1B,L,R,24,77,244,Boston Red Sox,Miami,FL,MLB
+Bobby,Dalbec,1B,R,R,28,76,225,Boston Red Sox,Seattle,WA,MLB
+Rafael,Devers,3B,L,R,27,72,235,Boston Red Sox,Sanchez,Dominican Republic,MLB
+Vaughn,Grissom,SS,R,R,23,74,210,Boston Red Sox,Orlando,FL,MLB
+David,Hamilton,SS,L,R,26,70,188,Boston Red Sox,San Marcos,TX,MLB
+Pablo,Reyes,SS,R,R,30,68,175,Boston Red Sox,Santo Domingo,Dominican Republic,MLB
+Trevor,Story,SS,R,R,31,74,209,Boston Red Sox,Irving,TX,MLB
+Enmanuel,Valdez,2B,L,R,25,68,191,Boston Red Sox,San Juan de la Maguana,Dominican Republic,MLB
+Wilyer,Abreu,RF,L,L,24,70,215,Boston Red Sox,Maracaibo,Venezuela,MLB
+Jarren,Duran,CF,L,R,27,74,205,Boston Red Sox,Corona,CA,MLB
+Tyler,O'Neill,LF,R,R,28,71,200,Boston Red Sox,Burnaby,Canada,MLB
+Ceddanne,Rafaela,OF,R,R,23,69,165,Boston Red Sox,Willemstad,Curacao,MLB
+Rob,Refsnyder,LF,R,R,32,72,203,Boston Red Sox,Seoul,South Korea,MLB
+Masataka,Yoshida,LF,L,R,30,68,192,Boston Red Sox,Fukui,Japan,MLB
+Yedrinson,Aguilera,RP,R,R,20,71,165,New York Yankees,Caracas,Venezuela,MLB
+Clayton,Beeter,RP,R,R,25,74,220,New York Yankees,Fort Worth,TX,MLB
+Gerrit,Cole,SP,R,R,33,76,220,New York Yankees,Newport Beach,CA,MLB
+Nestor,Cortes,SP,R,L,29,71,210,New York Yankees,San Jose de las Lajas,Cuba,MLB
+Scott,Effross,RP,R,R,30,74,202,New York Yankees,Twinsburg,OH,MLB
+Luis,Gil,SP,R,R,25,74,185,New York Yankees,Azua Province,Dominican Republic,MLB
+Yoendrys,Gomez,RP,R,R,24,75,212,New York Yankees,Nirgua,Venezuela,MLB
+Victor,Gonzalez,RP,L,L,28,72,180,New York Yankees,Veracruz,Mexico,MLB
+Ian,Hamilton,RP,R,R,28,73,200,New York Yankees,Dover,NH,MLB
+Clay,Holmes,RP,R,R,30,77,245,New York Yankees,Dothan,AL,MLB
+Tommy,Kahnle,RP,R,R,34,73,230,New York Yankees,Latham,NY,MLB
+Matt,Krook,RP,L,L,29,76,225,New York Yankees,Hillsborough,CA,MLB
+Jonathan,Loaisiga,RP,R,R,29,71,165,New York Yankees,Managua,Nicaragua,MLB
+Ron,Marinaccio,RP,R,R,28,74,205,New York Yankees,Toms River,NJ,MLB
+Cody,Morris,RP,R,R,27,76,205,New York Yankees,Columbia,MD,MLB
+Cody,Poteet,RP,R,R,29,73,190,New York Yankees,San Diego,CA,MLB
+Nick,Ramirez,RP,L,L,34,76,232,New York Yankees,Anaheim Hills,CA,MLB
+Carlos,Rodon,SP,L,L,31,74,255,New York Yankees,Miami,FL,MLB
+Clarke,Schmidt,SP,R,R,27,73,200,New York Yankees,Acworth,GA,MLB
+Marcus,Stroman,SP,R,R,32,67,180,New York Yankees,Medford,NY,MLB
+Luke,Weaver,SP,R,R,30,74,183,New York Yankees,DeLand,FL,MLB
+Carlos,Narvaez,C,R,R,25,71,190,New York Yankees,Maracay,Venezuela,MLB
+Agustin,Ramirez,C,R,R,22,72,210,New York Yankees,Santo Domingo,Dominican Republic,MLB
+Ben,Rortvedt,C,L,R,26,69,191,New York Yankees,Madison,WI,MLB
+Jose,Trevino,C,R,R,31,70,215,New York Yankees,Corpus Christi,TX,MLB
+Austin,Wells,C,L,R,24,74,220,New York Yankees,Scottsdale,AZ,MLB
+Diego,Castillo,SS,R,R,26,70,185,New York Yankees,Barquisimeto,Venezuela,MLB
+Jeter,Downs,2B,R,R,25,71,197,New York Yankees,San Andres,Colombia,MLB
+DJ,LeMahieu,3B,R,R,35,76,220,New York Yankees,Visalia,CA,MLB
+Oswald,Peraza,3B,R,R,23,72,200,New York Yankees,Barquisimeto,Venezuela,MLB
+Anthony,Rizzo,1B,L,L,34,75,240,New York Yankees,Parkland,FL,MLB
+Gleyber,Torres,2B,R,R,27,73,205,New York Yankees,Caracas,Venezuela,MLB
+Jorbit,Vivas,2B,L,R,22,70,171,New York Yankees,Puerto Cabello,Venezuela,MLB
+Anthony,Volpe,SS,R,R,22,69,180,New York Yankees,New York,NY,MLB
+Oswaldo,Cabrera,LF,B,R,24,71,200,New York Yankees,Guarenas,Venezuela,MLB
+Jasson,Dominguez,CF,B,R,20,69,190,New York Yankees,Esperanza,Dominican Republic,MLB
+Trent,Grisham,CF,L,L,27,71,224,New York Yankees,Burleson,TX,MLB
+Aaron,Judge,RF,R,R,31,79,282,New York Yankees,Linden,CA,MLB
+Everson,Pereira,CF,R,R,22,71,191,New York Yankees,Cabudare,Venezuela,MLB
+Juan,Soto,LF,L,L,25,74,224,New York Yankees,Santo Domingo,Dominican Republic,MLB
+Alex,Verdugo,RF,L,L,27,72,209,New York Yankees,Tucson,AZ,MLB
+Giancarlo,Stanton,DH,R,R,34,78,245,New York Yankees,Panorama City,CA,MLB
+Jason,Adam,RP,R,R,32,75,229,Tampa Bay Rays,Omaha,NE,MLB
+Tyler,Alexander,RP,R,L,29,74,203,Tampa Bay Rays,Chicago,IL,MLB
+Shawn,Armstrong,RP,R,R,33,74,225,Tampa Bay Rays,New Bern,NC,MLB
+Shane,Baz,SP,R,R,24,74,190,Tampa Bay Rays,Houston,TX,MLB
+Taj,Bradley,SP,R,R,22,74,190,Tampa Bay Rays,Los Angeles,CA,MLB
+Aaron,Civale,SP,R,R,28,74,215,Tampa Bay Rays,East Windsor,CT,MLB
+Garrett,Cleavinger,RP,R,L,29,73,220,Tampa Bay Rays,Lawrence,KS,MLB
+Yoniel,Curet,SP,R,R,21,74,190,Tampa Bay Rays,San Pedro de Macoris,Dominican Republic,MLB
+Chris,Devenski,RP,R,R,33,75,211,Tampa Bay Rays,Cerritos,CA,MLB
+Zach,Eflin,SP,R,R,29,78,220,Tampa Bay Rays,Orlando,FL,MLB
+Pete,Fairbanks,RP,R,R,30,78,225,Tampa Bay Rays,Milwaukee,WI,MLB
+Kevin,Kelly,RP,R,R,26,74,200,Tampa Bay Rays,Springfield,VA,MLB
+Zack,Littell,RP,R,R,28,76,220,Tampa Bay Rays,Burlington,NC,MLB
+Jacob,Lopez,SP,L,L,25,76,220,Tampa Bay Rays,Granada Hills,CA,MLB
+Shane,McClanahan,SP,L,L,26,73,200,Tampa Bay Rays,Baltimore,MD,MLB
+Ryan,Pepiot,SP,R,R,26,75,215,Tampa Bay Rays,Indianapolis,IN,MLB
+Colin,Poche,RP,L,L,30,75,225,Tampa Bay Rays,Flower Mound,TX,MLB
+Drew,Rasmussen,SP,R,R,28,73,211,Tampa Bay Rays,Puyallup,WA,MLB
+Manuel,Rodriguez,RP,R,R,27,71,210,Tampa Bay Rays,Yucatan,Mexico,MLB
+Jeffrey,Springs,SP,L,L,31,75,218,Tampa Bay Rays,Belmont,NC,MLB
+Colby,White,RP,R,R,25,72,190,Tampa Bay Rays,Hattiesburg,MS,MLB
+Rene,Pinto,C,R,R,27,70,195,Tampa Bay Rays,Maracay,Venezuela,MLB
+Jonathan,Aranda,2B,L,R,25,72,210,Tampa Bay Rays,Baja California,Mexico,MLB
+Osleivis,Basabe,SS,R,R,23,71,188,Tampa Bay Rays,Bobures,Venezuela,MLB
+Jose,Caballero,2B,R,R,27,69,185,Tampa Bay Rays,Las Tablas,Panama,MLB
+Junior,Caminero,SS,R,R,20,73,157,Tampa Bay Rays,Santo Domingo,Dominican Republic,MLB
+Yandy,Diaz,1B,R,R,32,74,215,Tampa Bay Rays,Villa Clara,Cuba,MLB
+Wander,Franco,SS,B,R,22,70,189,Tampa Bay Rays,Bani,Dominican Republic,MLB
+Greg,Jones,SS,B,R,25,74,175,Tampa Bay Rays,Cary,NC,MLB
+Brandon,Lowe,2B,L,R,29,70,185,Tampa Bay Rays,Suffolk,VA,MLB
+Curtis,Mead,2B,R,R,23,72,171,Tampa Bay Rays,Adelaide,Australia,MLB
+Isaac,Paredes,3B,R,R,24,71,213,Tampa Bay Rays,Sonora,Mexico,MLB
+Austin,Shenton,1B,L,R,26,72,205,Tampa Bay Rays,Spokane,WA,MLB
+Taylor,Walls,3B,B,R,27,70,185,Tampa Bay Rays,Cordele,GA,MLB
+Randy,Arozarena,LF,R,R,28,71,185,Tampa Bay Rays,Havana,Cuba,MLB
+Jonny,Deluca,LF,R,R,25,72,200,Tampa Bay Rays,Thousand Oaks,CA,MLB
+Josh,Lowe,RF,L,R,25,76,205,Tampa Bay Rays,Chesapeake,VA,MLB
+Richie,Palacios,OF,L,R,26,70,180,Tampa Bay Rays,Brooklyn,NY,MLB
+Jose,Siri,CF,R,R,28,74,175,Tampa Bay Rays,Sabana Grande de Boya,Dominican Republic,MLB
+Raimel,Tapia,RF,L,L,29,75,178,Tampa Bay Rays,San Pedro de Macoris,Dominican Republic,MLB
+Harold,Ramirez,DH,R,R,29,70,232,Tampa Bay Rays,Cartagena,Colombia,MLB
+Chris,Bassitt,SP,R,R,34,77,217,Toronto Blue Jays,Toledo,OH,MLB
+Jose,Berrios,SP,R,R,29,72,205,Toronto Blue Jays,Bayamon,Puerto Rico,MLB
+Genesis,Cabrera,RP,L,L,27,74,180,Toronto Blue Jays,Santo Domingo,Dominican Republic,MLB
+Hagen,Danner,RP,R,R,25,73,215,Toronto Blue Jays,Newport Beach,CA,MLB
+Bowden,Francis,RP,R,R,27,77,220,Toronto Blue Jays,Tallahassee,FL,MLB
+Yimi,Garcia,RP,R,R,33,73,230,Toronto Blue Jays,Moca,Dominican Republic,MLB
+Kevin,Gausman,SP,L,R,33,74,205,Toronto Blue Jays,Centennial,CO,MLB
+Chad,Green,RP,L,R,32,75,215,Toronto Blue Jays,Greenville,SC,MLB
+Yusei,Kikuchi,SP,L,L,32,72,210,Toronto Blue Jays,Iwate,Japan,MLB
+Brendon,Little,SP,L,L,27,74,195,Toronto Blue Jays,Bryn Mawr,PA,MLB
+Adam,Macko,SP,L,L,23,72,170,Toronto Blue Jays,Bratislava,Slovakia,MLB
+Alek,Manoah,SP,R,R,26,78,285,Toronto Blue Jays,Homestead,FL,MLB
+Tim,Mayza,RP,L,L,32,75,215,Toronto Blue Jays,Allentown,PA,MLB
+Wes,Parsons,RP,R,R,31,77,206,Toronto Blue Jays,Clarksville,TN,MLB
+Nate,Pearson,RP,R,R,27,78,255,Toronto Blue Jays,Odessa,FL,MLB
+Zach,Pop,RP,R,R,27,76,220,Toronto Blue Jays,Brampton,Canada,MLB
+Trevor,Richards,RP,R,R,30,74,205,Toronto Blue Jays,Aviston,IL,MLB
+Jordan,Romano,RP,R,R,30,77,210,Toronto Blue Jays,Markham,Canada,MLB
+Erik,Swanson,RP,R,R,30,75,225,Toronto Blue Jays,Fargo,ND,MLB
+Mitch,White,RP,R,R,29,75,210,Toronto Blue Jays,San Jose,CA,MLB
+Yosver,Zulueta,SP,R,R,26,73,190,Toronto Blue Jays,Remedios,Cuba,MLB
+Danny,Jansen,C,R,R,28,74,215,Toronto Blue Jays,Elmhurst,IL,MLB
+Alejandro,Kirk,C,R,R,25,68,245,Toronto Blue Jays,Tijuana,Mexico,MLB
+Brian,Serven,C,R,R,28,72,207,Toronto Blue Jays,Palm Desert,CA,MLB
+Addison,Barger,3B,L,R,24,72,210,Toronto Blue Jays,Bellevue,WA,MLB
+Bo,Bichette,SS,R,R,25,72,190,Toronto Blue Jays,Orlando,FL,MLB
+Cavan,Biggio,2B,L,R,28,74,200,Toronto Blue Jays,Houston,TX,MLB
+Ernie,Clement,2B,R,R,27,72,170,Toronto Blue Jays,Rochester,NY,MLB
+Santiago,Espinal,2B,R,R,29,70,185,Toronto Blue Jays,Santiago,Dominican Republic,MLB
+Vladimir,Guerrero,1B,R,R,24,74,245,Toronto Blue Jays,Montreal,Canada,MLB
+Spencer,Horwitz,1B,L,R,26,70,190,Toronto Blue Jays,Timonium,MD,MLB
+Leo,Jimenez,SS,R,R,22,70,215,Toronto Blue Jays,Chitre,Panama,MLB
+Otto,Lopez,SS,R,R,25,70,185,Toronto Blue Jays,Santo Domingo,Dominican Republic,MLB
+Orelvis,Martinez,SS,R,R,22,71,200,Toronto Blue Jays,Santo Domingo,Dominican Republic,MLB
+Davis,Schneider,2B,R,R,24,69,190,Toronto Blue Jays,Berlin,NJ,MLB
+Cam,Eden,CF,R,R,25,73,205,Toronto Blue Jays,Yuba City,CA,MLB
+Kevin,Kiermaier,CF,L,R,33,73,210,Toronto Blue Jays,Fort Wayne,IN,MLB
+Isiah,Kiner-Falefa,OF,R,R,28,71,190,Toronto Blue Jays,Honolulu,HI,MLB
+Nathan,Lukes,RF,L,R,29,71,180,Toronto Blue Jays,Sacramento,CA,MLB
+George,Springer,RF,R,R,34,75,220,Toronto Blue Jays,New Britain,CT,MLB
+Daulton,Varsho,LF,L,R,27,70,207,Toronto Blue Jays,Marshfield,WI,MLB
+Ian,Anderson,SP,R,R,25,75,170,Atlanta Braves,Rexford,NY,MLB
+Aaron,Bummer,RP,L,L,30,75,215,Atlanta Braves,Valencia,CA,MLB
+Dylan,Dodd,SP,L,L,25,74,210,Atlanta Braves,Danville,IL,MLB
+Bryce,Elder,SP,R,R,24,74,220,Atlanta Braves,Decatur,TX,MLB
+Max,Fried,SP,L,L,30,76,190,Atlanta Braves,Santa Monica,CA,MLB
+Daysbel,Hernandez,RP,R,R,27,70,220,Atlanta Braves,Oriente,Cuba,MLB
+Raisel,Iglesias,RP,R,R,34,74,190,Atlanta Braves,Isla de la Juventud,Cuba,MLB
+Joe,Jimenez,RP,R,R,29,75,277,Atlanta Braves,San Juan,Puerto Rico,MLB
+Pierce,Johnson,RP,R,R,32,74,202,Atlanta Braves,Denver,CO,MLB
+Ray,Kerr,RP,L,L,29,75,185,Atlanta Braves,Sacramento,CA,MLB
+Dylan,Lee,RP,L,L,29,75,214,Atlanta Braves,Dinuba,CA,MLB
+Reynaldo,Lopez,RP,R,R,30,73,225,Atlanta Braves,San Pedro de Macoris,Dominican Republic,MLB
+Tyler,Matzek,RP,L,L,33,75,230,Atlanta Braves,Mission Viejo,CA,MLB
+A.J.,Minter,RP,L,L,30,72,215,Atlanta Braves,Tyler,TX,MLB
+Charlie,Morton,SP,R,R,40,77,215,Atlanta Braves,Flemington,NJ,MLB
+Penn,Murfee,RP,R,R,29,74,195,Atlanta Braves,Nashville,TN,MLB
+Angel,Perdomo,RP,L,L,29,80,265,Atlanta Braves,San Cristobal,Dominican Republic,MLB
+Chris,Sale,SP,L,L,34,78,180,Atlanta Braves,Lakeland,FL,MLB
+AJ,Smith-Shawver,SP,R,R,21,75,205,Atlanta Braves,Fort Worth,TX,MLB
+Jackson,Stephens,RP,R,R,29,74,220,Atlanta Braves,Oxford,AL,MLB
+Spencer,Strider,SP,R,R,25,72,195,Atlanta Braves,Columbus,OH,MLB
+Darius,Vines,SP,R,R,25,73,190,Atlanta Braves,Oxnard,CA,MLB
+Allan,Winans,SP,R,R,28,74,165,Atlanta Braves,Bakersfield,CA,MLB
+Huascar,Ynoa,SP,R,R,25,74,220,Atlanta Braves,Puerto Plata,Dominican Republic,MLB
+Travis,d'Arnaud,C,R,R,34,74,210,Atlanta Braves,Long Beach,CA,MLB
+Sean,Murphy,C,R,R,29,75,228,Atlanta Braves,Peekskill,NY,MLB
+Ozzie,Albies,2B,B,R,27,68,165,Atlanta Braves,Willemstad,Curacao,MLB
+Orlando,Arcia,SS,R,R,29,72,187,Atlanta Braves,Anaco,Venezuela,MLB
+David,Fletcher,SS,R,R,29,69,185,Atlanta Braves,Orange,CA,MLB
+Luis,Guillorme,2B,L,R,29,70,190,Atlanta Braves,Caracas,Venezuela,MLB
+Matt,Olson,1B,L,R,29,77,225,Atlanta Braves,Atlanta,GA,MLB
+Austin,Riley,3B,R,R,26,75,240,Atlanta Braves,Memphis,TN,MLB
+Ronald,Acuna,RF,R,R,26,72,205,Atlanta Braves,La Guaira,Venezuela,MLB
+Michael,Harris,CF,L,L,22,72,195,Atlanta Braves,DeKalb,GA,MLB
+Jarred,Kelenic,LF,L,L,24,73,206,Atlanta Braves,Waukesha,WI,MLB
+J.P.,Martinez,LF,L,L,27,68,174,Atlanta Braves,Guantanamo Bay,Cuba,MLB
+Forrest,Wall,LF,L,R,28,72,195,Atlanta Braves,Winter Park,FL,MLB
+Marcell,Ozuna,DH,R,R,33,73,225,Atlanta Braves,Santo Domingo,Dominican Republic,MLB
+Sandy,Alcantara,SP,R,R,28,77,200,Miami Marlins,Azua Province,Dominican Republic,MLB
+Anthony,Bender,RP,R,R,28,76,205,Miami Marlins,Petaluma,CA,MLB
+Huascar,Brazoban,RP,R,R,34,75,155,Miami Marlins,Villa Mella,Dominican Republic,MLB
+Edward,Cabrera,SP,R,R,25,77,217,Miami Marlins,Santiago,Dominican Republic,MLB
+JT,Chargois,RP,B,R,33,75,200,Miami Marlins,Sulphur,LA,MLB
+Calvin,Faucher,RP,R,R,28,73,190,Miami Marlins,Chula Vista,CA,MLB
+Braxton,Garrett,SP,R,L,26,74,202,Miami Marlins,Foley,AL,MLB
+Bryan,Hoeing,RP,R,R,27,78,210,Miami Marlins,Batesville,IN,MLB
+Jeff,Lindgren,SP,R,R,27,73,200,Miami Marlins,Champaign,IL,MLB
+Jesus,Luzardo,SP,L,L,26,72,218,Miami Marlins,Lima,Peru,MLB
+Anthony,Maldonado,RP,R,R,25,76,220,Miami Marlins,Wellington,FL,MLB
+Max,Meyer,SP,L,R,24,72,196,Miami Marlins,Woodbury,MN,MLB
+Roddery,Munoz,RP,R,R,23,74,210,Miami Marlins,Santo Domingo,Dominican Republic,MLB
+Andrew,Nardi,RP,L,L,25,75,215,Miami Marlins,West Hills,CA,MLB
+Steven,Okert,RP,L,L,32,74,202,Miami Marlins,Riverside,CA,MLB
+Kaleb,Ort,RP,R,R,31,76,248,Miami Marlins,Grand Rapids,MI,MLB
+Eury,Perez,SP,R,R,20,80,220,Miami Marlins,Santiago,Dominican Republic,MLB
+A.J.,Puk,RP,L,L,28,79,248,Miami Marlins,Minneapolis,MN,MLB
+Trevor,Rogers,SP,L,L,26,77,217,Miami Marlins,Carlsbad,NM,MLB
+Sixto,Sanchez,SP,R,R,25,72,234,Miami Marlins,San Cristobal,Dominican Republic,MLB
+Tanner,Scott,RP,R,L,29,72,235,Miami Marlins,Warren,OH,MLB
+Josh,Simpson,RP,L,L,26,74,190,Miami Marlins,Stafford,CT,MLB
+George,Soriano,RP,R,R,24,74,210,Miami Marlins,San Pedro de Macoris,Dominican Republic,MLB
+Ryan,Weathers,SP,R,L,24,73,230,Miami Marlins,Loretto,TN,MLB
+Christian,Bethancourt,C,R,R,32,75,205,Miami Marlins,Panama City,Panama,MLB
+Nick,Fortes,C,R,R,27,71,198,Miami Marlins,Miami,FL,MLB
+Jacob,Amaya,SS,R,R,25,72,180,Miami Marlins,El Monte,CA,MLB
+Luis,Arraez,2B,L,R,26,70,175,Miami Marlins,San Felipe,Venezuela,MLB
+Josh,Bell,1B,B,R,31,76,261,Miami Marlins,Irving,TX,MLB
+Jon,Berti,SS,R,R,34,70,190,Miami Marlins,Troy,MI,MLB
+Jake,Burger,3B,R,R,27,74,230,Miami Marlins,St. Louis,MO,MLB
+Xavier,Edwards,SS,B,R,24,70,175,Miami Marlins,Mineola,NY,MLB
+Jordan,Groshans,3B,R,R,24,75,200,Miami Marlins,Magnolia,TX,MLB
+Vidal,Brujan,RF,B,R,25,70,180,Miami Marlins,San Pedro de Macoris,Dominican Republic,MLB
+Peyton,Burdick,CF,R,R,26,72,205,Miami Marlins,Batavia,OH,MLB
+Jazz,Chisholm,CF,L,R,25,71,184,Miami Marlins,Nassau,Bahamas,MLB
+Bryan,De,LF,R,R,27,74,175,Miami Marlins,Santo Domingo,Dominican Republic,MLB
+Avisail,Garcia,RF,R,R,32,76,250,Miami Marlins,Anaco,Venezuela,MLB
+Victor,Mesa,LF,R,R,27,71,200,Miami Marlins,Santa Clara,Cuba,MLB
+Victor,Mesa,CF,L,L,22,72,195,Miami Marlins,Havana,Cuba,MLB
+Dane,Myers,CF,R,R,27,72,205,Miami Marlins,Columbus,TX,MLB
+Jesus,Sanchez,RF,L,R,26,75,222,Miami Marlins,Higuey,Dominican Republic,MLB
+Austin,Adams,RP,R,R,32,75,220,New York Mets,Tampa,FL,MLB
+Peyton,Battenfield,SP,R,R,26,76,224,New York Mets,Tulsa,OK,MLB
+Phil,Bickford,RP,R,R,28,76,200,New York Mets,Ventura,CA,MLB
+Jose,Butto,SP,R,R,25,73,202,New York Mets,Cumaná,Venezuela,MLB
+Edwin,Diaz,RP,R,R,29,75,165,New York Mets,Naguabo,Puerto Rico,MLB
+Reed,Garrett,RP,R,R,31,74,195,New York Mets,Henrico,VA,MLB
+Grant,Hartwig,RP,R,R,26,77,235,New York Mets,Detroit,MI,MLB
+Adrian,Houser,SP,R,R,30,75,242,New York Mets,Tahlequah,OK,MLB
+Max,Kranick,SP,R,R,26,75,220,New York Mets,Scranton,PA,MLB
+Jorge,Lopez,RP,R,R,30,75,200,New York Mets,Caguas,Puerto Rico,MLB
+Joey,Lucchesi,SP,L,L,30,77,225,New York Mets,Newark,CA,MLB
+Sean,Manaea,RP,R,L,31,77,245,New York Mets,Valparaiso,IN,MLB
+Tylor,Megill,SP,R,R,28,79,230,New York Mets,Long Beach,CA,MLB
+David,Peterson,SP,L,L,28,78,240,New York Mets,Denver,CO,MLB
+Jose,Quintana,SP,R,L,35,73,220,New York Mets,Arjona,Colombia,MLB
+Brooks,Raley,RP,L,L,35,75,200,New York Mets,San Antonio,TX,MLB
+Yohan,Ramirez,RP,R,R,28,76,212,New York Mets,Villa Mella,Dominican Republic,MLB
+Sean,Reid-Foley,RP,R,R,28,75,230,New York Mets,Agana Heights,Guam,MLB
+Kodai,Senga,SP,L,R,30,73,202,New York Mets,Aichi,Japan,MLB
+Luis,Severino,SP,R,R,29,74,218,New York Mets,Sabana de la Mar,Dominican Republic,MLB
+Drew,Smith,RP,R,R,30,74,190,New York Mets,Fort Worth,TX,MLB
+Michael,Tonkin,RP,R,R,34,79,220,New York Mets,Glendale,CA,MLB
+Josh,Walker,RP,L,L,29,78,225,New York Mets,Otisville,NY,MLB
+Francisco,Alvarez,C,R,R,22,70,233,New York Mets,Guatire,Venezuela,MLB
+Tyler,Heineman,C,B,R,32,70,190,New York Mets,Pacific Palisades,CA,MLB
+Omar,Narvaez,C,L,R,31,71,220,New York Mets,Maracay,Venezuela,MLB
+Luisangel,Acuna,SS,R,R,21,68,181,New York Mets,Caracas,Venezuela,MLB
+Pete,Alonso,1B,R,R,29,75,245,New York Mets,Tampa,FL,MLB
+Brett,Baty,3B,L,R,24,75,210,New York Mets,Round Rock,TX,MLB
+Francisco,Lindor,SS,B,R,30,71,190,New York Mets,Caguas,Puerto Rico,MLB
+Ronny,Mauricio,SS,B,R,22,75,166,New York Mets,San Pedro de Macoris,Dominican Republic,MLB
+Jeff,McNeil,2B,L,R,31,73,195,New York Mets,Santa Barbara,CA,MLB
+Zack,Short,2B,R,R,28,70,180,New York Mets,Kingston,NY,MLB
+Mark,Vientos,3B,R,R,24,76,185,New York Mets,Norwalk,CT,MLB
+Joey,Wendle,SS,L,R,33,73,195,New York Mets,Wilmington,DE,MLB
+Harrison,Bader,CF,R,R,29,72,210,New York Mets,Bronxville,NY,MLB
+Starling,Marte,RF,R,R,35,73,195,New York Mets,Santo Domingo,Dominican Republic,MLB
+Brandon,Nimmo,CF,L,R,30,75,206,New York Mets,Cheyenne,WY,MLB
+Alex,Ramirez,CF,R,R,21,75,170,New York Mets,Santo Domingo,Dominican Republic,MLB
+DJ,Stewart,RF,L,R,30,72,210,New York Mets,Gainesville,FL,MLB
+Tyrone,Taylor,RF,R,R,30,73,218,New York Mets,Torrance,CA,MLB
+Kolby,Allard,SP,L,L,26,73,195,Philadelphia Phillies,Anaheim,CA,MLB
+Jose,Alvarado,RP,L,L,28,74,245,Philadelphia Phillies,Maracaibo,Venezuela,MLB
+Andrew,Bellatti,RP,R,R,32,73,190,Philadelphia Phillies,San Diego,CA,MLB
+Connor,Brogdon,RP,R,R,28,78,205,Philadelphia Phillies,Clovis,CA,MLB
+Dylan,Covey,RP,R,R,32,73,215,Philadelphia Phillies,Glendale,CA,MLB
+Seranthony,Dominguez,RP,R,R,29,73,225,Philadelphia Phillies,Esperanza,Dominican Republic,MLB
+Jeff,Hoffman,RP,R,R,31,77,235,Philadelphia Phillies,Latham,NY,MLB
+Orion,Kerkering,RP,R,R,22,74,204,Philadelphia Phillies,Huntington Beach,CA,MLB
+Michael,Lorenzen,SP,R,R,32,75,217,Philadelphia Phillies,Anaheim,CA,MLB
+Yunior,Marte,RP,R,R,28,74,180,Philadelphia Phillies,Santo Domingo,Dominican Republic,MLB
+Michael,Mercado,SP,R,R,24,76,205,Philadelphia Phillies,Greenville,SC,MLB
+McKinley,Moore,RP,R,R,25,78,225,Philadelphia Phillies,Houston,TX,MLB
+Nick,Nelson,RP,R,R,28,73,205,Philadelphia Phillies,Panama City,FL,MLB
+Aaron,Nola,SP,R,R,30,74,200,Philadelphia Phillies,Baton Rouge,LA,MLB
+Luis,Ortiz,RP,R,R,28,75,230,Philadelphia Phillies,Sanger,CA,MLB
+Cristopher,Sanchez,SP,L,L,27,73,165,Philadelphia Phillies,La Romana,Dominican Republic,MLB
+Gregory,Soto,RP,L,L,28,73,234,Philadelphia Phillies,Bajos de Haina,Dominican Republic,MLB
+Matt,Strahm,RP,R,L,32,74,190,Philadelphia Phillies,West Fargo,ND,MLB
+Ranger,Suarez,SP,L,L,28,73,217,Philadelphia Phillies,Carora,Venezuela,MLB
+Taijuan,Walker,SP,R,R,31,76,235,Philadelphia Phillies,Shreveport,LA,MLB
+Zack,Wheeler,SP,L,R,33,76,195,Philadelphia Phillies,Smyrna,GA,MLB
+Rafael,Marchan,C,B,R,24,69,170,Philadelphia Phillies,San Cristóbal,Venezuela,MLB
+J.T.,Realmuto,C,R,R,32,73,212,Philadelphia Phillies,Del City,OK,MLB
+Garrett,Stubbs,C,L,R,30,70,170,Philadelphia Phillies,San Diego,CA,MLB
+Alec,Bohm,1B,R,R,27,77,218,Philadelphia Phillies,Omaha,NE,MLB
+Rodolfo,Castro,SS,B,R,24,72,205,Philadelphia Phillies,San Jose de los Llanos,Dominican Republic,MLB
+Kody,Clemens,1B,L,R,27,73,200,Philadelphia Phillies,Houston,TX,MLB
+Darick,Hall,1B,L,R,28,76,232,Philadelphia Phillies,Hereford,AZ,MLB
+Edmundo,Sosa,3B,R,R,27,72,210,Philadelphia Phillies,Panama City,Panama,MLB
+Bryson,Stott,2B,L,R,26,75,200,Philadelphia Phillies,Las Vegas,NV,MLB
+Trea,Turner,SS,R,R,30,74,185,Philadelphia Phillies,Boynton Beach,FL,MLB
+Weston,Wilson,3B,R,R,29,75,215,Philadelphia Phillies,High Point,NC,MLB
+Nick,Castellanos,RF,R,R,31,76,203,Philadelphia Phillies,Hialeah,FL,MLB
+Jake,Cave,LF,L,L,31,72,200,Philadelphia Phillies,Hampton,VA,MLB
+Brandon,Marsh,CF,L,R,26,76,215,Philadelphia Phillies,Buford,GA,MLB
+Simon,Muzziotti,CF,L,L,25,72,175,Philadelphia Phillies,Cumaná,Venezuela,MLB
+Cristian,Pache,LF,R,R,25,74,215,Philadelphia Phillies,Santo Domingo,Dominican Republic,MLB
+Johan,Rojas,CF,R,R,23,71,165,Philadelphia Phillies,San Francisco de Macoris,Dominican Republic,MLB
+Kyle,Schwarber,LF,L,R,30,72,229,Philadelphia Phillies,Middletown,OH,MLB
+Bryce,Harper,DH,L,R,31,75,210,Philadelphia Phillies,Las Vegas,NV,MLB
+Joan,Adon,SP,R,R,25,74,245,Washington Nationals,Santo Domingo,Dominican Republic,MLB
+Zach,Brzykcy,SP,R,R,24,74,232,Washington Nationals,Hickory,NC,MLB
+Cade,Cavalli,SP,R,R,25,76,232,Washington Nationals,Tulsa,OK,MLB
+Patrick,Corbin,SP,L,L,34,76,226,Washington Nationals,Clay,NY,MLB
+Jose,Ferrer,RP,L,L,23,73,229,Washington Nationals,Maimon,Dominican Republic,MLB
+Kyle,Finnegan,RP,R,R,32,74,200,Washington Nationals,Detroit,MI,MLB
+Dylan,Floro,RP,L,R,33,74,203,Washington Nationals,Merced,CA,MLB
+Robert,Garcia,RP,R,L,27,76,225,Washington Nationals,Manteca,CA,MLB
+MacKenzie,Gore,SP,L,L,24,74,192,Washington Nationals,Wilmington,NC,MLB
+Josiah,Gray,SP,R,R,26,73,210,Washington Nationals,New Rochelle,NY,MLB
+Hunter,Harvey,RP,R,R,29,75,239,Washington Nationals,Catawba,NC,MLB
+Cole,Henry,SP,R,R,24,76,215,Washington Nationals,Florence,AL,MLB
+DJ,Herz,RP,R,L,23,74,175,Washington Nationals,Fayetteville,NC,MLB
+Jake,Irvin,SP,R,R,26,78,227,Washington Nationals,Bloomington,MN,MLB
+Mitchell,Parker,SP,L,L,24,76,224,Washington Nationals,Albuquerque,NM,MLB
+Tanner,Rainey,RP,R,R,31,74,250,Washington Nationals,Folsom,LA,MLB
+Jackson,Rutledge,SP,R,R,24,80,251,Washington Nationals,Fenton,MO,MLB
+Stephen,Strasburg,SP,R,R,35,77,239,Washington Nationals,San Diego,CA,MLB
+Mason,Thompson,RP,R,R,25,78,244,Washington Nationals,Round Rock,TX,MLB
+Thaddeus,Ward,RP,R,R,27,75,204,Washington Nationals,Fort Myers,FL,MLB
+Jordan,Weems,RP,L,R,31,76,212,Washington Nationals,Columbus,GA,MLB
+Trevor,Williams,SP,R,R,31,75,231,Washington Nationals,San Diego,CA,MLB
+Amos,Willingham,RP,R,R,25,76,217,Washington Nationals,Rome,GA,MLB
+Riley,Adams,C,R,R,27,76,260,Washington Nationals,Encinitas,CA,MLB
+Drew,Millas,C,B,R,26,72,198,Washington Nationals,St. Louis,MO,MLB
+Keibert,Ruiz,C,B,R,25,72,227,Washington Nationals,Valencia,Venezuela,MLB
+CJ,Abrams,SS,L,R,23,74,191,Washington Nationals,Alpharetta,GA,MLB
+Jake,Alu,3B,L,R,26,70,186,Washington Nationals,Hamilton,NJ,MLB
+Luis,Garcia,2B,L,R,23,74,220,Washington Nationals,New York,NY,MLB
+Carter,Kieboom,3B,R,R,26,74,211,Washington Nationals,Marietta,GA,MLB
+Nasim,Nunez,SS,B,R,23,69,168,Washington Nationals,Bronx,NY,MLB
+Nick,Senzel,3B,R,R,28,73,218,Washington Nationals,Atlanta,GA,MLB
+Ildemaro,Vargas,SS,B,R,32,72,195,Washington Nationals,Caripito,Venezuela,MLB
+Alex,Call,CF,R,R,29,71,189,Washington Nationals,Burnsville,MN,MLB
+Jeremy,De,CF,L,L,22,72,215,Washington Nationals,Santo Domingo,Dominican Republic,MLB
+Joey,Gallo,LF,L,R,30,77,250,Washington Nationals,Henderson,NV,MLB
+Stone,Garrett,LF,R,R,28,74,224,Washington Nationals,Sugar Land,TX,MLB
+Victor,Robles,CF,R,R,26,72,194,Washington Nationals,Santo Domingo,Dominican Republic,MLB
+Lane,Thomas,RF,R,R,28,72,198,Washington Nationals,Knoxville,TN,MLB
+Jacob,Young,OF,R,R,24,71,180,Washington Nationals,Ponte Vedra,FL,MLB
+Joey,Meneses,DH,R,R,31,75,240,Washington Nationals,Culiacan,Mexico,MLB
+Tanner,Banks,RP,R,L,32,73,210,Chicago White Sox,Riverton,UT,MLB
+John,Brebbia,RP,L,R,33,73,200,Chicago White Sox,Boston,MA,MLB
+Dylan,Cease,SP,R,R,28,74,195,Chicago White Sox,Milton,GA,MLB
+Josimar,Cousin,SP,R,R,25,75,185,Chicago White Sox,Havana,Cuba,MLB
+Garrett,Crochet,RP,L,L,24,78,230,Chicago White Sox,Ocean Springs,MS,MLB
+Shane,Drohan,SP,L,L,25,75,195,Chicago White Sox,Fort Lauderdale,FL,MLB
+Erick,Fedde,SP,R,R,30,76,203,Chicago White Sox,Las Vegas,NV,MLB
+Chris,Flexen,RP,R,R,29,75,219,Chicago White Sox,Newark,CA,MLB
+Matt,Foster,RP,R,R,28,72,215,Chicago White Sox,Valley,AL,MLB
+Deivi,Garcia,RP,R,R,24,69,163,Chicago White Sox,Bonao,Dominican Republic,MLB
+Tim,Hill,RP,R,L,33,76,200,Chicago White Sox,Mission Hills,CA,MLB
+Michael,Kopech,SP,R,R,27,75,210,Chicago White Sox,Longview,TX,MLB
+Jimmy,Lambert,RP,R,R,29,74,190,Chicago White Sox,Arcadia,CA,MLB
+Davis,Martin,RP,L,R,27,74,200,Chicago White Sox,Abilene,TX,MLB
+Cristian,Mena,SP,R,R,21,74,170,Chicago White Sox,Pimentel,Dominican Republic,MLB
+Edgar,Navarro,RP,R,R,25,73,180,Chicago White Sox,Ciudad Bolivar,Venezuela,MLB
+Sammy,Peralta,RP,L,L,25,74,205,Chicago White Sox,Queens,NY,MLB
+Lane,Ramsey,RP,R,R,27,81,245,Chicago White Sox,Oklahoma City,OK,MLB
+Gregory,Santos,RP,R,R,24,74,190,Chicago White Sox,San Cristobal,Dominican Republic,MLB
+Jesse,Scholtens,RP,R,R,29,76,230,Chicago White Sox,Fairfield,CA,MLB
+Jared,Shuster,SP,L,L,25,75,210,Chicago White Sox,New Bedford,MA,MLB
+Michael,Soroka,SP,R,R,26,77,225,Chicago White Sox,Calgary,Canada,MLB
+Alex,Speas,RP,R,R,25,75,225,Chicago White Sox,Powder Springs,GA,MLB
+Touki,Toussaint,SP,R,R,27,75,215,Chicago White Sox,Pembroke Pines,FL,MLB
+Korey,Lee,C,R,R,25,74,210,Chicago White Sox,Escondido,CA,MLB
+Martin,Maldonado,C,R,R,37,72,230,Chicago White Sox,Naguabo,Puerto Rico,MLB
+Max,Stassi,C,R,R,32,70,200,Chicago White Sox,Woodland,CA,MLB
+Paul,DeJong,SS,R,R,30,72,205,Chicago White Sox,Orlando,FL,MLB
+Nicky,Lopez,2B,L,R,28,71,180,Chicago White Sox,Naperville,IL,MLB
+Yoan,Moncada,3B,B,R,28,74,225,Chicago White Sox,Cienfuegos,Cuba,MLB
+Bryan,Ramos,2B,R,R,21,74,190,Chicago White Sox,Havana,Cuba,MLB
+Jose,Rodriguez,SS,R,R,22,71,175,Chicago White Sox,Valverde,Dominican Republic,MLB
+Braden,Shewmake,SS,L,R,26,75,190,Chicago White Sox,Wylie,TX,MLB
+Lenyn,Sosa,2B,R,R,24,72,180,Chicago White Sox,Puerto Ordaz,Venezuela,MLB
+Andrew,Vaughn,1B,R,R,25,72,215,Chicago White Sox,Santa Rosa,CA,MLB
+Andrew,Benintendi,LF,L,L,29,69,180,Chicago White Sox,Cincinnati,OH,MLB
+Oscar,Colas,RF,L,L,25,71,209,Chicago White Sox,Santiago de Cuba,Cuba,MLB
+Luis,Robert,CF,R,R,26,74,220,Chicago White Sox,Ciego de Avila,Cuba,MLB
+Gavin,Sheets,RF,L,L,27,77,230,Chicago White Sox,Lutherville,MD,MLB
+Eloy,Jimenez,DH,R,R,27,76,240,Chicago White Sox,Santo Domingo,Dominican Republic,MLB
+Logan,Allen,SP,R,L,25,72,190,Cleveland Guardians,Altamonte Springs,FL,MLB
+Scott,Barlow,RP,R,R,31,75,210,Cleveland Guardians,New London,CT,MLB
+Tanner,Bibee,SP,R,R,24,74,205,Cleveland Guardians,Mission Viejo,CA,MLB
+Shane,Bieber,SP,R,R,28,75,200,Cleveland Guardians,Orange,CA,MLB
+Joey,Cantillo,RP,L,L,24,76,225,Cleveland Guardians,Honolulu,HI,MLB
+Emmanuel,Clase,RP,R,R,25,74,206,Cleveland Guardians,Rio San Juan,Dominican Republic,MLB
+Xzavion,Curry,RP,R,R,25,72,195,Cleveland Guardians,Orangeburg,SC,MLB
+Daniel,Espino,SP,R,R,23,74,225,Cleveland Guardians,Panama City,Panama,MLB
+Hunter,Gaddis,SP,R,R,25,78,260,Cleveland Guardians,Canton,GA,MLB
+Sam,Hentges,RP,L,L,27,78,245,Cleveland Guardians,Shoreview,MN,MLB
+Tim,Herrin,RP,L,L,27,78,230,Cleveland Guardians,Terre Haute,IN,MLB
+James,Karinchak,RP,R,R,28,75,215,Cleveland Guardians,Newburgh,NY,MLB
+Ben,Lively,SP,R,R,31,76,235,Cleveland Guardians,Pensacola,FL,MLB
+Triston,McKenzie,SP,R,R,26,77,165,Cleveland Guardians,Brooklyn,NY,MLB
+Eli,Morgan,RP,R,R,27,70,190,Cleveland Guardians,Rancho Palos Verdes,CA,MLB
+Nick,Sandlin,RP,R,R,27,71,175,Cleveland Guardians,Evans,GA,MLB
+Cade,Smith,RP,R,R,24,77,230,Cleveland Guardians,Vancouver,Canada,MLB
+Trevor,Stephan,RP,R,R,28,77,225,Cleveland Guardians,Magnolia,TX,MLB
+Gavin,Williams,SP,L,R,24,78,250,Cleveland Guardians,Fayetteville,NC,MLB
+David,Fry,C,R,R,28,72,215,Cleveland Guardians,Colleyville,TX,MLB
+Cam,Gallagher,C,R,R,31,75,230,Cleveland Guardians,Lancaster,PA,MLB
+Austin,Hedges,C,R,R,31,73,220,Cleveland Guardians,San Juan Capistrano,CA,MLB
+Bo,Naylor,C,L,R,23,72,205,Cleveland Guardians,Mississauga,Canada,MLB
+Juan,Brito,SS,B,R,22,71,202,Cleveland Guardians,Santo Domingo,Dominican Republic,MLB
+Deyvison,De,3B,R,R,20,71,185,Cleveland Guardians,Santo Domingo,Dominican Republic,MLB
+Tyler,Freeman,3B,R,R,24,72,190,Cleveland Guardians,Rancho Cucamonga,CA,MLB
+Andres,Gimenez,2B,L,R,25,71,161,Cleveland Guardians,Barquisimeto,Venezuela,MLB
+Angel,Martinez,2B,B,R,21,72,200,Cleveland Guardians,Santo Domingo,Dominican Republic,MLB
+Josh,Naylor,1B,L,L,26,71,250,Cleveland Guardians,Mississauga,Canada,MLB
+Jose,Ramirez,3B,B,R,31,69,190,Cleveland Guardians,Bani,Dominican Republic,MLB
+Brayan,Rocchio,SS,B,R,23,70,170,Cleveland Guardians,Caracas,Venezuela,MLB
+Jose,Tena,SS,L,R,22,71,195,Cleveland Guardians,San Cristobal,Dominican Republic,MLB
+Gabriel,Arias,RF,R,R,23,73,217,Cleveland Guardians,La Victoria,Venezuela,MLB
+Robert,Arias,CF,L,L,17,73,168,Cleveland Guardians,Bonao,Dominican Republic,MLB
+Will,Brennan,RF,L,L,25,72,200,Cleveland Guardians,Colorado Springs,CO,MLB
+Estevan,Florial,RF,L,R,26,73,195,Cleveland Guardians,Barahona,Dominican Republic,MLB
+Steven,Kwan,LF,L,L,26,69,170,Cleveland Guardians,Los Gatos,CA,MLB
+Ramon,Laureano,RF,R,R,29,71,203,Cleveland Guardians,Santo Domingo,Dominican Republic,MLB
+Jhonkensy,Noel,OF,R,R,22,75,250,Cleveland Guardians,San Pedro de Macoris,Dominican Republic,MLB
+Johnathan,Rodriguez,RF,B,R,24,72,224,Cleveland Guardians,Toa Baja,Puerto Rico,MLB
+Myles,Straw,CF,R,R,29,70,178,Cleveland Guardians,Garden Grove,CA,MLB
+George,Valera,RF,L,L,23,72,195,Cleveland Guardians,Queens,NY,MLB
+Beau,Brieske,RP,R,R,25,75,200,Detroit Tigers,Chandler,AZ,MLB
+Andrew,Chafin,RP,R,L,33,74,235,Detroit Tigers,Kettering,OH,MLB
+Miguel,Diaz,RP,R,R,29,72,224,Detroit Tigers,San Cristobal,Dominican Republic,MLB
+Mason,Englert,RP,B,R,24,76,206,Detroit Tigers,Forney,TX,MLB
+Alex,Faedo,SP,R,R,28,77,225,Detroit Tigers,Tampa,FL,MLB
+Jack,Flaherty,SP,R,R,28,76,225,Detroit Tigers,Burbank,CA,MLB
+Wilmer,Flores,SP,R,R,22,76,225,Detroit Tigers,Valencia,Venezuela,MLB
+Jason,Foley,RP,R,R,28,76,215,Detroit Tigers,Manhasset,NY,MLB
+Sawyer,Gipson-Long,RP,R,R,26,76,225,Detroit Tigers,Lithia Springs,GA,MLB
+Tyler,Holton,RP,L,L,27,74,200,Detroit Tigers,Tallahassee,FL,MLB
+Alex,Lange,RP,R,R,28,75,202,Detroit Tigers,Riverside,CA,MLB
+Kenta,Maeda,SP,R,R,35,73,185,Detroit Tigers,Osaka,Japan,MLB
+Matt,Manning,SP,R,R,25,78,195,Detroit Tigers,Sacramento,CA,MLB
+Shelby,Miller,RP,R,R,33,75,225,Detroit Tigers,Round Rock,TX,MLB
+Casey,Mize,SP,R,R,26,75,212,Detroit Tigers,Springville,AL,MLB
+Keider,Montero,SP,R,R,23,73,145,Detroit Tigers,Santa Teresa del Tuy,Venezuela,MLB
+Reese,Olson,SP,R,R,24,73,160,Detroit Tigers,Gainesville,GA,MLB
+Tarik,Skubal,SP,R,L,27,75,240,Detroit Tigers,Hayward,CA,MLB
+Devin,Sweet,RP,B,R,27,71,183,Detroit Tigers,Greensboro,NC,MLB
+Will,Vest,RP,R,R,28,72,180,Detroit Tigers,Houston,TX,MLB
+Joey,Wentz,SP,L,L,26,77,220,Detroit Tigers,Lawrence,KS,MLB
+Brendan,White,RP,R,R,25,71,185,Detroit Tigers,White Plains,NY,MLB
+Dillon,Dingler,C,R,R,25,75,210,Detroit Tigers,Massillon,OH,MLB
+Carson,Kelly,C,R,R,29,74,212,Detroit Tigers,Chicago,IL,MLB
+Jake,Rogers,C,R,R,28,73,201,Detroit Tigers,Canyon,TX,MLB
+Javier,Baez,SS,R,R,31,72,190,Detroit Tigers,Bayamon,Puerto Rico,MLB
+Andy,Ibanez,2B,R,R,30,70,205,Detroit Tigers,Havana,Cuba,MLB
+Ryan,Kreidler,SS,R,R,26,76,208,Detroit Tigers,Davis,CA,MLB
+Eddys,Leonard,SS,R,R,23,71,195,Detroit Tigers,Santo Domingo,Dominican Republic,MLB
+Andre,Lipcius,2B,R,R,25,72,190,Detroit Tigers,Annapolis,MD,MLB
+Wenceel,Perez,2B,B,R,24,71,203,Detroit Tigers,Azua Province,Dominican Republic,MLB
+Spencer,Torkelson,1B,R,R,24,73,220,Detroit Tigers,Petaluma,CA,MLB
+Akil,Baddoo,LF,L,L,25,73,214,Detroit Tigers,Silver Spring,MD,MLB
+Mark,Canha,LF,R,R,34,74,209,Detroit Tigers,San Jose,CA,MLB
+Kerry,Carpenter,RF,L,R,26,74,220,Detroit Tigers,Eustis,FL,MLB
+Riley,Greene,CF,L,L,23,75,200,Detroit Tigers,Orlando,FL,MLB
+Nick,Maton,LF,L,R,26,74,178,Detroit Tigers,Chatham,IL,MLB
+Zach,McKinstry,RF,L,R,28,72,180,Detroit Tigers,Toledo,OH,MLB
+Parker,Meadows,CF,L,R,24,77,205,Detroit Tigers,Atlanta,GA,MLB
+Matt,Vierling,RF,R,R,27,75,205,Detroit Tigers,St. Louis,MO,MLB
+Nick,Anderson,RP,R,R,33,76,205,Kansas City Royals,Crosby,MN,MLB
+Jonathan,Bowlan,SP,R,R,27,78,240,Kansas City Royals,Arlington,TN,MLB
+Jake,Brentz,RP,L,L,29,73,205,Kansas City Royals,Ballwin,MO,MLB
+Kris,Bubic,SP,L,L,26,75,225,Kansas City Royals,Cupertino,CA,MLB
+Steven,Cruz,RP,R,R,24,79,225,Kansas City Royals,Tenares,Dominican Republic,MLB
+Taylor,Hearn,RP,L,L,29,78,230,Kansas City Royals,Royse City,TX,MLB
+Carlos,Hernandez,RP,R,R,26,76,255,Kansas City Royals,Guayana,Venezuela,MLB
+Will,Klein,RP,R,R,24,77,230,Kansas City Royals,Bloomington,IN,MLB
+Seth,Lugo,SP,R,R,34,76,225,Kansas City Royals,Shreveport,LA,MLB
+Jordan,Lyles,SP,R,R,33,77,230,Kansas City Royals,Hartsville,SC,MLB
+Daniel,Lynch,SP,L,L,27,78,200,Kansas City Royals,Richmond,VA,MLB
+Alec,Marsh,SP,R,R,25,74,220,Kansas City Royals,Milwaukee,WI,MLB
+James,McArthur,RP,R,R,27,79,230,Kansas City Royals,New Braunfels,TX,MLB
+John,McMillon,RP,L,R,25,75,230,Kansas City Royals,Lufkin,TX,MLB
+Walter,Pennington,RP,L,L,25,74,205,Kansas City Royals,Broomfield,CO,MLB
+Cole,Ragans,SP,L,L,26,76,190,Kansas City Royals,Crawfordville,FL,MLB
+Matt,Sauer,SP,R,R,25,76,230,Kansas City Royals,Santa Maria,CA,MLB
+Brady,Singer,SP,R,R,27,77,215,Kansas City Royals,Leesburg,FL,MLB
+Will,Smith,RP,R,L,34,77,255,Kansas City Royals,Newnan,GA,MLB
+Chris,Stratton,RP,R,R,33,74,205,Kansas City Royals,Tupelo,MS,MLB
+Josh,Taylor,RP,L,L,30,77,245,Kansas City Royals,Phoenix,AZ,MLB
+Anthony,Veneziano,SP,L,L,26,77,205,Kansas City Royals,Hackettstown,NJ,MLB
+Michael,Wacha,SP,R,R,32,78,215,Kansas City Royals,Iowa City,IA,MLB
+Kyle,Wright,SP,R,R,28,76,215,Kansas City Royals,Huntsville,AL,MLB
+Angel,Zerpa,RP,L,L,24,72,220,Kansas City Royals,Valle de la Pascua,Venezuela,MLB
+Freddy,Fermin,C,R,R,28,69,200,Kansas City Royals,Puerto Ordaz,Venezuela,MLB
+Salvador,Perez,C,R,R,33,75,255,Kansas City Royals,Valencia,Venezuela,MLB
+Maikel,Garcia,3B,R,R,23,72,180,Kansas City Royals,La Sabana,Venezuela,MLB
+Garrett,Hampson,SS,R,R,29,71,196,Kansas City Royals,Reno,NV,MLB
+Nick,Loftin,SS,R,R,25,71,180,Kansas City Royals,Corpus Christi,TX,MLB
+Michael,Massey,2B,L,R,25,72,195,Kansas City Royals,Palos Park,IL,MLB
+Vinnie,Pasquantino,1B,L,L,26,76,245,Kansas City Royals,Richmond,VA,MLB
+Nick,Pratto,1B,L,L,25,73,225,Kansas City Royals,Huntington Beach,CA,MLB
+Samad,Taylor,2B,R,R,25,68,160,Kansas City Royals,Corona,CA,MLB
+Bobby,Witt,SS,R,R,23,73,200,Kansas City Royals,Colleyville,TX,MLB
+Dairon,Blanco,LF,R,R,30,71,200,Kansas City Royals,Camaguey,Cuba,MLB
+Tyler,Gentry,RF,R,R,24,72,210,Kansas City Royals,Memphis,TN,MLB
+Kyle,Isbel,CF,L,R,26,71,190,Kansas City Royals,Fontana,CA,MLB
+MJ,Melendez,RF,L,R,25,73,190,Kansas City Royals,Daytona Beach,FL,MLB
+Hunter,Renfroe,RF,R,R,31,73,230,Kansas City Royals,Crystal Springs,MS,MLB
+Nelson,Velazquez,RF,R,R,25,72,190,Kansas City Royals,Carolina,Puerto Rico,MLB
+Drew,Waters,CF,B,R,25,72,185,Kansas City Royals,Atlanta,GA,MLB
+Jorge,Alcala,RP,R,R,28,75,205,Minnesota Twins,Bajos de Haina,Dominican Republic,MLB
+Jordan,Balazovic,RP,R,R,25,77,215,Minnesota Twins,Mississauga,Canada,MLB
+Matt,Canterino,SP,R,R,26,74,222,Minnesota Twins,Southlake,TX,MLB
+Jhoan,Duran,RP,R,R,26,77,230,Minnesota Twins,Esperanza,Dominican Republic,MLB
+Kody,Funderburk,RP,L,L,27,76,230,Minnesota Twins,Mesa,AZ,MLB
+Brent,Headrick,RP,L,L,26,78,235,Minnesota Twins,Braidwood,IL,MLB
+Griffin,Jax,RP,R,R,29,74,195,Minnesota Twins,Phoenix,AZ,MLB
+Ryan,Jensen,SP,R,R,26,72,190,Minnesota Twins,Monterey,CA,MLB
+Pablo,Lopez,SP,L,R,27,76,225,Minnesota Twins,Cabimas,Venezuela,MLB
+Bailey,Ober,SP,R,R,28,81,260,Minnesota Twins,Huntersville,NC,MLB
+Chris,Paddack,SP,R,R,28,77,217,Minnesota Twins,Austin,TX,MLB
+Joe,Ryan,SP,R,R,27,74,205,Minnesota Twins,San Francisco,CA,MLB
+Cole,Sands,RP,R,R,26,75,215,Minnesota Twins,Tallahassee,FL,MLB
+Josh,Staumont,RP,R,R,30,75,200,Minnesota Twins,La Habra,CA,MLB
+Brock,Stewart,RP,L,R,32,75,220,Minnesota Twins,Normal,IL,MLB
+Caleb,Thielbar,RP,R,L,36,72,205,Minnesota Twins,Northfield,MN,MLB
+Louie,Varland,SP,L,R,26,73,205,Minnesota Twins,Saint Paul,MN,MLB
+Josh,Winder,RP,R,R,27,77,210,Minnesota Twins,Richmond,VA,MLB
+Simeon,Woods,SP,R,R,23,75,210,Minnesota Twins,Sugar Land,TX,MLB
+Jair,Camargo,C,R,R,24,70,230,Minnesota Twins,Barranquilla,Colombia,MLB
+Ryan,Jeffers,C,R,R,26,76,235,Minnesota Twins,Raleigh,NC,MLB
+Christian,Vazquez,C,R,R,33,69,205,Minnesota Twins,Bayamon,Puerto Rico,MLB
+Carlos,Correa,SS,R,R,29,76,220,Minnesota Twins,Ponce,Puerto Rico,MLB
+Kyle,Farmer,3B,R,R,33,72,205,Minnesota Twins,Atlanta,GA,MLB
+Edouard,Julien,2B,L,R,24,72,195,Minnesota Twins,Quebec City,Canada,MLB
+Royce,Lewis,3B,R,R,24,74,200,Minnesota Twins,Aliso Viejo,CA,MLB
+Austin,Martin,2B,R,R,24,72,185,Minnesota Twins,DeLand,FL,MLB
+Jose,Miranda,3B,R,R,25,74,210,Minnesota Twins,Manati,Puerto Rico,MLB
+Jorge,Polanco,2B,B,R,30,71,208,Minnesota Twins,San Pedro de Macoris,Dominican Republic,MLB
+Yunior,Severino,1B,B,R,24,72,189,Minnesota Twins,Santo Domingo,Dominican Republic,MLB
+Willi,Castro,LF,B,R,26,73,206,Minnesota Twins,Rio Piedras,Puerto Rico,MLB
+Nick,Gordon,CF,L,R,28,72,160,Minnesota Twins,Avon Park,FL,MLB
+Max,Kepler,RF,L,L,30,76,225,Minnesota Twins,Berlin,Germany,MLB
+Alex,Kirilloff,OF,L,L,26,74,195,Minnesota Twins,Pittsburgh,PA,MLB
+Trevor,Larnach,LF,L,R,26,76,223,Minnesota Twins,Walnut Creek,CA,MLB
+Emmanuel,Rodriguez,CF,L,L,20,70,210,Minnesota Twins,Santiago,Dominican Republic,MLB
+Bubba,Thompson,LF,R,R,25,74,197,Minnesota Twins,Mobile,AL,MLB
+Matt,Wallner,RF,L,R,26,76,220,Minnesota Twins,Forest Lake,MN,MLB
+Byron,Buxton,DH,R,R,30,74,190,Minnesota Twins,Baxley,GA,MLB
+Yency,Almonte,RP,R,R,29,77,223,Chicago Cubs,Miami,FL,MLB
+Adbert,Alzolay,RP,R,R,28,73,208,Chicago Cubs,San Felix,Venezuela,MLB
+Michael,Arias,SP,R,R,22,72,155,Chicago Cubs,Santo Domingo,Dominican Republic,MLB
+Javier,Assad,RP,R,R,26,73,200,Chicago Cubs,Tijuana,Mexico,MLB
+Ben,Brown,RP,R,R,24,78,210,Chicago Cubs,East Setauket,NY,MLB
+Jose,Cuas,RP,R,R,29,75,195,Chicago Cubs,Santo Domingo,Dominican Republic,MLB
+Kyle,Hendricks,SP,R,R,34,75,190,Chicago Cubs,Newport Beach,CA,MLB
+Porter,Hodge,RP,R,R,22,76,230,Chicago Cubs,Salt Lake City,UT,MLB
+Bailey,Horn,SP,L,L,26,74,210,Chicago Cubs,Waco,TX,MLB
+Shota,Imanaga,SP,L,L,30,70,175,Chicago Cubs,Fukuoka,Japan,MLB
+Caleb,Kilian,SP,R,R,26,76,180,Chicago Cubs,Anaheim,CA,MLB
+Mark,Leiter,RP,R,R,32,72,210,Chicago Cubs,Fort Lauderdale,FL,MLB
+Luke,Little,RP,L,L,23,80,220,Chicago Cubs,Charlotte,NC,MLB
+Julian,Merryweather,RP,R,R,32,76,215,Chicago Cubs,Berkeley,CA,MLB
+Daniel,Palencia,RP,R,R,23,71,160,Chicago Cubs,San Carlos,Venezuela,MLB
+Michael,Rucker,RP,R,R,29,73,195,Chicago Cubs,Columbus,MS,MLB
+Drew,Smyly,SP,L,L,34,74,188,Chicago Cubs,Little Rock,AR,MLB
+Justin,Steele,SP,L,L,28,74,205,Chicago Cubs,Lucedale,MS,MLB
+Jameson,Taillon,SP,R,R,32,77,230,Chicago Cubs,Lakeland,FL,MLB
+Keegan,Thompson,RP,R,R,28,73,210,Chicago Cubs,Cullman,AL,MLB
+Hayden,Wesneski,RP,R,R,26,75,210,Chicago Cubs,Houston,TX,MLB
+Jordan,Wicks,SP,L,L,24,75,220,Chicago Cubs,Conway,AR,MLB
+Miguel,Amaya,C,R,R,24,72,230,Chicago Cubs,Herrera,Panama,MLB
+Yan,Gomes,C,R,R,36,74,212,Chicago Cubs,Sao Paulo,Brazil,MLB
+Michael,Busch,3B,L,R,26,73,210,Chicago Cubs,Inver Grove Heights,MN,MLB
+Nico,Hoerner,2B,R,R,26,73,200,Chicago Cubs,Oakland,CA,MLB
+Nick,Madrigal,3B,R,R,26,68,175,Chicago Cubs,Sacramento,CA,MLB
+Miles,Mastrobuoni,3B,L,R,28,70,185,Chicago Cubs,San Ramon,CA,MLB
+Matt,Mervis,1B,L,R,25,74,225,Chicago Cubs,Washington,DC,MLB
+Christopher,Morel,2B,R,R,24,71,145,Chicago Cubs,Santiago,Dominican Republic,MLB
+Dansby,Swanson,SS,R,R,29,73,190,Chicago Cubs,Kennesaw,GA,MLB
+Luis,Vazquez,SS,R,R,24,72,165,Chicago Cubs,Orocovis,Puerto Rico,MLB
+Patrick,Wisdom,3B,R,R,32,74,220,Chicago Cubs,Murrieta,CA,MLB
+Kevin,Alcantara,CF,R,R,21,78,188,Chicago Cubs,Santo Domingo,Dominican Republic,MLB
+Alexander,Canario,CF,R,R,23,71,165,Chicago Cubs,Monte Cristi Province,Dominican Republic,MLB
+Pete,Crow-Armstrong,CF,L,L,21,71,184,Chicago Cubs,Sherman Oaks,CA,MLB
+Brennen,Davis,CF,R,R,24,72,210,Chicago Cubs,Chandler,AZ,MLB
+Ian,Happ,LF,B,R,29,72,205,Chicago Cubs,Pittsburgh,PA,MLB
+Seiya,Suzuki,RF,R,R,29,71,182,Chicago Cubs,Tokyo,Japan,MLB
+Mike,Tauchman,CF,L,L,33,73,220,Chicago Cubs,Palatine,IL,MLB
+Andrew,Abbott,SP,L,L,24,72,192,Cincinnati Reds,Lynchburg,VA,MLB
+Tejay,Antone,RP,R,R,30,76,230,Cincinnati Reds,Oklahoma City,OK,MLB
+Graham,Ashcraft,SP,L,R,25,74,248,Cincinnati Reds,Huntsville,AL,MLB
+Fernando,Cruz,RP,R,R,33,74,237,Cincinnati Reds,Bayamon,Puerto Rico,MLB
+Alexis,Diaz,RP,R,R,27,74,224,Cincinnati Reds,Humacao,Puerto Rico,MLB
+Buck,Farmer,RP,L,R,32,76,243,Cincinnati Reds,Conyers,GA,MLB
+Ian,Gibaut,RP,R,R,30,75,250,Cincinnati Reds,Houston,TX,MLB
+Hunter,Greene,SP,R,R,24,77,242,Cincinnati Reds,Los Angeles,CA,MLB
+Brett,Kennedy,RP,R,R,29,72,200,Cincinnati Reds,Pomona,NJ,MLB
+Casey,Legumina,RP,R,R,26,74,195,Cincinnati Reds,Dallas,TX,MLB
+Nick,Lodolo,SP,L,L,25,78,216,Cincinnati Reds,La Verne,CA,MLB
+Nick,Martinez,RP,L,R,33,73,200,Cincinnati Reds,Miami,FL,MLB
+Sam,Moll,RP,L,L,32,69,190,Cincinnati Reds,Lakeland,TN,MLB
+Frankie,Montas,SP,R,R,30,74,255,Cincinnati Reds,Sainagua,Dominican Republic,MLB
+Emilio,Pagan,RP,L,R,32,74,208,Cincinnati Reds,Simpsonville,SC,MLB
+Connor,Phillips,SP,R,R,22,74,209,Cincinnati Reds,Houston,TX,MLB
+Lyon,Richardson,SP,B,R,24,74,207,Cincinnati Reds,Jensen Beach,FL,MLB
+Christian,Roa,SP,R,R,24,76,220,Cincinnati Reds,Houston,TX,MLB
+Lucas,Sims,RP,R,R,29,74,213,Cincinnati Reds,Lawrenceville,GA,MLB
+Carson,Spiers,SP,R,R,26,75,205,Cincinnati Reds,Greenville,SC,MLB
+Levi,Stoudt,SP,R,R,26,73,195,Cincinnati Reds,Pottstown,PA,MLB
+Brent,Suter,RP,L,L,34,76,213,Cincinnati Reds,Chicago,IL,MLB
+Brandon,Williamson,SP,R,L,25,78,210,Cincinnati Reds,Fairmont,MN,MLB
+Alex,Young,RP,L,L,30,75,220,Cincinnati Reds,Westlake,OH,MLB
+Luke,Maile,C,R,R,32,75,225,Cincinnati Reds,Edgewood,KY,MLB
+Tyler,Stephenson,C,R,R,27,76,225,Cincinnati Reds,Atlanta,GA,MLB
+Jose,Barrero,SS,R,R,25,74,211,Cincinnati Reds,Havana,Cuba,MLB
+Jeimer,Candelario,3B,B,R,30,74,222,Cincinnati Reds,New York,NY,MLB
+Elly,De,3B,B,R,22,77,200,Cincinnati Reds,Sabana Grande de Boya,Dominican Republic,MLB
+Christian,Encarnacion-Strand,1B,R,R,24,72,224,Cincinnati Reds,Walnut Creek,CA,MLB
+Jonathan,India,2B,R,R,27,72,200,Cincinnati Reds,Coral Springs,FL,MLB
+Noelvi,Marte,SS,R,R,22,72,216,Cincinnati Reds,Cotui,Dominican Republic,MLB
+Matt,McLain,SS,R,R,24,68,180,Cincinnati Reds,Orange,CA,MLB
+Spencer,Steer,1B,R,R,26,71,185,Cincinnati Reds,Long Beach,CA,MLB
+Will,Benson,LF,L,L,25,77,230,Cincinnati Reds,Atlanta,GA,MLB
+Stuart,Fairchild,LF,R,R,27,72,205,Cincinnati Reds,Seattle,WA,MLB
+Jake,Fraley,RF,L,L,28,72,206,Cincinnati Reds,Frederick,MD,MLB
+TJ,Friedl,CF,L,L,28,70,180,Cincinnati Reds,Sewickley,PA,MLB
+Rece,Hinds,RF,R,R,23,76,215,Cincinnati Reds,Niceville,FL,MLB
+Jacob,Hurtubise,CF,L,R,26,72,180,Cincinnati Reds,Indianapolis,IN,MLB
+Nick,Martini,RF,L,L,33,71,205,Cincinnati Reds,Crystal Lake,IL,MLB
+Clayton,Andrews,RP,L,L,27,66,160,Milwaukee Brewers,Petaluma,CA,MLB
+Aaron,Ashby,SP,R,L,25,73,188,Milwaukee Brewers,Kansas City,MO,MLB
+Bradley,Blalock,SP,R,R,23,74,200,Milwaukee Brewers,Conyers,GA,MLB
+J.B.,Bukauskas,RP,R,R,27,72,208,Milwaukee Brewers,Ashburn,VA,MLB
+Corbin,Burnes,SP,R,R,29,75,246,Milwaukee Brewers,Bakersfield,CA,MLB
+Taylor,Clarke,RP,R,R,30,76,217,Milwaukee Brewers,Ashburn,VA,MLB
+Bryan,Hudson,RP,L,L,26,80,220,Milwaukee Brewers,Godfrey,IL,MLB
+Janson,Junk,SP,R,R,28,74,202,Milwaukee Brewers,Federal Way,WA,MLB
+Trevor,Megill,RP,L,R,30,80,250,Milwaukee Brewers,Long Beach,CA,MLB
+Wade,Miley,SP,L,L,37,73,220,Milwaukee Brewers,Hammond,LA,MLB
+Hoby,Milner,RP,L,L,33,75,184,Milwaukee Brewers,Dallas,TX,MLB
+Joel,Payamps,RP,R,R,29,74,217,Milwaukee Brewers,Santiago,Dominican Republic,MLB
+Elvis,Peguero,RP,R,R,26,77,237,Milwaukee Brewers,Cotui,Dominican Republic,MLB
+Freddy,Peralta,SP,R,R,27,72,196,Milwaukee Brewers,Moca,Dominican Republic,MLB
+Colin,Rea,SP,R,R,33,77,218,Milwaukee Brewers,Cascade,IA,MLB
+Joe,Ross,SP,R,R,30,76,232,Milwaukee Brewers,Berkeley,CA,MLB
+Ethan,Small,SP,L,L,26,74,200,Milwaukee Brewers,Jackson,TN,MLB
+Abner,Uribe,RP,R,R,23,75,225,Milwaukee Brewers,Santo Domingo,Dominican Republic,MLB
+Thyago,Vieira,RP,R,R,31,75,265,Milwaukee Brewers,Sao Paulo,Brazil,MLB
+Devin,Williams,RP,R,R,29,74,192,Milwaukee Brewers,St. Louis,MO,MLB
+Bryse,Wilson,RP,R,R,26,74,267,Milwaukee Brewers,Durham,NC,MLB
+William,Contreras,C,R,R,26,71,216,Milwaukee Brewers,Puerto Cabello,Venezuela,MLB
+Eric,Haase,C,R,R,31,70,210,Milwaukee Brewers,Detroit,MI,MLB
+Jeferson,Quero,C,R,R,21,71,215,Milwaukee Brewers,Barquisimeto,Venezuela,MLB
+Willy,Adames,SS,R,R,28,73,214,Milwaukee Brewers,Santiago,Dominican Republic,MLB
+Jake,Bauers,1B,L,L,28,71,195,Milwaukee Brewers,Newport Beach,CA,MLB
+Vinny,Capra,3B,R,R,27,68,180,Milwaukee Brewers,Melbourne,FL,MLB
+Oliver,Dunn,2B,L,R,26,70,185,Milwaukee Brewers,Salt Lake City,UT,MLB
+Rhys,Hoskins,1B,R,R,30,76,245,Milwaukee Brewers,Sacramento,CA,MLB
+Owen,Miller,2B,R,R,27,71,195,Milwaukee Brewers,Mequon,WI,MLB
+Andruw,Monasterio,2B,R,R,26,71,186,Milwaukee Brewers,Caracas,Venezuela,MLB
+Brice,Turang,2B,L,R,24,72,176,Milwaukee Brewers,Corona,CA,MLB
+Jackson,Chourio,RF,R,R,19,71,165,Milwaukee Brewers,Maracaibo,Venezuela,MLB
+Sal,Frelick,OF,L,R,23,70,182,Milwaukee Brewers,Boston,MA,MLB
+Garrett,Mitchell,CF,L,R,25,75,224,Milwaukee Brewers,Orange,CA,MLB
+Blake,Perkins,RF,B,R,27,71,197,Milwaukee Brewers,Litchfield Park,AZ,MLB
+Chris,Roller,RF,R,R,27,71,190,Milwaukee Brewers,Austin,TX,MLB
+Joey,Wiemer,CF,R,R,24,76,220,Milwaukee Brewers,Sylvania,OH,MLB
+Christian,Yelich,LF,L,R,32,75,207,Milwaukee Brewers,Thousand Oaks,CA,MLB
+Jahmai,Jones,DH,R,R,26,72,210,Milwaukee Brewers,Roswell,GA,MLB
+Braxton,Ashcraft,RP,L,R,24,77,195,Pittsburgh Pirates,Waco,TX,MLB
+David,Bednar,RP,L,R,29,72,225,Pittsburgh Pirates,Pittsburgh,PA,MLB
+Ryan,Borucki,RP,L,L,29,76,210,Pittsburgh Pirates,Highland Park,IL,MLB
+JT,Brubaker,SP,R,R,30,75,180,Pittsburgh Pirates,Springfield,OH,MLB
+Mike,Burrows,SP,R,R,24,73,190,Pittsburgh Pirates,Waterford,CT,MLB
+Roansy,Contreras,SP,R,R,24,73,205,Pittsburgh Pirates,Yamasa,Dominican Republic,MLB
+Bailey,Falter,SP,R,L,26,76,175,Pittsburgh Pirates,Chino Hills,CA,MLB
+Marco,Gonzales,SP,L,L,31,73,205,Pittsburgh Pirates,Fort Collins,CO,MLB
+Jose,Hernandez,RP,L,L,26,75,205,Pittsburgh Pirates,Puerto Plata,Dominican Republic,MLB
+Colin,Holderman,RP,R,R,28,76,230,Pittsburgh Pirates,Bourbonnais,IL,MLB
+Mitch,Keller,SP,R,R,27,75,220,Pittsburgh Pirates,Cedar Rapids,IA,MLB
+Carmen,Mlodzinski,RP,R,R,24,74,220,Pittsburgh Pirates,Hilton Head Island,SC,MLB
+Dauri,Moreta,RP,R,R,27,74,185,Pittsburgh Pirates,Comendador,Dominican Republic,MLB
+Kyle,Nicolas,SP,R,R,24,76,223,Pittsburgh Pirates,Massillon,OH,MLB
+Luis,Ortiz,SP,R,R,24,74,235,Pittsburgh Pirates,San Pedro de Macoris,Dominican Republic,MLB
+Johan,Oviedo,SP,R,R,25,77,245,Pittsburgh Pirates,Havana,Cuba,MLB
+Martin,Perez,SP,L,L,32,72,200,Pittsburgh Pirates,Guanare,Venezuela,MLB
+Quinn,Priester,SP,R,R,23,75,210,Pittsburgh Pirates,Glendale Heights,IL,MLB
+Colin,Selby,RP,R,R,26,74,220,Pittsburgh Pirates,Chesapeake,VA,MLB
+Jackson,Wolf,SP,L,L,24,79,205,Pittsburgh Pirates,Gahanna,OH,MLB
+Jason,Delay,C,R,R,28,71,190,Pittsburgh Pirates,Plano,TX,MLB
+Endy,Rodriguez,C,B,R,23,72,200,Pittsburgh Pirates,Santiago,Dominican Republic,MLB
+Ali,Sanchez,C,R,R,27,73,200,Pittsburgh Pirates,Carora,Venezuela,MLB
+Ji,Hwan,2B,L,R,24,71,185,Pittsburgh Pirates,Daegu,South Korea,MLB
+Tsung-Che,Cheng,SS,L,R,22,67,173,Pittsburgh Pirates,Pingtung County,Taiwan,MLB
+Oneil,Cruz,SS,L,R,25,79,215,Pittsburgh Pirates,Nizao,Dominican Republic,MLB
+Nick,Gonzales,2B,R,R,24,69,190,Pittsburgh Pirates,Vail,AZ,MLB
+Ke'Bryan,Hayes,3B,R,R,26,71,195,Pittsburgh Pirates,Tomball,TX,MLB
+Liover,Peguero,SS,R,R,23,72,220,Pittsburgh Pirates,Higuey,Dominican Republic,MLB
+Rowdy,Tellez,1B,L,L,28,76,270,Pittsburgh Pirates,Sacramento,CA,MLB
+Jared,Triolo,3B,R,R,25,75,210,Pittsburgh Pirates,Nashua,NH,MLB
+Alika,Williams,SS,R,R,24,73,180,Pittsburgh Pirates,San Diego,CA,MLB
+Henry,Davis,RF,R,R,24,72,210,Pittsburgh Pirates,Bedford,NY,MLB
+Connor,Joe,RF,R,R,31,72,205,Pittsburgh Pirates,San Diego,CA,MLB
+Edward,Olivares,LF,R,R,27,74,190,Pittsburgh Pirates,Caracas,Venezuela,MLB
+Joshua,Palacios,RF,L,R,28,73,200,Pittsburgh Pirates,Brooklyn,NY,MLB
+Bryan,Reynolds,LF,B,R,28,74,205,Pittsburgh Pirates,Baltimore,MD,MLB
+Canaan,Smith-Njigba,RF,L,R,24,72,230,Pittsburgh Pirates,Dallas,TX,MLB
+Jack,Suwinski,CF,L,L,25,74,215,Pittsburgh Pirates,Chicago,IL,MLB
+Andrew,McCutchen,DH,R,R,37,70,190,Pittsburgh Pirates,Fort Meade,FL,MLB
+Jacob,Barnes,RP,R,R,33,74,231,St. Louis Cardinals,St. Petersburg,FL,MLB
+Ryan,Fernandez,RP,R,R,25,72,170,St. Louis Cardinals,Tampa,FL,MLB
+Giovanny,Gallegos,RP,R,R,32,74,215,St. Louis Cardinals,Obregon,Mexico,MLB
+Kyle,Gibson,SP,R,R,36,78,200,St. Louis Cardinals,Greenfield,IN,MLB
+Sonny,Gray,SP,R,R,34,70,195,St. Louis Cardinals,Smyrna,TN,MLB
+Ryan,Helsley,RP,R,R,29,74,230,St. Louis Cardinals,Tahlequah,OK,MLB
+John,King,RP,L,L,29,74,215,St. Louis Cardinals,Laredo,TX,MLB
+Andrew,Kittredge,RP,R,R,33,73,230,St. Louis Cardinals,Spokane,WA,MLB
+Adam,Kloffenstein,SP,R,R,23,77,243,St. Louis Cardinals,Magnolia,TX,MLB
+Matthew,Liberatore,SP,L,L,24,76,200,St. Louis Cardinals,Peoria,AZ,MLB
+Lance,Lynn,SP,B,R,36,77,270,St. Louis Cardinals,Marion,IN,MLB
+Steven,Matz,SP,R,L,32,74,201,St. Louis Cardinals,Stony Brook,NY,MLB
+Miles,Mikolas,SP,R,R,35,76,230,St. Louis Cardinals,Jupiter,FL,MLB
+James,Naile,RP,R,R,30,76,185,St. Louis Cardinals,Cape Girardeau,MO,MLB
+Riley,O'Brien,RP,R,R,28,76,180,St. Louis Cardinals,Seattle,WA,MLB
+Andre,Pallante,RP,R,R,25,72,203,St. Louis Cardinals,Mission Viejo,CA,MLB
+Sem,Robberse,SP,R,R,22,73,185,St. Louis Cardinals,Zeist,Netherlands,MLB
+Nick,Robertson,RP,R,R,25,78,265,St. Louis Cardinals,Roanoke,VA,MLB
+Drew,Rom,SP,L,L,24,74,215,St. Louis Cardinals,Cincinnati,OH,MLB
+JoJo,Romero,RP,L,L,27,71,200,St. Louis Cardinals,Camarillo,CA,MLB
+Ryan,Tepera,RP,R,R,36,73,195,St. Louis Cardinals,Houston,TX,MLB
+Zack,Thompson,RP,L,L,26,74,215,St. Louis Cardinals,Selma,IN,MLB
+Guillermo,Zuniga,RP,R,R,25,77,230,St. Louis Cardinals,Cartagena,Colombia,MLB
+Willson,Contreras,C,R,R,31,73,225,St. Louis Cardinals,Puerto Cabello,Venezuela,MLB
+Ivan,Herrera,C,R,R,23,71,220,St. Louis Cardinals,Panama City,Panama,MLB
+Pedro,Pages,C,R,R,25,73,234,St. Louis Cardinals,Maracay,Venezuela,MLB
+Nolan,Arenado,3B,R,R,32,74,215,St. Louis Cardinals,Newport Beach,CA,MLB
+Luken,Baker,1B,R,R,26,76,280,St. Louis Cardinals,Houston,TX,MLB
+Brendan,Donovan,2B,L,R,27,73,195,St. Louis Cardinals,Enterprise,AL,MLB
+Tommy,Edman,SS,B,R,28,70,180,St. Louis Cardinals,Pontiac,MI,MLB
+Jose,Fermin,2B,R,R,24,69,200,St. Louis Cardinals,Puerto Plata,Dominican Republic,MLB
+Paul,Goldschmidt,1B,R,R,36,75,220,St. Louis Cardinals,Wilmington,DE,MLB
+Nolan,Gorman,2B,L,R,23,73,210,St. Louis Cardinals,Phoenix,AZ,MLB
+Buddy,Kennedy,2B,R,R,25,69,190,St. Louis Cardinals,Millville,NJ,MLB
+Juniel,Querecuto,3B,B,R,31,69,195,St. Louis Cardinals,Barquisimeto,Venezuela,MLB
+Masyn,Winn,SS,R,R,21,71,180,St. Louis Cardinals,Katy,TX,MLB
+Jared,Young,1B,L,R,28,72,185,St. Louis Cardinals,Prince George,Canada,MLB
+Alec,Burleson,LF,L,L,25,74,212,St. Louis Cardinals,Charlotte,NC,MLB
+Dylan,Carlson,CF,B,L,25,74,205,St. Louis Cardinals,Elk Grove,CA,MLB
+Moises,Gomez,OF,R,R,25,71,200,St. Louis Cardinals,Caracas,Venezuela,MLB
+Lars,Nootbaar,CF,L,R,26,75,210,St. Louis Cardinals,El Segundo,CA,MLB
+Michael,Siani,CF,L,L,24,73,188,St. Louis Cardinals,Glenside,PA,MLB
+Jordan,Walker,RF,R,R,21,78,245,St. Louis Cardinals,Stone Mountain,GA,MLB
+Matt,Carpenter,DH,L,R,38,76,210,St. Louis Cardinals,Galveston,TX,MLB
+Bryan,Abreu,RP,R,R,26,73,225,Houston Astros,Santo Domingo,Dominican Republic,MLB
+Brandon,Bielak,SP,L,R,27,74,208,Houston Astros,Edison,NJ,MLB
+Ronel,Blanco,SP,R,R,30,72,180,Houston Astros,Santiago,Dominican Republic,MLB
+Hunter,Brown,SP,R,R,25,74,212,Houston Astros,Detroit,MI,MLB
+Dylan,Coleman,RP,R,R,27,77,230,Houston Astros,Potosi,MO,MLB
+Declan,Cronin,RP,R,R,26,76,225,Houston Astros,Glen Ridge,NJ,MLB
+Shawn,Dubin,RP,R,R,28,73,171,Houston Astros,Allegany,NY,MLB
+J.P.,France,SP,R,R,28,72,216,Houston Astros,New Orleans,LA,MLB
+Luis,Garcia,SP,R,R,27,71,244,Houston Astros,Barinitas,Venezuela,MLB
+Kendall,Graveman,RP,R,R,33,74,200,Houston Astros,Alexander City,AL,MLB
+Josh,Hader,RP,L,L,29,71,180,Houston Astros,Millersville,MD,MLB
+Cristian,Javier,SP,R,R,26,73,213,Houston Astros,Santo Domingo,Dominican Republic,MLB
+Seth,Martinez,RP,R,R,29,74,200,Houston Astros,Peoria,AZ,MLB
+Lance,McCullers,SP,L,R,30,73,202,Houston Astros,Tampa,FL,MLB
+Rafael,Montero,RP,R,R,33,72,190,Houston Astros,Higuerito,Dominican Republic,MLB
+Parker,Mushinski,RP,L,L,28,72,218,Houston Astros,Arlington,TX,MLB
+Oliver,Ortega,RP,R,R,27,72,165,Houston Astros,Nagua,Dominican Republic,MLB
+Ryan,Pressly,RP,R,R,35,74,206,Houston Astros,Dallas,TX,MLB
+Bennett,Sousa,RP,L,L,28,75,220,Houston Astros,North Palm Beach,FL,MLB
+Jose,Urquidy,SP,R,R,28,72,217,Houston Astros,Sinaloa,Mexico,MLB
+Framber,Valdez,SP,R,L,30,71,239,Houston Astros,Sabana Grande de Palenque,Dominican Republic,MLB
+Justin,Verlander,SP,R,R,40,77,235,Houston Astros,Manakin Sabot,VA,MLB
+Forrest,Whitley,SP,R,R,26,79,238,Houston Astros,San Antonio,TX,MLB
+Victor,Caratini,C,B,R,30,71,225,Houston Astros,Ponce,Puerto Rico,MLB
+Yainer,Diaz,C,R,R,25,72,195,Houston Astros,Azua Province,Dominican Republic,MLB
+Cesar,Salazar,C,L,R,27,69,185,Houston Astros,Hermosillo,Mexico,MLB
+Jose,Abreu,1B,R,R,36,75,235,Houston Astros,Cienfuegos,Cuba,MLB
+Jose,Altuve,2B,R,R,33,66,166,Houston Astros,Maracay,Venezuela,MLB
+Alex,Bregman,3B,R,R,29,72,192,Houston Astros,Albuquerque,NM,MLB
+Mauricio,Dubon,2B,R,R,29,72,173,Houston Astros,San Pedro Sula,Honduras,MLB
+David,Hensley,2B,R,R,27,78,190,Houston Astros,San Diego,CA,MLB
+Grae,Kessinger,SS,R,R,26,73,204,Houston Astros,Oxford,MS,MLB
+Jeremy,Pena,SS,R,R,26,72,202,Houston Astros,Santo Domingo,Dominican Republic,MLB
+Jon,Singleton,1B,L,L,32,72,256,Houston Astros,Harbor City,CA,MLB
+Yordan,Alvarez,LF,L,R,26,77,225,Houston Astros,Las Tunas,Cuba,MLB
+Kenedy,Corona,CF,R,R,23,70,184,Houston Astros,Maracaibo,Venezuela,MLB
+Corey,Julks,LF,R,R,27,73,185,Houston Astros,Friendswood,TX,MLB
+Chas,McCormick,CF,R,L,28,72,208,Houston Astros,West Chester,PA,MLB
+Jake,Meyers,CF,R,L,27,72,200,Houston Astros,Omaha,NE,MLB
+Kyle,Tucker,RF,L,R,27,76,199,Houston Astros,Tampa,FL,MLB
+Tyler,Anderson,SP,L,L,34,74,220,Los Angeles Angels,Las Vegas,NV,MLB
+Sam,Bachman,RP,R,R,24,73,235,Los Angeles Angels,Indianapolis,IN,MLB
+Kelvin,Caceres,RP,R,R,24,73,205,Los Angeles Angels,Santiago,Dominican Republic,MLB
+Griffin,Canning,SP,R,R,27,74,180,Los Angeles Angels,Mission Viejo,CA,MLB
+Adam,Cimber,RP,R,R,33,75,195,Los Angeles Angels,Portland,OR,MLB
+Davis,Daniel,SP,R,R,26,73,190,Los Angeles Angels,Atlanta,GA,MLB
+Reid,Detmers,SP,L,L,24,74,210,Los Angeles Angels,Nokomis,IL,MLB
+Carlos,Estevez,RP,R,R,31,78,277,Los Angeles Angels,Santo Domingo,Dominican Republic,MLB
+Luis,Garcia,RP,R,R,36,74,240,Los Angeles Angels,Santo Domingo,Dominican Republic,MLB
+Jimmy,Herget,RP,R,R,30,75,170,Los Angeles Angels,Tampa,FL,MLB
+Kolton,Ingram,RP,L,L,27,69,170,Los Angeles Angels,Columbus,GA,MLB
+Ben,Joyce,RP,R,R,23,77,225,Los Angeles Angels,Knoxville,TN,MLB
+Jack,Kochanowicz,SP,L,R,23,79,228,Los Angeles Angels,Philadelphia,PA,MLB
+Adam,Kolarek,RP,L,L,35,75,215,Los Angeles Angels,Baltimore,MD,MLB
+Victor,Mederos,SP,R,R,22,74,227,Los Angeles Angels,Santa Clara,Cuba,MLB
+Matt,Moore,RP,L,L,34,75,210,Los Angeles Angels,Fort Walton Beach,FL,MLB
+Zach,Plesac,SP,R,R,29,75,220,Los Angeles Angels,Crown Point,IN,MLB
+Jose,Quijada,RP,L,L,28,71,215,Los Angeles Angels,Caripito,Venezuela,MLB
+Kenny,Rosenberg,RP,L,L,28,73,195,Los Angeles Angels,Mill Valley,CA,MLB
+Patrick,Sandoval,SP,L,L,27,75,190,Los Angeles Angels,Mission Viejo,CA,MLB
+Chase,Silseth,SP,R,R,23,72,217,Los Angeles Angels,Farmington,NM,MLB
+Jose,Soriano,RP,R,R,25,75,220,Los Angeles Angels,Santo Domingo,Dominican Republic,MLB
+Robert,Stephenson,RP,R,R,30,75,205,Los Angeles Angels,Martinez,CA,MLB
+Jose,Suarez,SP,L,L,26,70,225,Los Angeles Angels,Naguanagua,Venezuela,MLB
+Andrew,Wantz,RP,R,R,28,76,235,Los Angeles Angels,Erie,PA,MLB
+Austin,Warren,RP,R,R,27,72,170,Los Angeles Angels,Fayetteville,NC,MLB
+Logan,O'Hoppe,C,R,R,23,74,185,Los Angeles Angels,West Islip,NY,MLB
+Matt,Thaiss,C,L,R,28,72,215,Los Angeles Angels,Jackson,NJ,MLB
+C.J.,Cron,1B,R,R,34,76,235,Los Angeles Angels,Fullerton,CA,MLB
+Brandon,Drury,2B,R,R,31,74,230,Los Angeles Angels,Grants Pass,OR,MLB
+Zach,Neto,SS,R,R,22,72,185,Los Angeles Angels,Miami,FL,MLB
+Kyren,Paris,2B,R,R,22,72,180,Los Angeles Angels,Oakley,CA,MLB
+Anthony,Rendon,3B,R,R,33,73,200,Los Angeles Angels,Houston,TX,MLB
+Luis,Rengifo,2B,B,R,26,70,195,Los Angeles Angels,Naguanagua,Venezuela,MLB
+Nolan,Schanuel,1B,L,R,21,76,220,Los Angeles Angels,Boca Raton,FL,MLB
+Livan,Soto,2B,L,R,23,70,160,Los Angeles Angels,Valencia,Venezuela,MLB
+Michael,Stefanic,2B,R,R,27,68,180,Los Angeles Angels,Boise,ID,MLB
+Jordyn,Adams,CF,R,R,24,74,181,Los Angeles Angels,Gulfport,MS,MLB
+Jo,Adell,RF,R,R,24,75,215,Los Angeles Angels,Shelby,NC,MLB
+Mickey,Moniak,RF,L,R,25,74,195,Los Angeles Angels,Encinitas,CA,MLB
+Brett,Phillips,CF,L,R,29,72,195,Los Angeles Angels,Seminole,FL,MLB
+Mike,Trout,CF,R,R,32,74,235,Los Angeles Angels,Vineland,NJ,MLB
+Taylor,Ward,LF,R,R,30,73,200,Los Angeles Angels,Dayton,OH,MLB
+Brady,Basso,SP,R,L,26,74,213,Oakland Athletics,Pearland,TX,MLB
+Osvaldo,Bido,SP,R,R,28,75,175,Oakland Athletics,Los Hidalgos,Dominican Republic,MLB
+Paul,Blackburn,SP,R,R,30,73,196,Oakland Athletics,Antioch,CA,MLB
+Joe,Boyle,RP,R,R,24,79,240,Oakland Athletics,O'Fallon,MO,MLB
+Lucas,Erceg,RP,L,R,28,74,214,Oakland Athletics,San Jose,CA,MLB
+Joey,Estes,SP,R,R,22,74,190,Oakland Athletics,Palmdale,CA,MLB
+Angel,Felipe,RP,R,R,26,77,190,Oakland Athletics,Villa Mella,Dominican Republic,MLB
+Trevor,Gott,RP,R,R,31,71,185,Oakland Athletics,Lexington,KY,MLB
+Hogan,Harris,RP,R,L,27,75,230,Oakland Athletics,Lafayette,LA,MLB
+Zach,Jackson,RP,R,R,29,76,230,Oakland Athletics,Tulsa,OK,MLB
+Dany,Jimenez,RP,R,R,30,73,182,Oakland Athletics,San Cristobal,Dominican Republic,MLB
+Michael,Kelly,RP,R,R,31,76,185,Oakland Athletics,Boynton Beach,FL,MLB
+Adrian,Martinez,RP,R,R,27,74,215,Oakland Athletics,Mexicali,Mexico,MLB
+Luis,Medina,SP,R,R,24,73,175,Oakland Athletics,Nagua,Dominican Republic,MLB
+Mason,Miller,SP,R,R,25,77,200,Oakland Athletics,Pittsburgh,PA,MLB
+Kyle,Muller,SP,R,L,26,79,250,Oakland Athletics,Dallas,TX,MLB
+Sean,Newcomb,RP,L,L,30,77,255,Oakland Athletics,Brockton,MA,MLB
+Francisco,Perez,RP,B,L,26,74,227,Oakland Athletics,Loma de Cabrera,Dominican Republic,MLB
+Royber,Salinas,RP,R,R,22,75,205,Oakland Athletics,Guarenas,Venezuela,MLB
+JP,Sears,SP,R,L,27,71,180,Oakland Athletics,Sumter,SC,MLB
+Mitch,Spence,SP,R,R,25,73,185,Oakland Athletics,Kirkland,WA,MLB
+Freddy,Tarnok,RP,R,R,25,75,185,Oakland Athletics,Brandon,FL,MLB
+Ken,Waldichuk,SP,L,L,26,76,220,Oakland Athletics,San Diego,CA,MLB
+Shea,Langeliers,C,R,R,26,72,205,Oakland Athletics,Portland,OR,MLB
+Carlos,Perez,C,R,R,33,70,210,Oakland Athletics,Valencia,Venezuela,MLB
+Tyler,Soderstrom,C,L,R,22,73,200,Oakland Athletics,Turlock,CA,MLB
+Nick,Allen,SS,R,R,25,68,166,Oakland Athletics,San Diego,CA,MLB
+Jonah,Bride,3B,R,R,28,70,200,Oakland Athletics,Owasso,OK,MLB
+Aledmys,Diaz,SS,R,R,33,73,195,Oakland Athletics,Santa Clara,Cuba,MLB
+Jordan,Diaz,2B,R,R,23,70,175,Oakland Athletics,Sincelejo,Colombia,MLB
+Zack,Gelof,2B,R,R,24,74,205,Oakland Athletics,Rehoboth Beach,DE,MLB
+Darell,Hernaiz,SS,R,R,22,71,190,Oakland Athletics,San Juan,Puerto Rico,MLB
+Ryan,Noda,1B,L,L,27,75,217,Oakland Athletics,Volo,IL,MLB
+Abraham,Toro,3B,B,R,27,72,223,Oakland Athletics,Longueuil,Canada,MLB
+Miguel,Andujar,LF,R,R,28,72,211,Oakland Athletics,San Cristobal,Dominican Republic,MLB
+Lazaro,Robersy,LF,R,R,24,71,182,Oakland Athletics,Havana,Cuba,MLB
+JJ,Bleday,LF,L,L,26,74,205,Oakland Athletics,Danville,PA,MLB
+Seth,Brown,LF,L,L,31,73,223,Oakland Athletics,Klamath Falls,OR,MLB
+Lawrence,Butler,OF,L,R,23,75,210,Oakland Athletics,Burlington,NJ,MLB
+Brent,Rooker,LF,R,R,29,76,225,Oakland Athletics,Germantown,TN,MLB
+Esteury,Ruiz,CF,R,R,24,72,169,Oakland Athletics,Azua Province,Dominican Republic,MLB
+Ty,Adcock,RP,R,R,26,72,213,Seattle Mariners,Oxford,NC,MLB
+Eduard,Bazardo,RP,R,R,28,72,190,Seattle Mariners,Maracay,Venezuela,MLB
+Prelander,Berroa,SP,R,R,23,71,170,Seattle Mariners,Santo Domingo,Dominican Republic,MLB
+Cody,Bolton,RP,R,R,25,74,210,Seattle Mariners,Richmond,VA,MLB
+Matt,Brash,RP,R,R,25,73,173,Seattle Mariners,Kingston,Canada,MLB
+Luis,Castillo,SP,R,R,31,74,200,Seattle Mariners,Bani,Dominican Republic,MLB
+Anthony,DeSclafani,SP,R,R,33,74,195,Seattle Mariners,Freehold,NJ,MLB
+Logan,Gilbert,SP,R,R,26,78,215,Seattle Mariners,Winter Park,FL,MLB
+Emerson,Hancock,SP,R,R,24,76,213,Seattle Mariners,Cairo,GA,MLB
+George,Kirby,SP,R,R,25,76,215,Seattle Mariners,Rye,NY,MLB
+Jackson,Kowar,RP,R,R,27,77,200,Seattle Mariners,Weddington,NC,MLB
+Mauricio,Llovera,RP,R,R,27,71,224,Seattle Mariners,El Tigre,Venezuela,MLB
+Darren,McCaughan,RP,R,R,27,73,200,Seattle Mariners,Long Beach,CA,MLB
+Bryce,Miller,SP,R,R,25,74,200,Seattle Mariners,Mount Pleasant,TX,MLB
+Andres,Munoz,RP,R,R,25,74,222,Seattle Mariners,Los Mochis,Mexico,MLB
+Tayler,Saucedo,RP,L,L,30,76,205,Seattle Mariners,Honolulu,HI,MLB
+Gabe,Speier,RP,L,L,28,71,200,Seattle Mariners,Santa Barbara,CA,MLB
+Trent,Thornton,RP,R,R,30,72,190,Seattle Mariners,Charlotte,NC,MLB
+Justin,Topa,RP,R,R,32,76,200,Seattle Mariners,Binghamton,NY,MLB
+Carlos,Vargas,RP,R,R,24,76,210,Seattle Mariners,Moca,Dominican Republic,MLB
+Austin,Voth,RP,R,R,31,74,215,Seattle Mariners,Redmond,WA,MLB
+Bryan,Woo,SP,R,R,23,74,205,Seattle Mariners,Oakland,CA,MLB
+Mitch,Garver,C,R,R,33,73,220,Seattle Mariners,Albuquerque,NM,MLB
+Blake,Hunt,C,R,R,25,75,215,Seattle Mariners,Costa Mesa,CA,MLB
+Cal,Raleigh,C,B,R,27,75,235,Seattle Mariners,Cullowhee,NC,MLB
+Seby,Zavala,C,R,R,30,71,205,Seattle Mariners,Fort Hood,TX,MLB
+J.P.,Crawford,SS,L,R,29,74,202,Seattle Mariners,Long Beach,CA,MLB
+Ty,France,1B,R,R,29,71,215,Seattle Mariners,Downey,CA,MLB
+Sam,Haggerty,2B,B,R,29,71,175,Seattle Mariners,Phoenix,AZ,MLB
+Luke,Raley,1B,L,R,29,76,235,Seattle Mariners,Hinckley,OH,MLB
+Josh,Rojas,3B,L,R,29,73,207,Seattle Mariners,Litchfield Park,AZ,MLB
+Luis,Urias,3B,R,R,26,70,202,Seattle Mariners,Sonora,Mexico,MLB
+Dominic,Canzone,OF,L,R,26,71,190,Seattle Mariners,Cleveland,OH,MLB
+Jonatan,Clase,CF,B,R,21,69,150,Seattle Mariners,Santo Domingo,Dominican Republic,MLB
+Zach,DeLoach,RF,L,R,25,72,205,Seattle Mariners,Irving,TX,MLB
+Mitch,Haniger,LF,R,R,33,74,214,Seattle Mariners,Mountain View,CA,MLB
+Cade,Marlowe,LF,L,R,26,73,210,Seattle Mariners,Tifton,GA,MLB
+Dylan,Moore,LF,R,R,31,72,205,Seattle Mariners,Yorba Linda,CA,MLB
+Julio,Rodriguez,CF,R,R,23,75,228,Seattle Mariners,Loma de Cabrera,Dominican Republic,MLB
+Taylor,Trammell,LF,L,L,26,74,220,Seattle Mariners,Powder Springs,GA,MLB
+Grant,Anderson,RP,R,R,26,72,180,Texas Rangers,Port Arthur,TX,MLB
+Cody,Bradford,SP,L,L,25,76,197,Texas Rangers,Aledo,TX,MLB
+Brock,Burke,RP,L,L,27,76,210,Texas Rangers,Chicago,IL,MLB
+Marc,Church,RP,R,R,22,75,189,Texas Rangers,Atlanta,GA,MLB
+Carson,Coleman,RP,R,R,25,74,190,Texas Rangers,Lexington,KY,MLB
+Jose,Corniell,SP,R,R,20,75,165,Texas Rangers,Santo Domingo,Dominican Republic,MLB
+Jacob,deGrom,SP,L,R,35,76,180,Texas Rangers,DeLand,FL,MLB
+Daniel,Duarte,RP,R,R,27,72,235,Texas Rangers,Huatabampo,Mexico,MLB
+Dane,Dunning,SP,R,R,29,76,225,Texas Rangers,Orange Park,FL,MLB
+Nathan,Eovaldi,SP,R,R,33,74,217,Texas Rangers,Houston,TX,MLB
+Jon,Gray,SP,R,R,32,76,225,Texas Rangers,Shawnee,OK,MLB
+Andrew,Heaney,SP,L,L,32,74,200,Texas Rangers,Oklahoma City,OK,MLB
+Jonathan,Hernandez,RP,R,R,27,75,190,Texas Rangers,Memphis,TN,MLB
+Antoine,Kelly,SP,L,L,24,77,205,Texas Rangers,Chicago,IL,MLB
+Zachary,Kent,SP,R,R,25,75,208,Texas Rangers,Henrico,VA,MLB
+Jake,Latz,SP,R,L,27,74,185,Texas Rangers,Lemont,IL,MLB
+Jose,Leclerc,RP,R,R,30,72,195,Texas Rangers,Esperanza,Dominican Republic,MLB
+Tyler,Mahle,SP,R,R,29,75,210,Texas Rangers,Newport Beach,CA,MLB
+David,Robertson,RP,R,R,38,71,195,Texas Rangers,Birmingham,AL,MLB
+Yerry,Rodriguez,RP,R,R,26,74,198,Texas Rangers,Santiago,Dominican Republic,MLB
+Josh,Sborz,RP,R,R,30,75,215,Texas Rangers,Washington,DC,MLB
+Max,Scherzer,SP,R,R,39,75,208,Texas Rangers,St. Louis,MO,MLB
+Owen,White,RP,R,R,24,75,199,Texas Rangers,Mount Ulla,NC,MLB
+Cole,Winn,SP,R,R,24,74,190,Texas Rangers,Longmont,CO,MLB
+Kirby,Yates,RP,L,R,36,70,205,Texas Rangers,Lihue,HI,MLB
+Jonah,Heim,C,B,R,28,76,220,Texas Rangers,Buffalo,NY,MLB
+Sam,Huff,C,R,R,26,76,240,Texas Rangers,Phoenix,AZ,MLB
+Andrew,Knizner,C,R,R,28,73,225,Texas Rangers,Glen Allen,VA,MLB
+Ezequiel,Duran,SS,R,R,24,71,185,Texas Rangers,San Juan de la Maguana,Dominican Republic,MLB
+Justin,Foscue,2B,R,R,24,71,205,Texas Rangers,Huntsville,AL,MLB
+Josh,Jung,3B,R,R,25,74,214,Texas Rangers,San Antonio,TX,MLB
+Nathaniel,Lowe,1B,L,R,28,76,220,Texas Rangers,Norfolk,VA,MLB
+Jonathan,Ornelas,3B,R,R,23,72,196,Texas Rangers,Glendale,AZ,MLB
+Corey,Seager,SS,L,R,29,76,215,Texas Rangers,Charlotte,NC,MLB
+Marcus,Semien,2B,R,R,33,72,195,Texas Rangers,San Francisco,CA,MLB
+Josh,Smith,SS,L,R,26,70,172,Texas Rangers,Baton Rouge,LA,MLB
+Evan,Carter,CF,L,R,21,74,190,Texas Rangers,Elizabethton,TN,MLB
+Adolis,Garcia,RF,R,R,30,73,205,Texas Rangers,Ciego de Avila,Cuba,MLB
+Dustin,Harris,OF,L,R,24,75,185,Texas Rangers,Tampa,FL,MLB
+Travis,Jankowski,LF,L,R,32,74,190,Texas Rangers,Lancaster,PA,MLB
+Leody,Taveras,CF,B,R,25,74,195,Texas Rangers,Tenares,Dominican Republic,MLB
+Miguel,Castro,RP,R,R,29,79,201,Arizona Diamondbacks,La Romana,Dominican Republic,MLB
+Slade,Cecconi,SP,R,R,24,76,219,Arizona Diamondbacks,Oviedo,FL,MLB
+Luis,Frias,RP,R,R,25,75,245,Arizona Diamondbacks,Rio San Juan,Dominican Republic,MLB
+Zac,Gallen,SP,R,R,28,74,189,Arizona Diamondbacks,Somerdale,NJ,MLB
+Kevin,Ginkel,RP,L,R,29,76,235,Arizona Diamondbacks,San Diego,CA,MLB
+Tommy,Henry,SP,L,L,26,75,205,Arizona Diamondbacks,Portage,MI,MLB
+Drey,Jameson,RP,R,R,26,72,165,Arizona Diamondbacks,Greenfield,IN,MLB
+Bryce,Jarvis,RP,L,R,26,74,195,Arizona Diamondbacks,Lexington,KY,MLB
+Merrill,Kelly,SP,R,R,35,74,202,Arizona Diamondbacks,Houston,TX,MLB
+Joe,Mantiply,RP,R,L,32,76,219,Arizona Diamondbacks,Danville,VA,MLB
+Corbin,Martin,SP,R,R,28,74,225,Arizona Diamondbacks,Hempstead,TX,MLB
+Justin,Martinez,RP,R,R,22,75,180,Arizona Diamondbacks,Bonao,Dominican Republic,MLB
+Scott,McGough,RP,R,R,34,71,190,Arizona Diamondbacks,Monroeville,PA,MLB
+Kyle,Nelson,RP,L,L,27,73,175,Arizona Diamondbacks,San Francisco,CA,MLB
+Ryne,Nelson,SP,R,R,25,75,184,Arizona Diamondbacks,Henderson,NV,MLB
+Brandon,Pfaadt,SP,R,R,25,76,220,Arizona Diamondbacks,Louisville,KY,MLB
+Chris,Rodriguez,RP,R,R,25,74,185,Arizona Diamondbacks,Coral Springs,FL,MLB
+Eduardo,Rodriguez,SP,L,L,30,74,231,Arizona Diamondbacks,Valencia,Venezuela,MLB
+Andrew,Saalfrank,RP,L,L,26,75,205,Arizona Diamondbacks,Fort Wayne,IN,MLB
+Paul,Sewald,RP,R,R,33,75,219,Arizona Diamondbacks,Las Vegas,NV,MLB
+Collin,Snider,RP,R,R,28,76,195,Arizona Diamondbacks,Nashville,TN,MLB
+Peter,Strzelecki,RP,R,R,29,74,216,Arizona Diamondbacks,Queens,NY,MLB
+Ryan,Thompson,RP,R,R,31,77,210,Arizona Diamondbacks,Turner,OR,MLB
+Blake,Walston,SP,L,L,22,77,175,Arizona Diamondbacks,Wilmington,NC,MLB
+Jose,Herrera,C,B,R,26,70,217,Arizona Diamondbacks,San Carlos,Venezuela,MLB
+Gabriel,Moreno,C,R,R,23,71,195,Arizona Diamondbacks,Barquisimeto,Venezuela,MLB
+Blaze,Alexander,SS,R,R,24,71,160,Arizona Diamondbacks,Cape Coral,FL,MLB
+Jordan,Lawlar,SS,R,R,21,73,190,Arizona Diamondbacks,Carrollton,TX,MLB
+Ketel,Marte,2B,B,R,30,73,210,Arizona Diamondbacks,Nizao,Dominican Republic,MLB
+Geraldo,Perdomo,SS,B,R,24,74,203,Arizona Diamondbacks,Santo Domingo,Dominican Republic,MLB
+Jace,Peterson,3B,L,R,33,72,215,Arizona Diamondbacks,Lake Charles,LA,MLB
+Emmanuel,Rivera,3B,R,R,27,74,225,Arizona Diamondbacks,Mayaguez,Puerto Rico,MLB
+Eugenio,Suarez,3B,R,R,32,71,213,Arizona Diamondbacks,Puerto Ordaz,Venezuela,MLB
+Christian,Walker,1B,R,R,32,72,208,Arizona Diamondbacks,Norristown,PA,MLB
+Jorge,Barrosa,LF,B,L,22,65,165,Arizona Diamondbacks,Puerto Cabello,Venezuela,MLB
+Corbin,Carroll,LF,L,L,23,70,165,Arizona Diamondbacks,Seattle,WA,MLB
+Dominic,Fletcher,CF,L,L,26,66,185,Arizona Diamondbacks,Orange,CA,MLB
+Lourdes,Gurriel,LF,R,R,30,76,215,Arizona Diamondbacks,Sancti Spíritus,Cuba,MLB
+Jake,McCarthy,RF,L,L,26,74,215,Arizona Diamondbacks,Scranton,PA,MLB
+Pavin,Smith,OF,L,L,27,74,208,Arizona Diamondbacks,Jupiter,FL,MLB
+Alek,Thomas,CF,L,L,23,71,175,Arizona Diamondbacks,Chicago,IL,MLB
+Daniel,Bard,RP,R,R,38,76,215,Colorado Rockies,Houston,TX,MLB
+Jalen,Beeks,RP,L,L,30,71,215,Colorado Rockies,Fayetteville,AR,MLB
+Jake,Bird,RP,R,R,28,75,200,Colorado Rockies,Newhall,CA,MLB
+Matt,Carasiti,RP,R,R,32,74,205,Colorado Rockies,New Britain,CT,MLB
+Angel,Chivilli,RP,R,R,21,74,162,Colorado Rockies,La Victoria,Dominican Republic,MLB
+Noah,Davis,SP,R,R,26,74,195,Colorado Rockies,Newport Beach,CA,MLB
+Ryan,Feltner,SP,R,R,27,76,190,Colorado Rockies,Orlando,FL,MLB
+Kyle,Freeland,SP,L,L,30,76,204,Colorado Rockies,Denver,CO,MLB
+Lucas,Gilbreath,RP,L,L,27,73,185,Colorado Rockies,Westminster,CO,MLB
+Austin,Gomber,SP,L,L,30,77,220,Colorado Rockies,Winter Garden,FL,MLB
+Gavin,Hollowell,RP,R,R,26,79,215,Colorado Rockies,Somerset,NJ,MLB
+Dakota,Hudson,SP,R,R,29,77,215,Colorado Rockies,Dunlap,TN,MLB
+Evan,Justice,RP,L,L,25,76,205,Colorado Rockies,Richmond,VA,MLB
+Karl,Kauffmann,SP,R,R,26,74,200,Colorado Rockies,Bloomfield Hills,MI,MLB
+Tyler,Kinley,RP,R,R,32,76,220,Colorado Rockies,Plantation,FL,MLB
+Peter,Lambert,RP,R,R,26,74,208,Colorado Rockies,San Dimas,CA,MLB
+Justin,Lawrence,RP,R,R,29,75,213,Colorado Rockies,Panama City,Panama,MLB
+German,Marquez,SP,R,R,28,73,230,Colorado Rockies,San Felix,Venezuela,MLB
+Nick,Mears,RP,R,R,27,74,200,Colorado Rockies,Sacramento,CA,MLB
+Juan,Mejia,RP,R,R,23,75,200,Colorado Rockies,Santo Domingo,Dominican Republic,MLB
+Anthony,Molina,RP,R,R,22,73,170,Colorado Rockies,San Joaquin,Venezuela,MLB
+Riley,Pint,RP,R,R,26,77,225,Colorado Rockies,Lenexa,KS,MLB
+Cal,Quantrill,SP,L,R,28,75,195,Colorado Rockies,Port Hope,Canada,MLB
+Antonio,Senzatela,SP,R,R,29,73,236,Colorado Rockies,Valencia,Venezuela,MLB
+Victor,Vodnik,RP,R,R,24,72,200,Colorado Rockies,Whittier,CA,MLB
+Elias,Diaz,C,R,R,33,73,223,Colorado Rockies,Maracaibo,Venezuela,MLB
+Jacob,Stallings,C,R,R,34,77,225,Colorado Rockies,Lawrence,KS,MLB
+Adael,Amador,2B,B,R,20,72,200,Colorado Rockies,Santiago,Dominican Republic,MLB
+Warming,Bernabel,SS,R,R,21,73,180,Colorado Rockies,Bani,Dominican Republic,MLB
+Julio,Carreras,3B,R,R,24,73,190,Colorado Rockies,Sabana Grande de Boya,Dominican Republic,MLB
+Harold,Castro,2B,L,R,30,70,195,Colorado Rockies,Caracas,Venezuela,MLB
+Hunter,Goodman,1B,R,R,24,71,210,Colorado Rockies,Arlington,TN,MLB
+Ryan,McMahon,3B,L,R,29,74,219,Colorado Rockies,Yorba Linda,CA,MLB
+Elehuris,Montero,3B,R,R,25,75,235,Colorado Rockies,Santo Domingo,Dominican Republic,MLB
+Brendan,Rodgers,2B,R,R,27,72,204,Colorado Rockies,Winter Park,FL,MLB
+Michael,Toglia,1B,B,L,25,77,226,Colorado Rockies,Phoenix,AZ,MLB
+Ezequiel,Tovar,SS,R,R,22,72,162,Colorado Rockies,Maracay,Venezuela,MLB
+Alan,Trejo,2B,R,R,27,74,205,Colorado Rockies,Los Angeles,CA,MLB
+Sean,Bouchard,LF,R,R,27,75,215,Colorado Rockies,San Diego,CA,MLB
+Kris,Bryant,RF,R,R,32,77,230,Colorado Rockies,Las Vegas,NV,MLB
+Brenton,Doyle,CF,R,R,25,74,200,Colorado Rockies,Warrenton,VA,MLB
+Yanquiel,Fernandez,RF,L,L,21,74,198,Colorado Rockies,Havana,Cuba,MLB
+Nolan,Jones,RF,L,R,25,76,195,Colorado Rockies,Langhorne,PA,MLB
+Charlie,Blackmon,DH,L,L,37,75,221,Colorado Rockies,Dallas,TX,MLB
+Ryan,Brasier,RP,R,R,36,72,223,Los Angeles Dodgers,Wichita Falls,TX,MLB
+Walker,Buehler,SP,R,R,29,74,185,Los Angeles Dodgers,Lexington,KY,MLB
+Caleb,Ferguson,RP,R,L,27,75,226,Los Angeles Dodgers,Columbus,OH,MLB
+J.P.,Feyereisen,RP,R,R,30,74,215,Los Angeles Dodgers,River Falls,WI,MLB
+Nick,Frasso,RP,R,R,25,77,200,Los Angeles Dodgers,Torrance,CA,MLB
+Tyler,Glasnow,SP,L,R,30,80,225,Los Angeles Dodgers,Newhall,CA,MLB
+Tony,Gonsolin,SP,R,R,29,75,205,Los Angeles Dodgers,Vacaville,CA,MLB
+Brusdar,Graterol,RP,R,R,25,73,265,Los Angeles Dodgers,Calabozo,Venezuela,MLB
+Michael,Grove,SP,R,R,27,75,200,Los Angeles Dodgers,Wheeling,WV,MLB
+Kyle,Hurt,SP,R,R,25,75,240,Los Angeles Dodgers,Rancho Santa Fe,CA,MLB
+Joe,Kelly,RP,R,R,35,73,174,Los Angeles Dodgers,Anaheim,CA,MLB
+Landon,Knack,SP,L,R,26,74,220,Los Angeles Dodgers,Johnson City,TN,MLB
+Dustin,May,SP,R,R,26,78,180,Los Angeles Dodgers,Justin,TX,MLB
+Bobby,Miller,SP,L,R,24,77,220,Los Angeles Dodgers,Elk Grove Village,IL,MLB
+Evan,Phillips,RP,R,R,29,74,215,Los Angeles Dodgers,Salisbury,MD,MLB
+Emmet,Sheehan,SP,R,R,24,77,220,Los Angeles Dodgers,New York,NY,MLB
+Gavin,Stone,SP,R,R,25,73,175,Los Angeles Dodgers,Lake City,AR,MLB
+Blake,Treinen,RP,R,R,35,77,225,Los Angeles Dodgers,Wichita,KS,MLB
+Julio,Urias,SP,L,L,27,72,225,Los Angeles Dodgers,Culiacan,Mexico,MLB
+Ricky,Vanasco,SP,R,R,25,75,180,Los Angeles Dodgers,Morriston,FL,MLB
+Gus,Varland,RP,L,R,27,73,213,Los Angeles Dodgers,Maplewood,MN,MLB
+Alex,Vesia,RP,L,L,27,73,209,Los Angeles Dodgers,Alpine,CA,MLB
+Yoshinobu,Yamamoto,SP,R,R,25,70,176,Los Angeles Dodgers,--,NA,MLB
+Ryan,Yarbrough,RP,R,L,32,77,215,Los Angeles Dodgers,Austin,TX,MLB
+Austin,Barnes,C,R,R,34,70,187,Los Angeles Dodgers,Riverside,CA,MLB
+Diego,Cartaya,C,R,R,22,75,219,Los Angeles Dodgers,Maracay,Venezuela,MLB
+Hunter,Feduccia,C,L,R,26,72,215,Los Angeles Dodgers,Lake Charles,LA,MLB
+Will,Smith,C,R,R,28,70,195,Los Angeles Dodgers,Louisville,KY,MLB
+Freddie,Freeman,1B,L,R,34,77,220,Los Angeles Dodgers,Villa Park,CA,MLB
+Enrique,Hernandez,SS,R,R,32,71,195,Los Angeles Dodgers,San Juan,Puerto Rico,MLB
+Gavin,Lux,SS,L,R,26,74,190,Los Angeles Dodgers,Kenosha,WI,MLB
+Max,Muncy,3B,L,R,33,72,215,Los Angeles Dodgers,Midland,TX,MLB
+Miguel,Rojas,SS,R,R,34,72,188,Los Angeles Dodgers,Los Teques,Venezuela,MLB
+Chris,Taylor,SS,R,R,33,73,196,Los Angeles Dodgers,Virginia Beach,VA,MLB
+Miguel,Vargas,2B,R,R,24,75,205,Los Angeles Dodgers,Havana,Cuba,MLB
+Mookie,Betts,RF,R,R,31,69,180,Los Angeles Dodgers,Nashville,TN,MLB
+Teoscar,Hernandez,RF,R,R,31,74,215,Los Angeles Dodgers,Cotui,Dominican Republic,MLB
+Jason,Heyward,RF,L,L,34,77,240,Los Angeles Dodgers,Ridgewood,NJ,MLB
+Manuel,Margot,CF,R,R,29,71,180,Los Angeles Dodgers,San Cristobal,Dominican Republic,MLB
+James,Outman,CF,L,R,26,75,215,Los Angeles Dodgers,Redwood City,CA,MLB
+Andy,Pages,RF,R,R,23,73,212,Los Angeles Dodgers,Havana,Cuba,MLB
+David,Peralta,LF,L,L,36,73,210,Los Angeles Dodgers,Valencia,Venezuela,MLB
+Shohei,Ohtani,DH,L,R,29,76,210,Los Angeles Dodgers,Oshu,Japan,MLB
+Pedro,Avila,RP,R,R,27,71,210,San Diego Padres,Caracas,Venezuela,MLB
+Jhony,Brito,SP,R,R,25,74,210,San Diego Padres,Puerto Plata,Dominican Republic,MLB
+Tom,Cosgrove,RP,L,L,27,74,190,San Diego Padres,Staten Island,NY,MLB
+Yu,Darvish,SP,R,R,37,77,220,San Diego Padres,Osaka,Japan,MLB
+Enyel,De,RP,R,R,28,75,235,San Diego Padres,San Pedro de Macoris,Dominican Republic,MLB
+Jeremiah,Estrada,RP,B,R,25,73,185,San Diego Padres,Indio,CA,MLB
+Logan,Gillaspie,RP,R,R,26,74,215,San Diego Padres,Bakersfield,CA,MLB
+Jay,Groome,SP,L,L,25,78,262,San Diego Padres,Barnegat,NJ,MLB
+Jairo,Iriarte,SP,R,R,22,74,160,San Diego Padres,La Guaira,Venezuela,MLB
+Alek,Jacob,RP,L,R,25,75,190,San Diego Padres,Spokane,WA,MLB
+Michael,King,RP,R,R,28,75,210,San Diego Padres,Rochester,NY,MLB
+Reiss,Knehr,RP,L,R,27,74,205,San Diego Padres,Manhasset,NY,MLB
+Stephen,Kolek,RP,R,R,26,75,210,San Diego Padres,Houston,TX,MLB
+Adrian,Morejon,RP,L,L,24,71,224,San Diego Padres,Havana,Cuba,MLB
+Joe,Musgrove,SP,R,R,31,77,230,San Diego Padres,El Cajon,CA,MLB
+Glenn,Otto,RP,R,R,27,75,240,San Diego Padres,Spring,TX,MLB
+Luis,Patino,SP,R,R,24,73,192,San Diego Padres,Barranquilla,Colombia,MLB
+Sean,Reynolds,RP,L,R,25,80,250,San Diego Padres,Redondo Beach,CA,MLB
+Robert,Suarez,RP,R,R,32,74,210,San Diego Padres,Ciudad Bolivar,Venezuela,MLB
+Randy,Vasquez,SP,R,R,25,72,165,San Diego Padres,Navarrete,Dominican Republic,MLB
+Matt,Waldron,RP,R,R,27,74,185,San Diego Padres,Omaha,NE,MLB
+Steven,Wilson,RP,R,R,29,75,221,San Diego Padres,Littleton,CO,MLB
+Luis,Campusano,C,R,R,25,71,232,San Diego Padres,Augusta,GA,MLB
+Kyle,Higashioka,C,R,R,33,73,202,San Diego Padres,Huntington Beach,CA,MLB
+Brett,Sullivan,C,L,R,29,70,195,San Diego Padres,Stockton,CA,MLB
+Matthew,Batten,2B,R,R,28,70,180,San Diego Padres,Shelton,CT,MLB
+Xander,Bogaerts,SS,R,R,31,74,218,San Diego Padres,Oranjestad,Aruba,MLB
+Jake,Cronenworth,1B,L,R,30,72,187,San Diego Padres,Saint Clair,MI,MLB
+Ha-Seong,Kim,2B,R,R,28,69,168,San Diego Padres,Seoul,South Korea,MLB
+Manny,Machado,3B,R,R,31,75,218,San Diego Padres,Miami,FL,MLB
+Tucupita,Marcano,SS,L,R,24,72,170,San Diego Padres,San Antonio de Maturin,Venezuela,MLB
+Eguy,Rosario,3B,R,R,24,67,150,San Diego Padres,Juan Baron,Dominican Republic,MLB
+Jose,Azocar,RF,R,R,27,71,181,San Diego Padres,Güiria,Venezuela,MLB
+Fernando,Tatis,RF,R,R,25,75,217,San Diego Padres,San Pedro de Macoris,Dominican Republic,MLB
+Tristan,Beck,RP,R,R,27,76,165,San Francisco Giants,Corona,CA,MLB
+Alex,Cobb,SP,R,R,36,75,205,San Francisco Giants,Boston,MA,MLB
+Camilo,Doval,RP,R,R,26,74,185,San Francisco Giants,Yamasa,Dominican Republic,MLB
+Kyle,Harrison,SP,R,L,22,74,200,San Francisco Giants,San Jose,CA,MLB
+Jordan,Hicks,SP,R,R,27,74,220,San Francisco Giants,Houston,TX,MLB
+Sean,Hjelle,RP,R,R,26,83,228,San Francisco Giants,Fridley,MN,MLB
+Luke,Jackson,RP,R,R,32,74,210,San Francisco Giants,Fort Lauderdale,FL,MLB
+Trevor,Mcdonald,SP,R,R,22,74,200,San Francisco Giants,Mobile,AL,MLB
+Erik,Miller,RP,L,L,25,77,240,San Francisco Giants,St. Louis,MO,MLB
+Robbie,Ray,SP,L,L,32,74,225,San Francisco Giants,Brentwood,TN,MLB
+Randy,Rodriguez,RP,R,R,24,72,166,San Francisco Giants,Santo Domingo,Dominican Republic,MLB
+Taylor,Rogers,RP,L,L,33,75,190,San Francisco Giants,Denver,CO,MLB
+Tyler,Rogers,RP,R,R,33,75,181,San Francisco Giants,Denver,CO,MLB
+Kai-Wei,Teng,SP,R,R,25,76,260,San Francisco Giants,Taichung,Taiwan,MLB
+Ryan,Walker,RP,R,R,28,74,200,San Francisco Giants,Arlington,WA,MLB
+Logan,Webb,SP,R,R,27,73,220,San Francisco Giants,Rocklin,CA,MLB
+Keaton,Winn,RP,R,R,25,76,238,San Francisco Giants,Ollie,IA,MLB
+Patrick,Bailey,C,B,R,24,72,210,San Francisco Giants,Greensboro,NC,MLB
+Joey,Bart,C,R,R,27,74,238,San Francisco Giants,Buford,GA,MLB
+Tom,Murphy,C,R,R,32,73,206,San Francisco Giants,West Monroe,NY,MLB
+Blake,Sabol,C,L,R,26,76,225,San Francisco Giants,Aliso Viejo,CA,MLB
+J.D.,Davis,3B,R,R,30,75,218,San Francisco Giants,Elk Grove,CA,MLB
+Thairo,Estrada,2B,R,R,27,70,185,San Francisco Giants,Bejuma,Venezuela,MLB
+Tyler,Fitzgerald,SS,R,R,26,75,205,San Francisco Giants,Springfield,IL,MLB
+Wilmer,Flores,1B,R,R,32,74,213,San Francisco Giants,Valencia,Venezuela,MLB
+Marco,Luciano,SS,R,R,22,73,178,San Francisco Giants,San Francisco de Macoris,Dominican Republic,MLB
+Casey,Schmitt,SS,R,R,24,74,215,San Francisco Giants,San Diego,CA,MLB
+David,Villar,2B,R,R,26,73,215,San Francisco Giants,Atlanta,GA,MLB
+LaMonte,Wade,1B,L,L,30,73,205,San Francisco Giants,Baltimore,MD,MLB
+Brett,Wisely,2B,L,R,24,70,180,San Francisco Giants,Jacksonville,FL,MLB
+Michael,Conforto,RF,L,R,30,73,215,San Francisco Giants,Seattle,WA,MLB
+TJ,Hopkins,CF,R,R,27,73,195,San Francisco Giants,Summerville,SC,MLB
+Cooper,Hummel,OF,B,R,29,70,198,San Francisco Giants,Portland,OR,MLB
+Jung,Hoo,OF,L,R,25,73,192,San Francisco Giants,Nagoya,Japan,MLB
+Luis,Matos,CF,R,R,21,71,160,San Francisco Giants,Valera,Venezuela,MLB
+Wade,Meckler,OF,L,R,23,70,178,San Francisco Giants,Anaheim,CA,MLB
+Heliot,Ramos,LF,R,R,24,73,188,San Francisco Giants,Humacao,Puerto Rico,MLB
+Austin,Slater,LF,R,R,31,73,204,San Francisco Giants,Jacksonville,FL,MLB
+Mike,Yastrzemski,CF,L,L,33,70,178,San Francisco Giants,Andover,MA,MLB
