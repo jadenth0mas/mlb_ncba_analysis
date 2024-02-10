@@ -89,7 +89,8 @@ The logistic regression model formula was
 $$p(X)=\frac{e^{\beta_0+\beta_1HT_i+\beta_2WT_i}}{1+e^{\beta_0+HT_i+WT_i}}; i=1,...,n$$
 
 The fitted model was
-$$\hat{p_i}=logit(-19.109369+0.136833*HT_i+0.047340*WT_i); i=1,...,n$$
+
+$\hat{p_i}=logit(-19.109369+0.136833*HT_i+0.047340*WT_i); i=1,...,n$
 
 <a id="item-seven"></a>
 
