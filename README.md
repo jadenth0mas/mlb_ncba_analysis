@@ -1,4 +1,4 @@
-# MLB and Club Classification
+# MLB and NCBA Classification
 
 **Table of Contents:**<br>
 -- [Tools Used](#item-one)<br>
@@ -16,7 +16,7 @@
 
 ## Tools Used
 
-The tool used for this project is R.
+The tool used for this project was R.
 
 The R library dependencies are tidyverse, rvest, rmarkdown, ggthemes, verification, MASS, e1071, class, neuralnet, and purrr.
 
@@ -25,7 +25,7 @@ The R library dependencies are tidyverse, rvest, rmarkdown, ggthemes, verificati
 
 ## Project Description
 
-To determine the level of baseball an individual plays at, either MLB (Major League Baseball) or NCBA (National Club Baseball Association), many classification models based on HT and WT were created, including KNN, logistic regression, linear discriminant analysis, quadratic discriminant analysis, Naive Bayes, and a neural network. The data for the model was obtained by scraping from the NCBA and ESPN MLB websites and cleaning it. Visualizations and a dashboard were created to show the differences between individual players from each of the two leagues, and classification models were fit, resulting in the final model of a logistic regression model, chosen by accuracy.
+To determine the level of baseball an individual plays at, either MLB (Major League Baseball) or NCBA (National Club Baseball Association), many classification models based on HT and WT were created, including KNN, logistic regression, linear discriminant analysis, quadratic discriminant analysis, Naive Bayes, and a neural network. The data for the model was obtained by scraping from the NCBA and ESPN MLB websites and cleaning it. Visualizations and were created to show the differences between individual players from each of the two leagues, and classification models were fit, resulting in the final model of a logistic regression model, chosen by model accuracy.
 
 
 <a id="item-three"></a>
