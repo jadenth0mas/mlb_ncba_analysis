@@ -103,7 +103,7 @@ All coefficients were significant under a 95% hypothesis test.
 
 ## Conlusion
 
-As the prediction results from the logistic regression show, predicting the level at which an individual play baseball at, either MLB or Club, can be done at a relatively high rate with just the height and weight of the players as independent variables using logistic regression.
+As the prediction results from the logistic regression show, predicting the level at which an individual plays baseball at, either MLB or Club, can be done at a relatively high rate with just the height and weight of the players as independent variables using logistic regression.
 
 <a id="item-nine"></a>
 
