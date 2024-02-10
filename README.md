@@ -1,10 +1,3 @@
----
-title: README
-author: Jaden Thomas
-output:
-  html_document: default
-  pdf_document: default
----
 # MLB and Club Classification
 
 **Table of Contents:**<br>
